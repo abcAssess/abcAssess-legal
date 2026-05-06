@@ -1,5 +1,5 @@
 # Privacy Policy for abcAssess
-### &nbsp;&nbsp;&nbsp;&nbsp;Last Updated: May 5, 2026
+#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Last Updated: May 5, 2026
 ---
 ## 1. Our Commitment to Student Privacy
 ### abcAssess is built specifically for educators. We operate as a "School Official" under the Family Educational Rights and Privacy Act (FERPA) in the US and as a "Data Processor" under GDPR/UK GDPR. We do not sell student data, use it for behavioral advertising, or build marketing profiles of children.
@@ -49,4 +49,4 @@
 *	**Inactivity:** Accounts inactive for 12 months will be scheduled for deletion after a 30-day email notice.
 ---
 ## 9. Contact Information
-### &nbsp;&nbsp;Email: *noreply.abcassess@gmail.com*
+#### &nbsp;&nbsp;&nbsp;&nbsp;Email: *noreply.abcassess@gmail.com*
