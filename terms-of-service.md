@@ -1,15 +1,15 @@
 ---
 layout: default
-title: Terms of Service
-description: abcAssess
-
+title: abcAssess Terms of Service
+description: Updated May 5, 2026
 ---
 
-*Updated May 5, 2026*
+<style>
+  .btn { display: none !important; }
+  header .project-tagline { margin-bottom: 2rem; }
+</style>
 
----
-
-[Privacy Policy](privacy-policy.md) | [Technical and Privacy FAQs](technical-and-privacy-faqs.md) | [User Guide](User-guide.md) | [Return to Support Hub](index.md)
+***Go To*** &nbsp;&nbsp; [Privacy Policy](privacy-policy.md) &nbsp; | &nbsp; [Technical and Privacy FAQs](technical-and-privacy-faqs.md) &nbsp;|&nbsp; [User Guide](User-guide.md) &nbsp;|&nbsp; [Return to Support Hub](index.md)
 
 ---
 
