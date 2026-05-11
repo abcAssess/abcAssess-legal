@@ -1,6 +1,8 @@
 # Terms of Service for abcAssess
 #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Last Updated: May 5, 2026
 ---
+#### See also: [Privacy Policy](privacy-policy.md) | [Technical and Privacy FAQs](technical-and-privacy-faqs.md) | [User Guide](User-guide.md)
+---
 ## 1. Acceptance of Terms
 ### By creating an account or using abcAssess, you agree to be bound by these Terms of Service. If you do not agree, you may not use the application.
 ---
@@ -35,3 +37,5 @@
 ---
 ## 8. Governing Law
 ### These terms are governed by the laws of North Dakota/USA without regard to its conflict of law principles.
+---
+#### See also: [Privacy Policy](privacy-policy.md) | [Technical and Privacy FAQs](technical-and-privacy-faqs.md) | [User Guide](User-guide.md)
