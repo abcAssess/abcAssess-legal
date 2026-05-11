@@ -4,7 +4,7 @@
 #### See also: [Privacy Policy](privacy-policy.md) | [Technical and Privacy FAQs](technical-and-privacy-faqs.md) | [User Guide](User-guide.md)
 ---
 ## 1. Acceptance of Terms
-### By creating an account or using abcAssess, you agree to be bound by these Terms of Service. If you do not agree, you may not use the application.
+#### By creating an account or using abcAssess, you agree to be bound by these Terms of Service. If you do not agree, you may not use the application.
 ---
 ## 2. Eligibility and Authority
 ### &nbsp;&nbsp;&nbsp;&nbsp;abcAssess is a tool for professional educators. By using this service, you warrant that: 
@@ -33,7 +33,7 @@
 *	**By Us:** We reserve the right to suspend or terminate your account if you violate these terms or if the service is discontinued.
 ---
 ## 7. Changes to Terms
-### We may update these terms from time to time. We will notify you of significant changes via the email address associated with your account. Continued use of the app after such changes constitutes acceptance of the new terms.
+#### We may update these terms from time to time. We will notify you of significant changes via the email address associated with your account. Continued use of the app after such changes constitutes acceptance of the new terms.
 ---
 ## 8. Governing Law
 ### These terms are governed by the laws of North Dakota/USA without regard to its conflict of law principles.
