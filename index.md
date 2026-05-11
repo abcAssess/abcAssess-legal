@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "abcAssess Legal Center"
-description: "Documentation and Compliance for Educators"
+title: "abcAssess Support Center"
+description: Policies and FAQs
 ---
 
 <style>
@@ -23,7 +23,7 @@ Please select a document below:
 * [**Privacy Policy**](privacy-policy.md) &nbsp;&nbsp; | &nbsp;&nbsp; [**Terms of Service**](terms-of-service.md)
 
 ### **Support & Compliance**
-* [**Technical & Privacy FAQs**](technical-and-privacy-faqs.md) &nbsp;&nbsp; | &nbsp;&nbsp; [**User Guide**](user-guide.md)
+* [**Technical & Privacy FAQs**](technical-and-privacy-faqs.md) &nbsp;&nbsp; | &nbsp;&nbsp; [**User Guide**](User-guide.md)
 
 ---
 
