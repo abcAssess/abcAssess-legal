@@ -27,7 +27,6 @@
 * **Sentry:** For anonymous technical debugging.
 ---
 ## 5. Data Portability, Backups, and Exports
-### 
 * **PDF Reports:** Teachers may generate PDF reports. These are generated in-memory and streamed directly to the user; we do not store copies of these reports on our servers.
 * **Data Backups:** Teachers may download a backup of their account data, including classes, students, and assessment results. These backups are downloaded locally by the use and no copies are stored in our servers.
 * **Data Responsibility:** Once data is exported or downloaded, the teacher or school assumes responsibility for its secure storage in accordance with local policies.
@@ -39,13 +38,11 @@
 * **Withdrawal of Consent:** The right to stop processing by deleting your account. 
 ---
 ## 7. Legal Compliance (FERPA & COPPA)
-### 
 *	**FERPA:** We act as a service provider; the school/teacher retains ownership of student records.
 *	**COPPA:** We rely on the teacher or school to provide consent on behalf of parents for the collection of minimal student identifiers for educational purposes. 
 *	**Teacher Warranty:** By using abcAssess, you warrant that you have the authority from your school/district to use this tool and enter student data.
 ---
 ## 8. Data Retention & "Cascade Deletion"
-### 
 *	**Right to Delete:** Teachers can delete records or their account at any time in App Settings. 
 *	**Cascade Deletion:** Upon account deletion, our system immediately triggers a "Cascade Delete," which permanently wipes all teacher profile data and all associated student records from our database. 
 *	**Inactivity:** Accounts inactive for 12 months will be scheduled for deletion after a 30-day email notice.
