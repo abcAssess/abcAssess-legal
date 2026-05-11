@@ -1,11 +1,10 @@
-<center>
-  
-# Terms of Service for abcAssess
-***Last Updated: May 5, 2026*** 
+---
+layout: default
+title: Terms of Service
+description: Updated May 5, 2026
+---
 
 [Privacy Policy](privacy-policy.md) | [Technical and Privacy FAQs](technical-and-privacy-faqs.md) | [User Guide](User-guide.md)
-
-</center>
 
 ---
 
