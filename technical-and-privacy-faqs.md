@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Technical and Privacy FAQs
-description: abcAssess
+title: abcAssess Technical FAQs
+description: Updated May 5, 2026
 ---
 
 <style>
@@ -9,7 +9,7 @@ description: abcAssess
   header .project-tagline { margin-bottom: 2rem; }
 </style>
 
-[Privacy Policy](privacy-policy.md) | [Terms of Service](terms-of-service.md) | [User Guide](User-guide.md) | [Return to Support Hub](index.md)
+[Privacy Policy](privacy-policy.md) &nbsp; - &nbsp; [Terms of Service](terms-of-service.md) &nbsp; - &nbsp; [User Guide](User-guide.md) &nbsp; - &nbsp; [Return to Support Center](index.md)
 
 ---
 
@@ -69,5 +69,6 @@ description: abcAssess
 
 ---
   
-[Privacy Policy](privacy-policy.md) | [Terms of Service](terms-of-service.md) | [User Guide](User-guide.md) | [Return to Support Hub](index.md)
+[Privacy Policy](privacy-policy.md) &nbsp; - &nbsp; [Terms of Service](terms-of-service.md) &nbsp; - &nbsp; [User Guide](User-guide.md) &nbsp; - &nbsp; [Return to Support Center](index.md)
+
 
