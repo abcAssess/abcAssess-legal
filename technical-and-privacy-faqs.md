@@ -4,6 +4,11 @@ title: Technical and Privacy FAQs
 description: abcAssess
 ---
 
+<style>
+  .btn { display: none !important; }
+  header .project-tagline { margin-bottom: 2rem; }
+</style>
+
 [Privacy Policy](privacy-policy.md) | [Terms of Service](terms-of-service.md) | [User Guide](User-guide.md) | [Return to Support Hub](index.md)
 
 ---
