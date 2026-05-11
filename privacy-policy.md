@@ -7,7 +7,7 @@
 ---
 ## 2. Information We Collect (Data Minimization)
 ### &nbsp;&nbsp;We apply a strict "Data Minimization" policy, collecting only what is essential for educational assessment: 
-* **Teacher Account Data:** We use Google Sign-In and Sign in with Apple. We collect your provider-provided name, email address, and unique identifier.
+* **Teacher Account Data:** We use local sign-in, Google Sign-In and Sign in with Apple. We collect your provider-provided name, email address, and unique identifier.
 * **Student Assessment Data:** Teachers may enter student First Names and Birth Month/Year. This data is used solely to calculate age for assessment accuracy and avoids the collection of exact birth dates.
 * **Media Exclusion:** We do not collect, request, or store any student photos, videos, or audio recordings.
 * **Technical Logs:** We collect non-identifiable diagnostic data to maintain app stability.
