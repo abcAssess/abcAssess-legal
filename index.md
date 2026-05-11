@@ -15,10 +15,12 @@ Welcome to the **abcAssess** legal and support center. We are committed to data 
 Please select a document below to learn more about how we protect your privacy and how to make the most of the abcAssess tool:
 
 ### **Legal Documents**
-* [**Privacy Policy**](privacy-policy.md) &nbsp;&nbsp; - &nbsp;&nbsp; [**Terms of Service**](terms-of-service.md)
+* [**Privacy Policy**](privacy-policy.md)
+* [**Terms of Service**](terms-of-service.md)
 
 ### **Support & Compliance**
-* [**Technical & Privacy FAQs**](technical-and-privacy-faqs.md) &nbsp;&nbsp; - &nbsp;&nbsp; [**User Guide**](User-guide.md)
+* [**Technical & Privacy FAQs**](technical-and-privacy-faqs.md)
+* [**User Guide**](User-guide.md)
 
 ---
 
@@ -26,6 +28,7 @@ Please select a document below to learn more about how we protect your privacy a
 
 Questions, comments, or ideas to make this tool more useful? 
 
-Email us at  
-[hello@abcassess.app](mailto:hello@abcassess.app)
+Email us at [hello@abcassess.app](mailto:hello@abcassess.app)
+
+We read all messages.
 
