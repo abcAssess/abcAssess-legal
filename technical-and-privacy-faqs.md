@@ -1,10 +1,10 @@
 ---
 layout: default
 title: Technical and Privacy FAQs
-description: abcAssess <br> *Updated May 5, 2026*
+description: abcAssess
 ---
 
-***See also:*** [Privacy Policy](privacy-policy.md) | [Terms of Service](terms-of-service.md) | [User Guide](User-guide.md)
+[Privacy Policy](privacy-policy.md) | [Terms of Service](terms-of-service.md) | [User Guide](User-guide.md) | [Return to Support Hub](index.md)
 
 ---
 
@@ -64,5 +64,5 @@ description: abcAssess <br> *Updated May 5, 2026*
 
 ---
   
-***See also:*** [Privacy Policy](privacy-policy.md) | [Terms of Service](terms-of-service.md) | [User Guide](User-guide.md)
+[Privacy Policy](privacy-policy.md) | [Terms of Service](terms-of-service.md) | [User Guide](User-guide.md) | [Return to Support Hub](index.md)
 
