@@ -1,10 +1,10 @@
-<div align="center">
-  
-# Technical and Privacy Frequently Asked Questions (FAQs) 
+---
+layout: default
+title: Technical and Privacy FAQs
+description: Updated May 5, 2026
+---
 
-#### See also: [Privacy Policy](privacy-policy.md) | [Terms of Service](terms-of-service.md) | [User Guide](User-guide.md)
-
-</div>
+#### [Privacy Policy](privacy-policy.md) | [Terms of Service](terms-of-service.md) | [User Guide](User-guide.md)
 
 ---
 
