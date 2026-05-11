@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Terms of Service
-description: abcAssess
+title: abcAssess Terms of Service
+description: Updated May 5, 2026
 ---
 
 <style>
@@ -10,10 +10,6 @@ description: abcAssess
 </style>
 
 [Return to Support Center](index.md)
-
----
-
-*Updated May 5, 2026*
 
 ---
 
