@@ -4,6 +4,11 @@ title: User Guide
 description: abcAssess 
 ---
 
+<style>
+  .btn { display: none !important; }
+  header .project-tagline { margin-bottom: 2rem; }
+</style>
+
 Coming Soon
 
 ---
