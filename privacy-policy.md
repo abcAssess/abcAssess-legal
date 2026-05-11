@@ -1,5 +1,6 @@
 # Privacy Policy for abcAssess
-#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Last Updated: May 5, 2026
+##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Last Updated: May 5, 2026
+#### See also: [Technical and Privacy FAQs](technical-and-privacy-faqs.md) | [Terms of Service](terms-of-service.md) | [User Guide](User-guide.md)
 ---
 ## 1. Our Commitment to Student Privacy
 ### abcAssess is built specifically for educators. We operate as a "School Official" under the Family Educational Rights and Privacy Act (FERPA) in the US and as a "Data Processor" under GDPR/UK GDPR. We do not sell student data, use it for behavioral advertising, or build marketing profiles of children.
@@ -50,3 +51,5 @@
 ---
 ## 9. Contact Information
 #### &nbsp;&nbsp;&nbsp;&nbsp;Email: *noreply.abcassess@gmail.com*
+---
+#### See also: [Technical and Privacy FAQs](technical-and-privacy-faqs.md) | [Terms of Service](terms-of-service.md) | [User Guide](User-guide.md)
