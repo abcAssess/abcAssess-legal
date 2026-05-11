@@ -1,10 +1,10 @@
 ---
 layout: default
-title: abcAssess Privacy Policy
-description: Updated May 5, 2026
+title: Privacy Policy
+description: abcAssess <br> *Updated May 5, 2026*
 ---
 
-***See also:*** [Technical and Privacy FAQs](technical-and-privacy-faqs.md)  [Terms of Service](terms-of-service.md)  [User Guide](User-guide.md)  [Return to Support Hub](index.md)
+***See also:*** [Technical and Privacy FAQs](technical-and-privacy-faqs.md) - [Terms of Service](terms-of-service.md) - [User Guide](User-guide.md) - [Return to Support Hub](index.md)
 
 ---
 
