@@ -1,5 +1,7 @@
 # Technical and Privacy Frequently Asked Questions (FAQs) 
 ---
+#### See also: [Privacy Policy](privacy-policy.md) | [Terms of Service](terms-of-service.md) | [User Guide](User-guide.md)
+---
 ## 1. Is abcAssess FERPA and COPPA compliant?
 ### *Yes.* 
 #### We act as a "School Official" under FERPA, and we assist schools in COPPA compliance by practicing strict Data Minimization. We do not collect student full names, exact birthdays, or any media like photos or videos.
@@ -28,3 +30,4 @@
 ### *Yes.* 
 #### You can record assessments offline, and the data will sync to our secure servers once you have a stable internet connection.
 ---
+#### See also: [Privacy Policy](privacy-policy.md) | [Terms of Service](terms-of-service.md) | [User Guide](User-guide.md)
