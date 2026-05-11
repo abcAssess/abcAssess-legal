@@ -1,3 +1,5 @@
+<div align="center">
+
 # abcAssess-legal
 
 [Privacy Policy](privacy-policy.md)
@@ -7,3 +9,5 @@
 [Terms of Service](terms-of-service.md)
 
 [User Guide](User-guide.md)
+
+</div>
