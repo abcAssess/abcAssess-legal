@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Technical and Privacy FAQs
+title: abcAssess Technical and Privacy FAQs
 description: Updated May 5, 2026
 ---
 
-#### [Privacy Policy](privacy-policy.md) | [Terms of Service](terms-of-service.md) | [User Guide](User-guide.md)
+***See also:*** [Privacy Policy](privacy-policy.md) | [Terms of Service](terms-of-service.md) | [User Guide](User-guide.md)
 
 ---
 
@@ -63,10 +63,6 @@ description: Updated May 5, 2026
 #### You can record assessments offline, and the data will sync to our secure servers once you have a stable internet connection.
 
 ---
-
-<div align="center">
   
-#### See also: [Privacy Policy](privacy-policy.md) | [Terms of Service](terms-of-service.md) | [User Guide](User-guide.md)
-
-</div>
+***See also:*** [Privacy Policy](privacy-policy.md) | [Terms of Service](terms-of-service.md) | [User Guide](User-guide.md)
 
