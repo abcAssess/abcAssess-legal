@@ -4,7 +4,11 @@ title: Privacy Policy
 description: Updated May 5, 2026
 ---
 
+<center>
+
 [Technical and Privacy FAQs](technical-and-privacy-faqs.md) | [Terms of Service](terms-of-service.md) | [User Guide](User-guide.md)
+  
+</center>
 
 ---
 
