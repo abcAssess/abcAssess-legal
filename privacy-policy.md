@@ -9,7 +9,15 @@ description: abcAssess
   header .project-tagline { margin-bottom: 2rem; }
 </style>
 
-[Technical and Privacy FAQs](technical-and-privacy-faqs.md) &nbsp; - &nbsp; [Terms of Service](terms-of-service.md) &nbsp; - &nbsp; [User Guide](User-guide.md) &nbsp; - &nbsp; [Return to Support Center](index.md)
+[Return to Support Center](index.md)
+
+
+***Go To***
+
+
+[Technical FAQs](technical-and-privacy-faqs.md) &nbsp;-&nbsp; [Terms of Service](terms-of-service.md) &nbsp;-&nbsp; [User Guide](User-guide.md) 
+
+---
 
 *Updated May 5, 2026*
 
@@ -94,6 +102,8 @@ description: abcAssess
 
 ---
 
-[Technical and Privacy FAQs](technical-and-privacy-faqs.md) &nbsp; - &nbsp; [Terms of Service](terms-of-service.md) &nbsp; - &nbsp; [User Guide](User-guide.md) &nbsp; - &nbsp; [Return to Support Center](index.md)
+[Technical FAQs](technical-and-privacy-faqs.md) &nbsp;-&nbsp; [Terms of Service](terms-of-service.md) &nbsp;-&nbsp; [User Guide](User-guide.md)
+
+[Return to Support Center](index.md)
 
 
