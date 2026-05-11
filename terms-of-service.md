@@ -17,7 +17,7 @@
 
 ## 2. Eligibility and Authority
 
-### abcAssess is a tool for professional educators. By using this service, you warrant that:
+### abcAssess is a tool for professional educators. By using this service, you warrant that: 
 
 * You are an authorized representative of a school or educational institution.
 * You have the legal authority to enter student data into this application in accordance with your local school district’s policies and national laws (such as FERPA or GDPR).
@@ -33,7 +33,7 @@
 
 ## 4. User Responsibilities and Prohibited Use
 
-### You agree not to:
+### You agree not to: 
 
 *	Store highly sensitive PII (Personally Identifiable Information) such as Social Security numbers or full medical records. 
 *	Attempt to bypass the application's security or encryption layers.
@@ -43,7 +43,7 @@
 ---
 ## 5. Limitation of Liability
 
-### abcAssess is provided on an "as-is" and "as-available" basis. To the maximum extent permitted by law:
+### abcAssess is provided on an "as-is" and "as-available" basis. To the maximum extent permitted by law: 
 
 *	We do not guarantee that the service will be uninterrupted or error-free.
 *	We are not liable for any data loss, inaccuracies in assessment results, or any disciplinary actions taken by your school or district resulting from the use of this app. 
@@ -60,7 +60,7 @@
 
 ## 7. Changes to Terms
 
-### We may update these terms from time to time.
+### We may update these terms from time to time. 
 
 * We will notify you of significant changes via the email address associated with your account. 
 * Continued use of the app after such changes constitutes acceptance of the new terms.
@@ -69,7 +69,7 @@
 
 ## 8. Governing Law
 
-### These terms are governed by the laws of North Dakota/USA without regard to its conflict of law principles.
+### These terms are governed by the laws of North Dakota/USA without regard to its conflict of law principles. 
 
 ---
 
