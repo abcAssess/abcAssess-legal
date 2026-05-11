@@ -30,6 +30,6 @@ Please select a document below:
 <center>
 
 **Contact Support** Questions about compliance? Email us at  
-[noreply.abcassess@gmail.com](mailto:noreply.abcassess@gmail.com)
+[hello@abcassess.app](mailto:hello@abcassess.app)
 
 </center>
