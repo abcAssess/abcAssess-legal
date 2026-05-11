@@ -3,9 +3,11 @@ layout: default
 title: abcAssess Legal and Support
 description: Documentation and Compliance for Educators
 ---
+
 <style>
   .btn { display: none !important; }
 </style>
+
 
 Welcome to the **abcAssess** legal and support hub. We are committed to data privacy and transparency for teachers and schools. Please select a document below:
 
