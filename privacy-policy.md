@@ -1,13 +1,15 @@
 ---
 layout: default
-title: abcAssess Privacy Policy
-description: Updated May 5, 2026
+title: abcAssess
+description: Privacy Policy
 ---
 
 <style>
   .btn { display: none !important; }
   header .project-tagline { margin-bottom: 2rem; }
 </style>
+
+***Updated May 5, 2026***
 
 [Technical and Privacy FAQs](technical-and-privacy-faqs.md) &nbsp; - &nbsp; [Terms of Service](terms-of-service.md) &nbsp; - &nbsp; [User Guide](User-guide.md) &nbsp; - &nbsp; [Return to Support Center](index.md)
 
@@ -88,7 +90,7 @@ description: Updated May 5, 2026
 
 ## 9. Contact Information
 
-#### &nbsp;&nbsp;&nbsp;&nbsp;Email: *noreply.abcassess@gmail.com*
+#### &nbsp;&nbsp;&nbsp;&nbsp;Email: *hello@abcassess.app*
 
 ---
 
