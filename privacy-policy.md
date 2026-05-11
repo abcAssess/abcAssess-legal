@@ -1,7 +1,7 @@
 ---
 layout: default
-title: abcAssess
-description: Privacy Policy
+title: Privacy Policy
+description: abcAssess
 ---
 
 <style>
@@ -9,9 +9,9 @@ description: Privacy Policy
   header .project-tagline { margin-bottom: 2rem; }
 </style>
 
-***Updated May 5, 2026***
-
 [Technical and Privacy FAQs](technical-and-privacy-faqs.md) &nbsp; - &nbsp; [Terms of Service](terms-of-service.md) &nbsp; - &nbsp; [User Guide](User-guide.md) &nbsp; - &nbsp; [Return to Support Center](index.md)
+
+***Updated May 5, 2026***
 
 ---
 
