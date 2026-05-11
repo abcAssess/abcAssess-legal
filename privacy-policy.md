@@ -91,6 +91,6 @@ description: Updated May 5, 2026
 
 ---
 
-[Technical and Privacy FAQs](technical-and-privacy-faqs.md) | [Terms of Service](terms-of-service.md) | [User Guide](User-guide.md)
+*See also* [Technical and Privacy FAQs](technical-and-privacy-faqs.md) | [Terms of Service](terms-of-service.md) | [User Guide](User-guide.md)
 
 
