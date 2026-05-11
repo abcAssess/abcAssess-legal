@@ -9,10 +9,6 @@ description: abcAssess
   header .project-tagline { margin-bottom: 2rem; }
 </style>
 
-***Go To***
-
-[Privacy Policy](privacy-policy.md) &nbsp;-&nbsp; [Technical FAQs](technical-and-privacy-faqs.md) &nbsp; - &nbsp; [User Guide](User-guide.md)
-
 [Return to Support Center](index.md)
 
 ---
@@ -86,5 +82,6 @@ description: abcAssess
 
 ---
 
-[Privacy Policy](privacy-policy.md) &nbsp; - &nbsp; [Technical and Privacy FAQs](technical-and-privacy-faqs.md) &nbsp; - &nbsp; [User Guide](User-guide.md) &nbsp; - &nbsp; [Return to Support Center](index.md)
+[Privacy Policy](privacy-policy.md) &nbsp; - &nbsp; [Technical FAQs](technical-and-privacy-faqs.md) &nbsp; - &nbsp; [User Guide](User-guide.md) 
+[Return to Support Center](index.md)
 
