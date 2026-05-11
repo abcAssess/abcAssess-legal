@@ -1,10 +1,8 @@
 ---
 layout: default
 title: Privacy Policy
-description: How we protect student data.
+description: Updated May 5, 2026
 ---
-
-***Last Updated: May 5, 2026***
 
 [Technical and Privacy FAQs](technical-and-privacy-faqs.md) | [Terms of Service](terms-of-service.md) | [User Guide](User-guide.md)
 
@@ -89,9 +87,6 @@ description: How we protect student data.
 
 ---
 
-<div align="center">
-  
-#### See also: [Technical and Privacy FAQs](technical-and-privacy-faqs.md) | [Terms of Service](terms-of-service.md) | [User Guide](User-guide.md)
+[Technical and Privacy FAQs](technical-and-privacy-faqs.md) | [Terms of Service](terms-of-service.md) | [User Guide](User-guide.md)
 
-</div>
 
