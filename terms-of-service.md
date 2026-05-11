@@ -5,7 +5,7 @@ description: Last updated May 5, 2026
 
 ---
 
-***See also:*** [Privacy Policy](privacy-policy.md) | [Technical and Privacy FAQs](technical-and-privacy-faqs.md) | [User Guide](User-guide.md)
+    ***See also:***     [Privacy Policy](privacy-policy.md) | [Technical and Privacy FAQs](technical-and-privacy-faqs.md) | [User Guide](User-guide.md)
 
 ---
 
