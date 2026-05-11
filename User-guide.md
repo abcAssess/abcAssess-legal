@@ -1,17 +1,11 @@
-<div align="center">
+---
+layout: default
+title: User Guide
+description: abcAssess 
+---
 
-# abcAssess User Guide and FAQs
-
-## ***coming soon***
-
-#### please check back
-
-</div>
+Coming Soon
 
 ---
 
-<div align="center">
-
-#### See also: [Technical and Privacy FAQs](technical-and-privacy-faqs.md) | [Terms of Service](terms-of-service.md) | [Privacy Policy](privacy-policy.md)
-
-</div>
+***Go To*** - [Technical and Privacy FAQs](technical-and-privacy-faqs.md)  -  [Terms of Service](terms-of-service.md) - [Privacy Policy](privacy-policy.md) - [Return to Support Hub](index.md)
