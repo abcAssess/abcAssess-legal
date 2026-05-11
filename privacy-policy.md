@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Privacy Policy
-description: abcAssess
+title: abcAssess Privacy Policy
+description: Updated May 5, 2026
 ---
 
 <style>
@@ -10,16 +10,6 @@ description: abcAssess
 </style>
 
 [Return to Support Center](index.md)
-
-
-***Go To***
-
-
-[Technical FAQs](technical-and-privacy-faqs.md) &nbsp;-&nbsp; [Terms of Service](terms-of-service.md) &nbsp;-&nbsp; [User Guide](User-guide.md) 
-
----
-
-*Updated May 5, 2026*
 
 ---
 
