@@ -1,4 +1,4 @@
-<div align="center">
+<center>
   
 # Terms of Service for abcAssess
 
@@ -6,7 +6,7 @@
 
 #### See also: [Privacy Policy](privacy-policy.md) | [Technical and Privacy FAQs](technical-and-privacy-faqs.md) | [User Guide](User-guide.md)
 
-</div>
+</center>
 
 ---
 
