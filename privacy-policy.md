@@ -88,7 +88,7 @@ description: Updated May 5, 2026
 
 ## 9. Contact Information
 
-#### &nbsp;&nbsp;&nbsp;&nbsp;Email: *hello@abcassess.app*
+#### &nbsp;&nbsp;&nbsp;&nbsp;E-mail:[hello@abcassess.app](mailto:hello@abcassess.app)
 
 ---
 
