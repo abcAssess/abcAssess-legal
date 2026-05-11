@@ -73,9 +73,5 @@ description: Updated May 5, 2026
 
 ---
 
-<div align="center">
-
 #### See also: [Privacy Policy](privacy-policy.md) | [Technical and Privacy FAQs](technical-and-privacy-faqs.md) | [User Guide](User-guide.md)
-
-</div>
 
