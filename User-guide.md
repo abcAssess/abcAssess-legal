@@ -13,4 +13,4 @@ Coming Soon
 
 ---
 
-***Go To*** - [Technical and Privacy FAQs](technical-and-privacy-faqs.md)  -  [Terms of Service](terms-of-service.md) - [Privacy Policy](privacy-policy.md) - [Return to Support Hub](index.md)
+***Go To*** - [Technical and Privacy FAQs](technical-and-privacy-faqs.md) &nbsp; - &nbsp; [Terms of Service](terms-of-service.md) &nbsp; - &nbsp; [Privacy Policy](privacy-policy.md) &nbsp; - &nbsp; [Return to Support Center](index.md)
