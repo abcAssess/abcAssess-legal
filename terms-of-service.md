@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Terms of Service
+title: abcAssess Terms of Service
 description: Last updated May 5, 2026
 
 ---
