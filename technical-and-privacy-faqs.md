@@ -1,7 +1,7 @@
 ---
 layout: default
-title: abcAssess Technical FAQs
-description: Updated May 5, 2026
+title: Technical FAQs
+description: abcAssess
 ---
 
 <style>
