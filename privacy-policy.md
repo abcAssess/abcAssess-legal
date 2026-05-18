@@ -1,7 +1,7 @@
 ---
 layout: default
-title: abcAssess Privacy Policy
-logo: "{{ '/assets/images/full_logo.png' | relative_url }}"
+title: Privacy Policy
+description: Updated May 18, 2026
 ---
 
 <style>
