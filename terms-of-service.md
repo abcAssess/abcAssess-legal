@@ -1,7 +1,6 @@
 ---
 layout: default
 title: abcAssess Terms of Service
-description: Updated May 18, 2026
 icon: "{{ '/assets/images/full_logo.png' | relative_url }}"
 ---
 <p align="center">
