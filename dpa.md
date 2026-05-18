@@ -1,8 +1,7 @@
 ---
 layout: default
-title: abcAssess Data Processing Agreement (DPA)
+title: Data Processing Agreement (DPA)
 description: Updated May 18, 2026
-icon: "/assets/images/full_logo.png"
 ---
 
 <style>
