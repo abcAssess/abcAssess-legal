@@ -10,25 +10,20 @@
   <body>
     <a id="skip-to-content" href="#content">Skip to the content.</a>
 
-    <header class="page-header" role="banner">
-      <!-- Your Logo Path Updated -->
-      <img src="{{ '/assets/images/logofull.png' | relative_url }}" alt="Logo" class="hero-logo">
-      
-      <!-- Site Name -->
-      <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
-      
-      <!-- Description -->
-      <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
-      
-      <!-- Action Buttons -->
-      {% if site.github.is_project_page %}
-        <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
-      {% endif %}
-      {% if site.show_downloads %}
-        <a href="{{ site.github.zip_url }}" class="btn">Download .zip</a>
-        <a href="{{ site.github.tar_url }}" class="btn">Download .tar.gz</a>
-      {% endif %}
-    </header>
+   <header class="page-header" role="banner">
+  <!-- Centered logo at the top with your exact path -->
+  <img src="{{ '/assets/images/logofull.png' | relative_url }}" alt="Logo" class="hero-logo">
+  
+  <h1 class="project-name">{{ site.title | default: site.github.repository_name }}</h1>
+  <h2 class="project-tagline">{{ site.description | default: site.github.project_tagline }}</h2>
+  
+  {% if site.github.is_project_page %}
+    <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
+  {% endif %}
+  {% if site.github.is_user_page %}
+    <a href="{{ site.github.owner_url }}" class="btn">GitHub Profile</a>
+  {% endif %}
+</header>
 
     <main id="content" class="main-content" role="main">
       {{ content }}
