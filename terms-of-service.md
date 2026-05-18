@@ -16,15 +16,15 @@ icon: "/assets/images/full_logo.png"
 
 ## 1. Acceptance of Terms
 
-* By creating an account or using abcAssess, you agree to be bound by these Terms of Service. 
-* If you do not agree, you may not access or use the application.
+###By creating an account or using abcAssess, you agree to be bound by these Terms of Service. If you do not agree, you may not access or use the application.
 
 ---
 
 ## 2. Eligibility and Authority
 
-### abcAssess is a specialized data utility for professional educational practitioners. By registering an account or entering records into this Service, you represent and warrant that:
+### abcAssess is a specialized data utility for professional educational practitioners. 
 
+#### By registering an account or entering records into this Service, you represent and warrant that:
 * You are an authorized representative of an accredited or licensed school, childcare program, or educational institution.
 * You maintain explicit institutional authority to log student performance metrics in compliance with local school board privacy mandates, state laws, and national frameworks including the Family Educational Rights and Privacy Act (FERPA) and the Children's Online Privacy Protection Act (COPPA).
 
@@ -46,8 +46,7 @@ icon: "/assets/images/full_logo.png"
 
 ## 5. User Responsibilities & Prohibited Content
 
-### You strictly agree to never utilize the platform architecture to:
-
+#### You strictly agree to never utilize the platform architecture to:
 * Input or store high-tier Personally Identifiable Information (PII) including Social Security Numbers, full legal addresses, financial records, or comprehensive student medical charts. 
 * Attempt to reverse-engineer, inject script attacks, or intentionally exploit the application-level client-side field-level encryption (CSFLE) structures.
 * Input, upload, or request any student-facing biometric data, including student profile photos, child voiceprint captures, or student-generated audio recordings.
