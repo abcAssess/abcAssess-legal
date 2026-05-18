@@ -66,29 +66,32 @@ body {
   display: flex;
   align-items: center;
   justify-content: flex-start;
-  height: 50px; // Changed to an explicit height to lock the boundary
-
-  ------
-  ------
-  
-  } // 1. Force-closes the deeply nested inner block above
-} // 2. Force-closes the main section element above it completely
-
-// --- Now the global workspace is clean, and your logo block can live peacefully ---
-.logo-container {
-  display: flex;
-  align-items: center;
-  justify-content: flex-start;
-  height: 50px; 
-
-  img {
-    height: 100%;   
-    width: auto;    
-    max-width: 180px; 
+  height: 50px; // Changed to an explicit height to lock the 
+  dth: 180px; 
     transition: opacity 0.2s ease;
 
     &:hover {
       opacity: 0.8; 
     }
-  }
+  }/* Logo container */
+.logo-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 20px auto;
+  height: 80px;
+}
+
+/* Logo image */
+.logo-container img {
+  height: 100%;
+  width: auto;
+  max-width: 180px;
+  transition: opacity 0.2s ease;
+}
+
+/* Hover effect */
+.logo-container img:hover {
+  opacity: 0.8;
+}
 }
