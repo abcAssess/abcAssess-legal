@@ -35,13 +35,13 @@ description: Updated May 18, 2026
 * Some complex data visualization charts for reports may not yet have full text-equivalents.
 * We are working on adding accessible CSV exports for all data views by Q3 2026.
 
-## Contact Information
+---
 
-#### We welcome your feedback on the accessibility of abcAssess. Please let us know if you encounter accessibility barriers.
+## Contact
 
 #### &nbsp;&nbsp;&nbsp;&nbsp;E-mail: [hello@abcassess.app](mailto:hello@abcassess.app)
 
-*We aim to respond to accessibility inquiries within 2 business days.*
+*We aim to respond to all inquiries within 2 business days.*
 
 ---
 
