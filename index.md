@@ -2,7 +2,7 @@
 layout: default
 title: "Support Center"
 description: Policies and FAQs
-icon: "/assets/images/full_logo.png"
+icon: "./assets/images/full_logo.png"
 ---
 <style>
   .btn { display: none !important; }
