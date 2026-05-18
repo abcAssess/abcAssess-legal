@@ -16,7 +16,7 @@ icon: "/assets/images/full_logo.png"
 
 ## 1. Purpose & Scope
 
-### This Data Processing Addendum ("DPA") forms a legally binding agreement between abcAssess ("Provider") and the educational institution, licensed childcare center, or individual educator ("Subscriber") utilizing the abcAssess platform. This agreement strictly governs the processing of text-based classroom data, student first names, birth month/year arrays, and associated raw assessment scoring metrics recorded within the Service.
+#### This Data Processing Addendum ("DPA") forms a legally binding agreement between abcAssess ("Provider") and the educational institution, licensed childcare center, or individual educator ("Subscriber") utilizing the abcAssess platform. This agreement strictly governs the processing of text-based classroom data, student first names, birth month/year arrays, and associated raw assessment scoring metrics recorded within the Service.
 
 ---
 
@@ -30,7 +30,7 @@ icon: "/assets/images/full_logo.png"
 
 ## 3. Verified Sub-Processor Architecture
 
-### To deliver secure, edge-optimized calculation and reporting operations, Provider utilizes a restricted suite of enterprise infrastructure sub-processors. Each entity is contractually bound to maintain strict security baselines:
+#### To deliver secure, edge-optimized calculation and reporting operations, Provider utilizes a restricted suite of enterprise infrastructure sub-processors. Each entity is contractually bound to maintain strict security baselines:
 
 * **Vercel Inc.:** Secure User Interface Frontend Architecture Hosting (SOC 2 Type II Compliant).
 * **Railway:** Application Environment Processing, Secret Variable Vaulting, and API Backend Management (SOC 2 Type II Compliant).
@@ -41,7 +41,7 @@ icon: "/assets/images/full_logo.png"
 
 ## 4. Operational Media & Privacy Restraints
 
-###The platform permits the Subscriber to upload customized visual assets (e.g., JPEG instructional graphics) and record vocalized teacher prompt clips to format personalized assessment categories (such as multilingual phonemic drills). 
+#### The platform permits the Subscriber to upload customized visual assets (e.g., JPEG instructional graphics) and record vocalized teacher prompt clips to format personalized assessment categories (such as multilingual phonemic drills). 
 
 * **Prohibited Content:** The Subscriber is strictly prohibited from uploading, recording, or storing any student-facing biometric data, including student profile photos, childhood video frames, or child voiceprint recordings. All multimedia elements hosted inside the Service libraries must remain strictly instructional.
 
