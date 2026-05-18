@@ -4,10 +4,6 @@ title: "Support Center"
 description: Policies and FAQs
 ---
 
-<p align="center">
-  <img src="{{ '/assets/images/full_logo.png' | relative_url }}" alt="abcAssess Logo" width="120" />
-</p>
-
 <style>
   .btn { display: none !important; }
   header .project-tagline { margin-bottom: 2rem; }
