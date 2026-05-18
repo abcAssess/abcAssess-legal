@@ -2,7 +2,6 @@
 layout: default
 title: Accessibility Statement
 description: Updated May 18, 2026
-icon: "/assets/images/full_logo.png"
 ---
 
 <style>
