@@ -16,65 +16,61 @@ description: Updated May 5, 2026
 ## 1. Acceptance of Terms
 
 * By creating an account or using abcAssess, you agree to be bound by these Terms of Service. 
-* If you do not agree, you may not use the application.
+* If you do not agree, you may not access or use the application.
 
 ---
 
 ## 2. Eligibility and Authority
 
-### abcAssess is a tool for professional educators. By using this service, you warrant that: 
+### abcAssess is a specialized data utility for professional educational practitioners. By registering an account or entering records into this Service, you represent and warrant that:
 
-* You are an authorized representative of a school or educational institution.
-* You have the legal authority to enter student data into this application in accordance with your local school district’s policies and national laws (such as FERPA or GDPR).
-
----
-
-## 3. Intellectual Property
-
-*	**Ownership:** All software, code, designs, graphics, and branding (including the name "abcAssess") are the exclusive property of Danielle Andrist/abcAssess and are protected by copyright laws. 
-*	**License:** We grant you a limited, non-exclusive, non-transferable license to use the app for educational purposes. You may not reverse-engineer, copy, or redistribute the source code.
+* You are an authorized representative of an accredited or licensed school, childcare program, or educational institution.
+* You maintain explicit institutional authority to log student performance metrics in compliance with local school board privacy mandates, state laws, and national frameworks including the Family Educational Rights and Privacy Act (FERPA) and the Children's Online Privacy Protection Act (COPPA).
 
 ---
 
-## 4. User Responsibilities and Prohibited Use
+## 3. Account Types, Multi-User Access, & Data Transfers
 
-### You agree not to: 
-
-*	Store highly sensitive PII (Personally Identifiable Information) such as Social Security numbers or full medical records. 
-*	Attempt to bypass the application's security or encryption layers.
-*	Share your account credentials with unauthorized users.
-*	Use the app for any illegal or unauthorized purpose.
-
----
-## 5. Limitation of Liability
-
-### abcAssess is provided on an "as-is" and "as-available" basis. To the maximum extent permitted by law: 
-
-*	We do not guarantee that the service will be uninterrupted or error-free.
-*	We are not liable for any data loss, inaccuracies in assessment results, or any disciplinary actions taken by your school or district resulting from the use of this app. 
-*	Our total liability for any claim arising from your use of the app is limited to the amount you paid us (if any) to use the service.
+* **Primary Account Accountability:** If you invite, connect, or grant database access to an Assistant Teacher or Co-Teacher, you assume full administrative and legal liability for their account operations, data entries, and compliance metrics.
+* **Student Roster Transfers:** The Service allows for the logical transfer of student records between verified classroom accounts for structural classroom scaling (e.g., mid-year grade transitions). Upon confirming a record transfer, the receiving educator assumes data custody and control configurations.
 
 ---
 
-## 6. Termination of Service
+## 4. Intellectual Property & Shared Assessment Libraries
 
-*	**By You:** You may terminate your account at any time. Upon termination, we will perform a Cascade Delete of all your associated data as outlined in our Privacy Policy. 
-*	**By Us:** We reserve the right to suspend or terminate your account if you violate these terms or if the service is discontinued.
-  
+* **Platform Ownership:** All software engineering assets, source code architectures, responsive user interface systems, design grids, iconography, and global brand marks associated with "abcAssess" are the exclusive property of Danielle Andrist/abcAssess and are protected under international copyright regulations.
+* **User-Generated Content & Sharing:** Teachers retain ownership of original assessment blueprints they compile within the app. However, by using the platform's internal sharing mechanisms to distribute a custom assessment framework to other educators, you grant abcAssess a non-exclusive, royalty-free license to host, replicate, and transmit that framework config across our database cluster. abcAssess assumes zero liability for the accuracy, grading metrics, or pedagogical validity of custom templates shared between users.
+
 ---
 
-## 7. Changes to Terms
+## 5. User Responsibilities & Prohibited Content
 
-### We may update these terms from time to time. 
+### You strictly agree to never utilize the platform architecture to:
 
-* We will notify you of significant changes via the email address associated with your account. 
-* Continued use of the app after such changes constitutes acceptance of the new terms.
+* Input or store high-tier Personally Identifiable Information (PII) including Social Security Numbers, full legal addresses, financial records, or comprehensive student medical charts. 
+* Attempt to reverse-engineer, inject script attacks, or intentionally exploit the application-level client-side field-level encryption (CSFLE) structures.
+* Input, upload, or request any student-facing biometric data, including student profile photos, child voiceprint captures, or student-generated audio recordings.
+
+---
+
+## 6. Limitation of Liability & Offline Operations
+
+* **"As-Is" Service Delivery:** abcAssess is provided completely on an "as-is" and "as-available" matrix framework. We provide no operational warranties regarding uninterrupted system availability or 100% bug-free deployments.
+* **Offline Synchronization Contingency:** The platform provides localized client-side database capabilities to record assessments in low-connectivity areas. abcAssess assumes zero administrative liability for data loss resulting from local storage deletions, browser clear-cache scripts, or physical device damage occurring prior to the terminal executing an active cloud synchronization handshake with our Railway backend servers.
+* **Financial Cap:** To the maximum extent permitted under applicable law, our absolute financial liability for any damage claims emerging out of your platform utilization is strictly capped at the cumulative net subscription amount paid by you to abcAssess during the trailing 12-month period.
+
+---
+
+## 7. Termination of Service
+
+* **By You:** You can terminate your user account profile at any time through the internal App Settings panel. Termination automatically initializes a irreversible "Cascade Delete," wiping your teacher credentials and purging all encrypted student indices from MongoDB Atlas within a 30-day compliance window.
+* **By Us:** We retain the administrative right to suspend, terminate, or flag an account if localized validation detects a clear breach of these usage guidelines or system security integrity.
 
 ---
 
 ## 8. Governing Law
 
-### These terms are governed by the laws of North Dakota/USA without regard to its conflict of law principles. 
+These terms and any platform engagement disputes are governed strictly under the state laws of North Dakota/USA, without giving effect to any conflict of law principles.
 
 ---
 
