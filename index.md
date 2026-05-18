@@ -33,5 +33,5 @@ Questions, comments, or ideas to make this tool more useful?
 
 Email us at [hello@abcassess.app](mailto:hello@abcassess.app)
 
-We read all messages.
+*We aim to respond to all inquiries within 2 business days.*
 
