@@ -16,19 +16,19 @@ icon: "/assets/images/full_logo.png"
 
 ## Our Commitment
 
-### At abcAssess, we believe every teacher should have access to high-quality classroom metrics. We are committed to ensuring digital accessibility for educators and administrators with diverse abilities. We are continually auditing, testing, and optimizing both our Vercel-hosted web platform and our native iOS and Android mobile interfaces to provide a seamless, supportive, and accessible user experience for everyone.
+#### At abcAssess, we believe every teacher should have access to high-quality classroom metrics. We are committed to ensuring digital accessibility for educators and administrators with diverse abilities. We are continually auditing, testing, and optimizing both our Vercel-hosted web platform and our native iOS and Android mobile interfaces to provide a seamless, supportive, and accessible user experience for everyone.
 
 ---
 
 ## Conformance Status
 
-### The Web Content Accessibility Guidelines (WCAG) defines structured requirements for designers and software engineers to optimize digital interfaces for individuals with disabilities. abcAssess is engineered to align with WCAG 2.1 Level AA specifications across both web and native mobile application channels. The platform is currently **Partially Conformant** with these guidelines as we execute ongoing system optimizations.
+#### The Web Content Accessibility Guidelines (WCAG) defines structured requirements for designers and software engineers to optimize digital interfaces for individuals with disabilities. abcAssess is engineered to align with WCAG 2.1 Level AA specifications across both web and native mobile application channels. The platform is currently **Partially Conformant** with these guidelines as we execute ongoing system optimizations.
 
 ---
 
 ## Accessibility Features
 
-### To maximize scannability and layout access during active classroom supervision windows, abcAssess implements the following platform-specific framework features:
+#### To maximize scannability and layout access during active classroom supervision windows, abcAssess implements the following platform-specific framework features:
 * **Cross-Platform Assistive Navigation:** On the web portal, we implement semantic layout landmarks and structured heading elements (H1, H2, etc.) to assist web screen reader software. On native mobile deployments, our components integrate explicit native accessibility labels to ensure smooth voice synthesis transitions.
 * **Alternative Input & Switch Operability:** Web interfaces are fully navigable using standard linear keyboard patterns and focus states. Native mobile interfaces are structurally optimized to work seamlessly with native iOS and Android switch control hardware, gestures, and screen-swipe actions.
 * **High Contrast Ratios:** Our core palette variables—anchored by an authoritative Trust Navy text layer over clean floating layouts—enforce a minimum visual contrast ratio of 4.5:1. This preserves high legibility in brightly lit preschool environments or under severe outdoor screen glare.
@@ -39,7 +39,7 @@ icon: "/assets/images/full_logo.png"
 
 ## Known Limitations
 
-### Despite our strict focus on inclusive design pipelines, certain complex UI data layouts present temporary accessibility hurdles as we finalize our system framework.
+#### Despite our strict focus on inclusive design pipelines, certain complex UI data layouts present temporary accessibility hurdles as we finalize our system framework.
 * **Complex Data Visualization:** Class-wide analytics dashboards, historical progress trends, and specialized report snapshots may not yet feature comprehensive textual or auditory equivalents.
 * **The Accessibility Roadmap:** We are actively engineering accessible, high-contrast CSV file data exports for all underlying roster summaries and student progress histories, scheduled to launch globally by Q3 2026.
 
