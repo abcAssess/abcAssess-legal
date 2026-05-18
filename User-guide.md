@@ -13,7 +13,7 @@ Coming Soon
 
 ---
 
-[Technical FAQs](technical-and-privacy-faqs.md) &nbsp; - &nbsp; [Terms of Service](terms-of-service.md) &nbsp; - &nbsp; [Privacy Policy](privacy-policy.md)
+[Technical FAQs](technical-and-privacy-faqs.md) &nbsp;-&nbsp; [Terms of Service](terms-of-service.md) &nbsp;-&nbsp; [Privacy Policy](privacy-policy.md) &nbsp;-&nbsp; [Accessibility Statement](accessibility.md) &nbsp;-&nbsp; [Data Processing Agreement](dpa.md) 
 
 
 [Return to Support Center](index.md)
