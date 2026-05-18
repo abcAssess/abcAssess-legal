@@ -71,13 +71,23 @@ body {
   ------
   ------
   
-  // Nesting the img tag inside the container forces it to stay small
-  img {
-    height: 100%;   // Forces the logo to match the 50px height of the container
-    width: auto;    // Keeps the aspect ratio perfect so it doesn't stretch distortedly
-    max-width: 180px; // Optional: Keeps it from getting too wide if it's a long logo
-  }
-}
+  //
+// Make sure this block is completely separated from whatever code is above it
+.logo-container {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  height: 50px; 
 
----
+  img {
+    height: 100%;   
+    width: auto;    
+    max-width: 180px; 
+    transition: opacity 0.2s ease; // Smooth transition for the hover effect
+
+    &:hover {
+      opacity: 0.8; // Safe aesthetic choice for a logo link
+    }
+  }
+} // <-- This closing bracket completely seals the logo container area
 
