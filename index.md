@@ -1,8 +1,8 @@
 ---
 layout: default
-title: "abcAssess Support Center"
+title: "Support Center"
 description: Policies and FAQs
-icon: "https://images.unsplash.com/photo-1597534458220-9fb4969f2df5?auto=format&fit=crop&w=300&h=300&q=80"
+icon: "/assets/images/logo.png"0"
 ---
 
 <style>
