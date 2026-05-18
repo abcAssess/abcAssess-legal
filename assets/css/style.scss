@@ -63,3 +63,20 @@ body {
 .main-content a:visited {
   color: #D47659;                 /* Lock it to your Terracotta so it stays bright */
 }
+
+---
+---
+@import "{{ site.theme }}";
+
+/* Center and style the logo above the text */
+.hero-logo {
+  display: block;
+  margin: 0 auto 1.5rem auto;
+  max-width: 140px;
+  height: auto;
+}
+
+/* Ensure perfect centering for everything in the hero */
+.page-header {
+  text-align: center;
+}
