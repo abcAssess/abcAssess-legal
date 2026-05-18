@@ -2,7 +2,7 @@
 layout: default
 title: abcAssess Terms of Service
 description: Updated May 18, 2026
-icon: logo: "{{ '/assets/images/full_logo.png' | relative_url }}"
+icon: "{{ '/assets/images/full_logo.png' | relative_url }}"
 ---
 <p align="center">
   <img src="./assets/images/full)logo.png" alt="abcAssess Alphabet Blocks Logo" width="120">
