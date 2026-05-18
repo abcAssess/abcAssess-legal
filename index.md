@@ -2,9 +2,10 @@
 layout: default
 title: "Support Center"
 description: Policies and FAQs
-icon: "/assets/images/logo.png"
 ---
-
+<p align="center">
+  <img src="./assets/images/logo.png" alt="abcAssess Alphabet Blocks Logo" width="120">
+</p>
 <style>
   .btn { display: none !important; }
   header .project-tagline { margin-bottom: 2rem; }
