@@ -65,14 +65,13 @@ body {
 }
 
 ---
----
 @import "{{ site.theme }}";
 
-/* Center and style the logo above the text */
+/* Center and style the full logo above the text */
 .hero-logo {
   display: block;
   margin: 0 auto 1.5rem auto;
-  max-width: 140px;
+  max-width: 220px; /* Adjusted wider for a "full" logo design */
   height: auto;
 }
 
