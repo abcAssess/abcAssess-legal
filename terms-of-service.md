@@ -2,8 +2,10 @@
 layout: default
 title: abcAssess Terms of Service
 description: Updated May 18, 2026
-icon: "/assets/images/full_logo.png"
 ---
+<p align="center">
+  <img src="./assets/images/full)logo.png" alt="abcAssess Alphabet Blocks Logo" width="120">
+</p>
 
 <style>
   .btn { display: none !important; }
@@ -16,7 +18,7 @@ icon: "/assets/images/full_logo.png"
 
 ## 1. Acceptance of Terms
 
-###By creating an account or using abcAssess, you agree to be bound by these Terms of Service. If you do not agree, you may not access or use the application.
+### By creating an account or using abcAssess, you agree to be bound by these Terms of Service. If you do not agree, you may not access or use the application.
 
 ---
 
