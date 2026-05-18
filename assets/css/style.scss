@@ -1,0 +1,43 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+// abcAssess Brand Overrides
+$brand-navy: #1A2B3C;
+$brand-sage: #88A090;
+$brand-terracotta: #D68C78;
+$brand-cream: #FDFBF7;
+
+// 1. Change the Header Background (The "Hero" section)
+.page-header {
+  background-color: $brand-navy;
+  background-image: linear-gradient(120deg, $brand-navy, lighten($brand-navy, 10%));
+}
+
+// 2. Change the Buttons
+.btn {
+  color: $brand-navy;
+  border-color: rgba($brand-navy, 0.2);
+  &:hover {
+    background-color: rgba($brand-sage, 0.1);
+    color: $brand-sage;
+    border-color: $brand-sage;
+  }
+}
+
+// 3. Change Links & Accents
+a {
+  color: $brand-sage;
+}
+
+section.main-content h1, 
+section.main-content h2, 
+section.main-content h3 {
+  color: $brand-navy;
+}
+
+// 4. Subtle Page Background (Optional)
+body {
+  background-color: $brand-cream;
+}
