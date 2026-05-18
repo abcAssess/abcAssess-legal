@@ -15,10 +15,13 @@ Welcome to the **abcAssess** legal and support center. We are committed to data 
 Please select a document below to learn more about how we protect your privacy and how to make the most of the abcAssess tool:
 
 ### **Legal Documents**
+* [**Data Processing Agreement**](dpa.md)
 * [**Privacy Policy**](privacy-policy.md)
 * [**Terms of Service**](terms-of-service.md)
 
+
 ### **Support & Compliance**
+* [**Accessibility Statement**](accessibility.md)
 * [**Technical & Privacy FAQs**](technical-and-privacy-faqs.md)
 * [**User Guide**](User-guide.md)
 
