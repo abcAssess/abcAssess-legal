@@ -3,9 +3,6 @@ layout: default
 title: abcAssess Terms of Service
 icon: "{{ '/assets/images/full_logo.png' | relative_url }}"
 ---
-<p align="center">
-  <img src="./assets/images/full)logo.png" alt="abcAssess Alphabet Blocks Logo" width="120">
-</p>
 
 <style>
   .btn { display: none !important; }
