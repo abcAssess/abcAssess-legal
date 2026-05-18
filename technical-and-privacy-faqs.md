@@ -15,23 +15,23 @@ description: abcAssess
 
 ## 1. Is abcAssess FERPA and COPPA compliant?
 
-### *Yes.* 
+### Yes.
 
-#### We act as a "School Official" under FERPA, and we assist schools in COPPA compliance by practicing strict Data Minimization. We do not collect student full names, exact birthdays, or any media like photos or videos.
+#### We act as a "School Official" under FERPA, and we assist schools in COPPA compliance by practicing strict Data Minimization. To identify students safely, we only collect a student's first name and their birth month/year (stored as a generic YYYY-MM string). We never collect full names, exact birthdays, or any student media like photos or videos.
 
 ---
 
 ## 2. How is student data secured?
 
-### *We use a "Zero-Knowledge" architecture.* 
+### Data privacy is built directly into our database architecture. 
 
-#### Student names and assessment scores are encrypted on your device using AES-256 encryption before they are sent to our database. This means that even as the developer, we cannot read your students' sensitive information.
+#### We enforce strict application-level multi-tenant isolation using unique organizational and teacher identifiers. This means all classroom data is tightly filtered through server-side query middleware so that records from one classroom can never be accessed or read by another. All data is encrypted in transit using industry-standard TLS protocols and encrypted at rest within our secured database environment.
 
 ---
 
 ## 3. Who owns the data I enter?
 
-### *You (the educator) or your school district own all student data.* 
+### You (the educator) or your school district own all student data.
 
 #### abcAssess does not claim ownership of student records, nor do we ever sell or share data with third-party advertisers.
 
@@ -39,7 +39,7 @@ description: abcAssess
 
 ## 4. Can I export my data?
 
-### *Absolutely.* 
+### Absolutely.
 
 #### You can generate PDF reports for individual students or download data backups directly from the app for your own archives.
 
@@ -47,7 +47,7 @@ description: abcAssess
 
 ## 5. What happens if I delete my account?
 
-### *We utilize a Cascade Deletion process.* 
+### We utilize a Cascade Deletion process.
 
 #### When you delete your account through the App Settings, your profile and all associated student records are permanently wiped from our servers.
 
@@ -55,7 +55,7 @@ description: abcAssess
 
 ## 6. Do you use student data for advertising?
 
-### *Never.* 
+### Never.
 
 #### We do not engage in behavioral advertising, and we do not build marketing profiles based on student performance or information.
 
@@ -63,10 +63,33 @@ description: abcAssess
 
 ## 7. Does this app work offline?
 
-### *Yes.* 
+### Yes.
 
-#### You can record assessments offline, and the data will sync to our secure servers once you have a stable internet connection.
+#### You can record assessments offline, and the data will sync securely to our servers once you have a stable internet connection.
 
+---
+
+## 8. How do you track application usage?
+
+### We utilize privacy-first, event-based analytics to measure app performance, track system stability, and understand which tools educators use most. 
+
+#### This telemetry logs only high-level actions (such as when an assessment is completed or when a PDF report is generated) and does not harvest any Personally Identifiable Information (PII) from teachers or students.
+
+---
+
+## 9. Where is my data hosted, and who handles it?
+
+### Our data layer is deployed securely via MongoDB Atlas. The frontend user interface is hosted using Vercel, and our supporting application backend environments run on Railway. 
+
+#### All critical infrastructure configurations, database keys, and environment variables are strictly managed through secure provider dashboards rather than being exposed within raw application files.
+
+---
+
+## 10. Are communications from abcAssess secure?
+
+### Yes. 
+
+#### All outbound transactional notifications and system updates are managed using dedicated subdomains protected by strict network security policies. This includes standard HSTS data defenses, automated DMARC protocols, and unified SPF verification records to prevent email spoofing and guarantee that any system messages originating from our code are authentic and securely transmitted.
 ---
 
 ## Contact
