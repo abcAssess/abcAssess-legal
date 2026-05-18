@@ -15,13 +15,13 @@ description: Updated May 18, 2026
 
 ## 1. Our Commitment to Student Privacy
 
-### abcAssess is built specifically for educators. We operate as a "School Official" under the Family Educational Rights and Privacy Act (FERPA) in the US and as a "Data Processor" under GDPR/UK GDPR. We do not sell student data, use it for behavioral advertising, or build marketing profiles of children.
+#### abcAssess is built specifically for educators. We operate as a "School Official" under the Family Educational Rights and Privacy Act (FERPA) in the US and as a "Data Processor" under GDPR/UK GDPR. We do not sell student data, use it for behavioral advertising, or build marketing profiles of children.
 
 ---
 
 ## 2. Information We Collect (Data Minimization)
 
-### We apply a strict "Data Minimization" policy, collecting only what is essential for educational assessment: 
+#### We apply a strict "Data Minimization" policy, collecting only what is essential for educational assessment: 
 
 * **Teacher Account Data:** We use local email/password sign-in, Google Sign-In and Sign in with Apple. We collect your provider-provided name, email address, and unique identifier.
 * **Student Assessment Data:** Teachers may enter student's First Name, Last Initial (optional), and Birth Month/Year (optional). Alternatively, they may enter a student id or other identifier instead of the student's name. Birth Month/Year are used solely to calculate age for assessment accuracy and avoids the collection of exact birth dates.
@@ -32,7 +32,7 @@ description: Updated May 18, 2026
 
 ## 3. Advanced Security & "Zero-Knowledge" Architecture
 
-### We utilize a "Zero-Knowledge" security model to ensure that student results remain private, even from us: 
+#### We utilize a "Zero-Knowledge" security model to ensure that student results remain private, even from us: 
 
 * **Client-Side Field Level Encryption (CSFLE):** Sensitive student data, including names, are encrypted at the application level *before* being sent to the database.
 * **Encryption Standards:** Data is encrypted in transit (TLS 1.3) and at rest using AES-256.
@@ -42,7 +42,7 @@ description: Updated May 18, 2026
 
 ## 4. Data Sub-Processors
 
-### We use a limited number of "Sub-Processors" bound by strict privacy and security standards: 
+#### We use a limited number of "Sub-Processors" bound by strict privacy and security standards: 
 
 * **MongoDB Atlas:** For secure, encrypted database storage.
 * **Railway:** For secure backend processing and encryption key management.
@@ -62,7 +62,7 @@ description: Updated May 18, 2026
 
 ## 6. International Compliance & Rights (GDPR / CCPA / CPRA)
 
-### We respect data rights worldwide. Depending on your regional jurisdiction, you have the following rights: 
+#### We respect data rights worldwide. Depending on your regional jurisdiction, you have the following rights: 
 
 * **Access & Portability:** The right to request a complete copy of your structural account data.
 * **Rectification & Erasure:** The right to correct inaccuracies or delete your personal and classroom data.
