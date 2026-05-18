@@ -27,11 +27,11 @@ Please select a document below to learn more about how we protect your privacy a
 
 ---
 
-**Contact Support** 
+## Contact
 
-Questions, comments, or ideas to make this tool more useful? 
-
-Email us at [hello@abcassess.app](mailto:hello@abcassess.app)
+#### &nbsp;&nbsp;&nbsp;&nbsp;E-mail: [hello@abcassess.app](mailto:hello@abcassess.app)
 
 *We aim to respond to all inquiries within 2 business days.*
+
+---
 
