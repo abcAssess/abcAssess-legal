@@ -2,15 +2,8 @@
 layout: default
 title: "Support Center"
 description: Policies and FAQs
+icon: "assets/images/full_logo.png"
 ---
-<p align="center">
-  <img src="./assets/images/logo.png" alt="abcAssess Alphabet Blocks Logo" width="120">
-</p>
-<style>
-  .btn { display: none !important; }
-  header .project-tagline { margin-bottom: 2rem; }
-  a { text-decoration: underline; }
-</style>
 
 Welcome to the **abcAssess** legal and support center. We are committed to data privacy and transparency for teachers and schools. 
 
