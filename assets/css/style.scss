@@ -41,3 +41,25 @@ section.main-content h3 {
 body {
   background-color: $brand-cream;
 }
+
+/* ==========================================================================
+   CUSTOM LINK COLOR COMPLIANCE OVERRIDES
+   ========================================================================== */
+
+/* 1. Target links inside the main body container */
+.main-content a {
+  color: #D47659;                 /* High-visibility Terracotta for brand cohesion */
+  font-weight: 600;               /* Semi-bold text to make it pop visually */
+  text-decoration: underline;     /* Enforce underlines so mobile users know it's a touch target */
+}
+
+/* 2. Target links when a teacher hovers over them on desktop */
+.main-content a:hover {
+  color: #1B2D4A;                 /* Darkens to Trust Navy on hover for elegant contrast */
+  text-decoration: none;          /* Clean visual state shift */
+}
+
+/* 3. Ensure visited links don't turn default purple on mobile Safari/Chrome */
+.main-content a:visited {
+  color: #D47659;                 /* Lock it to your Terracotta so it stays bright */
+}
