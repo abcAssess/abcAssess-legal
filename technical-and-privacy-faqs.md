@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Technical and Privacy FAQs
-description: abcAssess
+description: Updated May 18, 2026
 ---
 
 <style>
@@ -9,9 +9,6 @@ description: abcAssess
   header .project-tagline { margin-bottom: 2rem; }
 </style>
 
-<p align="center">
-  <img src="{{ '/assets/images/full_logo.png' | relative_url }}" alt="abcAssess Logo" width="120" />
-</p>
 
 [Return to Support Center](index.md)
 
