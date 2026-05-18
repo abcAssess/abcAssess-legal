@@ -78,7 +78,7 @@ description: Updated May 5, 2026
 
 ---
 
-[Privacy Policy](privacy-policy.md) &nbsp; - &nbsp; [Technical FAQs](technical-and-privacy-faqs.md) &nbsp; - &nbsp; [User Guide](User-guide.md) 
+[Privacy Policy](privacy-policy.md) &nbsp; - &nbsp; [Technical FAQs](technical-and-privacy-faqs.md) &nbsp; - &nbsp; [User Guide](User-guide.md) &nbsp;-&nbsp; [Accessibility Statement](accessibility.md) &nbsp;-&nbsp; [Data Processing Agreement](dpa.md) 
 
 
 [Return to Support Center](index.md)
