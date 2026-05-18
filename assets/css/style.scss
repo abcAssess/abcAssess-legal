@@ -71,8 +71,10 @@ body {
   ------
   ------
   
-  //
-// Make sure this block is completely separated from whatever code is above it
+  } // 1. Force-closes the deeply nested inner block above
+} // 2. Force-closes the main section element above it completely
+
+// --- Now the global workspace is clean, and your logo block can live peacefully ---
 .logo-container {
   display: flex;
   align-items: center;
@@ -83,11 +85,10 @@ body {
     height: 100%;   
     width: auto;    
     max-width: 180px; 
-    transition: opacity 0.2s ease; // Smooth transition for the hover effect
+    transition: opacity 0.2s ease;
 
     &:hover {
-      opacity: 0.8; // Safe aesthetic choice for a logo link
+      opacity: 0.8; 
     }
   }
-} // <-- This closing bracket completely seals the logo container area
-
+}
