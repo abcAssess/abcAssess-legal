@@ -124,17 +124,25 @@ header img, .site-header img, .logo {
   margin-top: 0.5rem !important;
   margin-bottom: 0.25rem !important;
 }
-/* Center and scale the bottom footer image */
+/* Stack the image and the copyright vertically */
 .footer-image-container {
   display: flex;
-  justify-content: center; /* Centers horizontally */
-  align-items: center;     /* Centers vertically */
-  margin-top: 1.5rem;      /* Pushes it safely below the theme's credits text */
+  flex-direction: column; /* Forces the text to drop below the image */
+  align-items: center;    /* Keeps everything perfectly centered */
+  margin-top: 1.5rem;
   width: 100%;
 }
 
 .footer-image-container img {
-  max-height: 45px;        /* Limits height so it stays subtle and clean */
-  width: auto;             /* Keeps the aspect ratio perfectly intact */
+  max-height: 45px;
+  width: auto;
   display: block;
+}
+
+/* Style the copyright text to match Cayman's footer style */
+.footer-copyright {
+  font-size: 0.8rem;      /* Matches the subtle, small theme font size */
+  color: #606c71;         /* The default slate gray Cayman uses for footers */
+  margin-top: 0.75rem;    /* Creates a nice, neat gap below the image logo */
+  margin-bottom: 0;       /* Prevents accidental extra page height padding */
 }
