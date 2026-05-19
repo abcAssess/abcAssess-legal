@@ -43,6 +43,15 @@ body {
   background-color: $brand-cream;
 }
 
+/* Custom color overrides for the Cayman theme hero header */
+.page-header .project-name {
+  color: #f7f4eb !important;
+}
+
+.page-header .project-tagline {
+  color: #f7f4eb !important;
+  opacity: 0.85; /* Slightly softens the description text so the main title pops */
+}
 /* ==========================================================================
    CUSTOM LINK COLOR COMPLIANCE OVERRIDES
    ========================================================================== */
