@@ -146,3 +146,25 @@ header img, .site-header img, .logo {
   margin-top: 0.75rem;    /* Creates a nice, neat gap below the image logo */
   margin-bottom: 0;       /* Prevents accidental extra page height padding */
 }
+
+/* Ensure the hero header logo scales beautifully on mobile devices */
+.page-header img.nav-logo,
+.page-header img { /* Targets the logo specifically inside the hero block */
+  max-width: 100% !important;  /* Prevents the image from bleeding off the screen */
+  width: auto !important;       /* Maintains the perfect square aspect ratio */
+  height: auto !important;      /* Prevents any weird vertical stretching */
+}
+
+/* Optional: Finetune the size for smaller screens so it doesn't take over the whole view */
+@media (max-width: 768px) {
+  .page-header img.nav-logo,
+  .page-header img {
+    max-height: 120px !important; /* Limits the maximum height on mobile so text stays visible */
+    margin-bottom: 1rem !important;
+  }
+  
+  /* Tame the spacing of the text below it on mobile */
+  .page-header .project-name {
+    font-size: 2rem !important; /* Slightly scales down the app name size for smaller screens */
+  }
+}
