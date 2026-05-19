@@ -109,3 +109,18 @@ header img, .site-header img, .logo {
   max-height: 100px !important;
   width: auto !important;
 }
+/* Tighten up the hero banner padding */
+.page-header {
+  padding-top: 2rem !important;    /* Default theme is usually 5rem or more */
+  padding-bottom: 2rem !important; /* Default theme is usually 5rem or more */
+}
+
+/* Optional: Bring the logo and text slightly closer together */
+.page-header img.nav-logo {
+  margin-bottom: 0.5rem !important;
+}
+
+.page-header .project-name {
+  margin-top: 0.5rem !important;
+  margin-bottom: 0.25rem !important;
+}
