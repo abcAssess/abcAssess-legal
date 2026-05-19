@@ -95,3 +95,8 @@ body {
   opacity: 0.8;
 }
 }
+
+header img, .site-header img, .logo {
+  max-height: 45px !important;
+  width: auto !important;
+}
