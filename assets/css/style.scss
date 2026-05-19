@@ -124,3 +124,17 @@ header img, .site-header img, .logo {
   margin-top: 0.5rem !important;
   margin-bottom: 0.25rem !important;
 }
+/* Center and scale the bottom footer image */
+.footer-image-container {
+  display: flex;
+  justify-content: center; /* Centers horizontally */
+  align-items: center;     /* Centers vertically */
+  margin-top: 1.5rem;      /* Pushes it safely below the theme's credits text */
+  width: 100%;
+}
+
+.footer-image-container img {
+  max-height: 45px;        /* Limits height so it stays subtle and clean */
+  width: auto;             /* Keeps the aspect ratio perfectly intact */
+  display: block;
+}
