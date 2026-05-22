@@ -86,14 +86,14 @@ body {
 
   /* Style the email link specifically */
 a[href^="mailto:"] {
-  color: #0B2545; /* Your Trust Navy */
+  color: #4A6FA5; /* Your Lighter Navy */
   text-decoration: underline;
   transition: color 0.2s ease;
 }
 
 /* Add a hover effect to make it feel responsive */
 a[href^="mailto:"]:hover {
-  color: #4A6FA5; /* Your Lighter Navy on hover */
+  color: #0B2545; /* Your Trust Navy on hover */
 }
   
   }/* Logo container */
