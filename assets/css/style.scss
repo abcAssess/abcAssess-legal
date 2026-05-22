@@ -44,6 +44,18 @@ body {
   background-color: $brand-cream;
 }
 
+  /* Style the email link specifically */
+a[href^="mailto:"] {
+  color: #4A6FA5; /* Your Lighter Navy */
+  text-decoration: underline;
+  transition: color 0.2s ease;
+}
+
+/* Add a hover effect to make it feel responsive */
+a[href^="mailto:"]:hover {
+  color: #0B2545; /* Your Trust Navy on hover */
+}
+
 /* Custom color overrides for the Cayman theme hero header */
 .page-header .project-name {
   color: #f7f4eb !important;
@@ -84,17 +96,7 @@ body {
       opacity: 0.8; 
     }
 
-  /* Style the email link specifically */
-a[href^="mailto:"] {
-  color: #4A6FA5; /* Your Lighter Navy */
-  text-decoration: underline;
-  transition: color 0.2s ease;
-}
 
-/* Add a hover effect to make it feel responsive */
-a[href^="mailto:"]:hover {
-  color: #0B2545; /* Your Trust Navy on hover */
-}
   
   }/* Logo container */
 .logo-container {
