@@ -48,7 +48,7 @@ description: Updated May 18, 2026
 
 We welcome active evaluation data from practitioners, specialists, and speech-language pathologists utilizing our tools. If you encounter a digital barrier, a missing screen-reader label, or an unmapped tap zone while proctoring an assessment, please notify us immediately:
 
-#### &nbsp;&nbsp;&nbsp;&nbsp;E-mail: [hello@abcassess.app](mailto:hello@abcassess.app)
+#### &nbsp;&nbsp;&nbsp;&nbsp;E-mail: [legal@abcassess.app](mailto:hello@abcassess.app)
 
 *We aim to respond to all inquiries within 2 business days.*
 
