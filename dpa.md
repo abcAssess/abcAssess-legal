@@ -56,7 +56,7 @@ description: Updated May 18, 2026
 
 ## 6. Administrative Contact
 
-#### &nbsp;&nbsp;&nbsp;&nbsp;E-mail: [hello@abcassess.app](mailto:hello@abcassess.app)
+#### &nbsp;&nbsp;&nbsp;&nbsp;E-mail: [legal@abcassess.app](mailto:hello@abcassess.app)
 
 *We aim to respond to all inquiries within 2 business days.*
 
