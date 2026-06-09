@@ -44,7 +44,9 @@ description: Version 1.2 · Updated June 9, 2026
 * We collect only the minimum data necessary to deliver educational assessment functionality.
 * Student data belongs to the teacher and school — not to us.
 * We provide full data portability and permanent deletion on request.
+  
 [Back to top ↑](#)
+
 ---
 
 ## 2. Information We Collect (Data Minimization)
@@ -65,7 +67,9 @@ description: Version 1.2 · Updated June 9, 2026
 
 - **2.5 Cookies and Tracking**  
   abcAssess does not use third-party advertising cookies, behavioral tracking scripts, or cross-site tracking technologies. We use only technically necessary session cookies required for authentication and application function. We do not use Google Analytics, Meta Pixel, or similar behavioral tracking tools. If this changes in a future version, this policy will be updated and users will be notified in advance.
+
 [Back to top ↑](#)
+
 ---
 
 ## 3. How We Use Your Data
@@ -80,7 +84,9 @@ description: Version 1.2 · Updated June 9, 2026
 | Technical Logs | Application stability, error diagnosis, and security monitoring | Legitimate interests (Art. 6(1)(f)) |
 
 We do not use any data collected through abcAssess for purposes other than those listed above without obtaining prior written consent from the affected users.
+
 [Back to top ↑](#)
+
 ---
 
 ## 4. Security Architecture
@@ -102,7 +108,9 @@ We do not use any data collected through abcAssess for purposes other than those
   - (c) provide a plain-language description of the nature of the breach, the categories of data affected, and the steps we are taking to address it.  
 
   Notifications will be sent to the email address associated with the affected account. We encourage teachers to keep their account email addresses current.
+  
 [Back to top ↑](#)
+
 ---
 
 ## 5. Data Sub-Processors
@@ -121,7 +129,9 @@ We do not use any data collected through abcAssess for purposes other than those
 | Sentry | Anonymized error monitoring and application stability | US | [sentry.io/privacy](https://sentry.io/privacy) |
 
 Teachers and schools located in the European Union, United Kingdom, Australia, New Zealand, or Canada should be aware that some sub-processors may process data outside their home jurisdiction. Where this occurs, we rely on Standard Contractual Clauses (SCCs), adequacy decisions, or other approved transfer mechanisms as required by applicable law. Upon request, we will provide documentation of applicable transfer safeguards.
+
 [Back to top ↑](#)
+
 ---
 
 ## 6. Data Portability, Exports, and Backups
@@ -138,7 +148,9 @@ Teachers and schools located in the European Union, United Kingdom, Australia, N
   
 - **6.3 Data Responsibility After Export**  
   Once data is exported or downloaded, the teacher or school assumes full responsibility for its secure storage, handling, and disposal in accordance with applicable local, national, and federal policies and regulations, including FERPA and any applicable local privacy legislation.
+  
 [Back to top ↑](#)
+
 ---
 
 ## 7. Your Rights
@@ -174,7 +186,9 @@ Teachers and schools located in the European Union, United Kingdom, Australia, N
   
 - **7.10 PIPEDA Rights (Canadian Users)**  
   If you are located in Canada, you have rights under the Personal Information Protection and Electronic Documents Act (PIPEDA), including the right to access your personal information and the right to challenge our compliance with the Privacy Commissioner of Canada. To exercise these rights contact [legal@abcassess.app](mailto:legal@abcassess.app) with "Canadian Privacy Request" in the subject line.
+  
 [Back to top ↑](#)
+
 ---
 
 ## 8. Legal Compliance
@@ -202,7 +216,9 @@ Teachers and schools located in the European Union, United Kingdom, Australia, N
   - (a) you have the authority from your school or district to use this tool and to log student performance data;
   - (b) your use of abcAssess complies with your school's or institution's applicable data privacy policies and any applicable national, state, or provincial privacy legislation; and
   - (c) you have obtained or your institution has obtained all consents required by applicable law for the collection and processing of student data through our platform.
+
 [Back to top ↑](#)
+
 ---
 
 ## 9. Data Retention and Deletion
@@ -226,7 +242,9 @@ Teachers and schools located in the European Union, United Kingdom, Australia, N
   
 - **9.6 Transfer Request Expiry**  
   Pending student and class transfer requests expire automatically after 30 days if not accepted by the recipient. Upon expiry, the transfer is cancelled and the sending teacher retains their original data unchanged. The sending teacher and intended recipient are both notified by email when a transfer request expires. This 30-day limit applies regardless of whether the sending teacher's account remains active.
+  
 [Back to top ↑](#)
+
 ---
 
 ## 10. Changes to This Policy
@@ -237,7 +255,9 @@ Teachers and schools located in the European Union, United Kingdom, Australia, N
 - (c) maintain a changelog of prior versions available upon request.
 
 Your continued use of abcAssess after the effective date of any update constitutes your acceptance of the revised policy. If you do not agree with a material change, you may delete your account prior to the effective date.
+
 [Back to top ↑](#)
+
 ---
 
 ## 11. Contact
@@ -256,7 +276,9 @@ If you have questions, concerns, or requests regarding this Privacy Policy or ou
 - Australian privacy inquiries: "Australian Privacy Request"
 - New Zealand privacy inquiries: "NZ Privacy Request"
 - Canadian privacy inquiries: "Canadian Privacy Request"
+
 [Back to top ↑](#)
+
 ---
 
 [Accessibility Statement](accessibility.md) &nbsp;-&nbsp; [Data Processing Agreement](dpa.md) &nbsp;-&nbsp; [Technical FAQs](technical-and-privacy-faqs.md) &nbsp;-&nbsp; [Terms of Service](terms-of-service.md) &nbsp;-&nbsp; [User Guide](User-guide.md)
