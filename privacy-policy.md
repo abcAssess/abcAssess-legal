@@ -38,8 +38,8 @@ description: Version 1.2 · Updated June 9, 2026
 - **2.1 Teacher Account Data**  
   We support local email/password sign-in, Google Sign-In, and Sign in with Apple. We collect your provider-supplied name, email address, and unique account identifier. We do not collect payment information, phone numbers, or physical addresses.
 
-- **2.2 Student Assessment Data**
-- Teachers may enter the following minimal student identifiers: a student's first name and last initi/al (optional), birth month and year (optional, used solely to calculate age for assessment accuracy), or alternatively a student ID number or other non-name identifier. We deliberately avoid collecting exact birth dates, full legal names, addresses, or any other personally identifiable information beyond what is listed above.
+- **2.2 Student Assessment Data**  
+  Teachers may enter the following minimal student identifiers: a student's first name and last initi/al (optional), birth month and year (optional, used solely to calculate age for assessment accuracy), or alternatively a student ID number or other non-name identifier. We deliberately avoid collecting exact birth dates, full legal names, addresses, or any other personally identifiable information beyond what is listed above.
 
 * **2.3 Instructional Media**
 *   To support custom and multimodal assessments (such as color identification or auditory phonemic checks), teachers may securely upload custom instructional images and audio recording prompts. All uploaded media must be strictly instructional in nature. We explicitly prohibit the collection, upload, or storage of any student photos, student videos, or student-generated audio recordings. Any media upload that appears to contain student likeness or student-generated content may be removed without notice.
