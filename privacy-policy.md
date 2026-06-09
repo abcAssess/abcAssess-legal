@@ -39,7 +39,7 @@ description: Version 1.2 · Updated June 9, 2026
   We support local email/password sign-in, Google Sign-In, and Sign in with Apple. We collect your provider-supplied name, email address, and unique account identifier. We do not collect payment information, phone numbers, or physical addresses.
 
 - **2.2 Student Assessment Data**  
-  Teachers may enter the following minimal student identifiers: a student's first name and last initi/al (optional), birth month and year (optional, used solely to calculate age for assessment accuracy), or alternatively a student ID number or other non-name identifier. We deliberately avoid collecting exact birth dates, full legal names, addresses, or any other personally identifiable information beyond what is listed above.
+  Teachers may enter the following minimal student identifiers: a student's first name and last initial (optional), birth month and year (optional, used solely to calculate age for assessment accuracy), or alternatively a student ID number or other non-name identifier. We deliberately avoid collecting exact birth dates, full legal names, addresses, or any other personally identifiable information beyond what is listed above.
 
 - **2.3 Instructional Media**  
   To support custom and multimodal assessments (such as color identification or auditory phonemic checks), teachers may securely upload custom instructional images and audio recording prompts. All uploaded media must be strictly instructional in nature. We explicitly prohibit the collection, upload, or storage of any student photos, student videos, or student-generated audio recordings. Any media upload that appears to contain student likeness or student-generated content may be removed without notice.
@@ -91,7 +91,7 @@ We do not use any data collected through abcAssess for purposes other than those
 
 ## 5. Data Sub-Processors
 
-#### We use a limited number of carefully selected sub-processors, each bound by contractual data processing agreements and their own security and privacy standards. We do not share data with sub-processors beyond what is necessary to deliver our service.## 5. Data Portability, Backups, and Exports
+#### We use a limited number of carefully selected sub-processors, each bound by contractual data processing agreements and their own security and privacy standards. We do not share data with sub-processors beyond what is necessary to deliver our service.
 
 | Sub-Processor | Purpose | Data Location | Privacy Link |
 |---|---|---|---|
@@ -130,34 +130,34 @@ Teachers and schools located in the European Union, United Kingdom, Australia, N
 #### Depending on your jurisdiction, you have the following rights with respect to your data and the student data associated with your account. We honor these rights for all users regardless of location.
 
 - **7.1 Access and Portability**  
-  You have the right to request a complete copy of the personal data we hold about you and your associated student records. Use the full data export feature in the Reports section of the app or contact us at [legal@abcassess.app(mailto:legal@abcassess.app)].
+  You have the right to request a complete copy of the personal data we hold about you and your associated student records. Use the full data export feature in the Reports section of the app or contact us at [legal@abcassess.app](mailto:legal@abcassess.app).
   
 - **7.2 Rectification**  
   You have the right to correct inaccurate or incomplete personal data. Teacher account information can be updated directly within the app. Student records can be edited or corrected by the account holder at any time.
   
 - **7.3 Erasure (Right to Be Forgotten)**  
-  You have the right to permanently delete your account and all associated data. See Section 9 for details on our cascade deletion process. Deletion requests are processed immediately upon confirmation within the app or within 30 days of a written request to [legal@abcassess.app(mailto:legal@abcassess.app)].
+  You have the right to permanently delete your account and all associated data. See Section 9 for details on our cascade deletion process. Deletion requests are processed immediately upon confirmation within the app or within 30 days of a written request to [legal@abcassess.app](mailto:legal@abcassess.app).
   
 - **7.4 Restriction and Objection**  
-  You have the right to request that we restrict processing of your data or to object to certain types of processing. Contact us at [legal@abcassess.app(mailto:legal@abcassess.app)] to make such a request. We will respond within 30 days.
+  You have the right to request that we restrict processing of your data or to object to certain types of processing. Contact us at [legal@abcassess.app](mailto:legal@abcassess.app) to make such a request. We will respond within 30 days.
   
 - **7.5 Withdrawal of Consent**  
   Where processing is based on consent, you may withdraw consent at any time by deleting your account, which immediately halts all processing of your personal data and associated student records.
   
 - **7.6 CCPA / CPRA Rights (California Residents)**  
-  California residents have the right to know what personal information is collected, to delete personal information, to opt out of the sale of personal information (we do not sell personal information), and to non-discrimination for exercising these rights. To submit a California privacy request, contact [legal@abcassess.app(mailto:legal@abcassess.app)].
+  California residents have the right to know what personal information is collected, to delete personal information, to opt out of the sale of personal information (we do not sell personal information), and to non-discrimination for exercising these rights. To submit a California privacy request, contact [legal@abcassess.app](mailto:legal@abcassess.app).
   
 - **7.7 GDPR and UK GDPR Rights (EU and UK Users)**  
-  If you are located in the European Union or United Kingdom, you have additional rights under GDPR and UK GDPR including the right to data portability, the right to object to automated decision-making, and the right to lodge a complaint with your local supervisory authority. We encourage you to contact us first at [legal@abcassess.app(mailto:legal@abcassess.app)] so we have the opportunity to address your concern directly. Please include "GDPR Request" in your subject line.
+  If you are located in the European Union or United Kingdom, you have additional rights under GDPR and UK GDPR including the right to data portability, the right to object to automated decision-making, and the right to lodge a complaint with your local supervisory authority. We encourage you to contact us first at [legal@abcassess.app](mailto:legal@abcassess.app) so we have the opportunity to address your concern directly. Please include "GDPR Request" in your subject line.
   
 - **7.8 Australian Privacy Rights (Australian Users)**  
-  If you are located in Australia, you have rights under the Privacy Act 1988 and Australian Privacy Principles (APPs), including the right to access and correct your personal information and the right to complain to the Office of the Australian Information Commissioner (OAIC). To exercise these rights contact [legal@abcassess.app(mailto:legal@abcassess.app)] with "Australian Privacy Request" in the subject line.
+  If you are located in Australia, you have rights under the Privacy Act 1988 and Australian Privacy Principles (APPs), including the right to access and correct your personal information and the right to complain to the Office of the Australian Information Commissioner (OAIC). To exercise these rights contact [legal@abcassess.app](mailto:legal@abcassess.app) with "Australian Privacy Request" in the subject line.
 
 - **7.9 New Zealand Privacy Rights (New Zealand Users)**  
-  If you are located in New Zealand, you have rights under the Privacy Act 2020, including the right to access and correct your personal information and the right to complain to the Office of the Privacy Commissioner. To exercise these rights contact [legal@abcassess.app(mailto:legal@abcassess.app)] with "NZ Privacy Request" in the subject line.
+  If you are located in New Zealand, you have rights under the Privacy Act 2020, including the right to access and correct your personal information and the right to complain to the Office of the Privacy Commissioner. To exercise these rights contact [legal@abcassess.app](mailto:legal@abcassess.app) with "NZ Privacy Request" in the subject line.
   
 - **7.10 PIPEDA Rights (Canadian Users)**  
-  If you are located in Canada, you have rights under the Personal Information Protection and Electronic Documents Act (PIPEDA), including the right to access your personal information and the right to challenge our compliance with the Privacy Commissioner of Canada. To exercise these rights contact [legal@abcassess.app(mailto:legal@abcassess.app)] with "Canadian Privacy Request" in the subject line.
+  If you are located in Canada, you have rights under the Personal Information Protection and Electronic Documents Act (PIPEDA), including the right to access your personal information and the right to challenge our compliance with the Privacy Commissioner of Canada. To exercise these rights contact [legal@abcassess.app](mailto:legal@abcassess.app) with "Canadian Privacy Request" in the subject line.
 
 ---
 
@@ -205,10 +205,10 @@ Teachers and schools located in the European Union, United Kingdom, Australia, N
 - **9.4 Inactivity**  
   Accounts that remain completely inactive for 12 consecutive months will be flagged for archival deletion. We will send a written warning notice to the account's registered email address 30 days prior to scheduled deletion. If no response or login activity is recorded within that 30-day window, the account and all associated data will be permanently deleted pursuant to the cascade deletion process described above.
   
-- **9.4 Backup and Recovery**  
+- **9.5 Backup and Recovery**  
   Following account deletion, data may persist in encrypted system backups for up to 30 days before being permanently overwritten in the ordinary course of our backup rotation cycle. During this period, data in backups is not accessible or restorable except in the event of a system-wide catastrophic failure, and only to the extent required to restore overall system integrity.
   
-- **9.5 Transfer Request Expiry**  
+- **9.6 Transfer Request Expiry**  
   Pending student and class transfer requests expire automatically after 30 days if not accepted by the recipient. Upon expiry, the transfer is cancelled and the sending teacher retains their original data unchanged. The sending teacher and intended recipient are both notified by email when a transfer request expires. This 30-day limit applies regardless of whether the sending teacher's account remains active.
 
 ---
