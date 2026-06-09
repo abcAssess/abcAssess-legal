@@ -41,10 +41,10 @@ description: Version 1.2 · Updated June 9, 2026
 - **2.2 Student Assessment Data**  
   Teachers may enter the following minimal student identifiers: a student's first name and last initi/al (optional), birth month and year (optional, used solely to calculate age for assessment accuracy), or alternatively a student ID number or other non-name identifier. We deliberately avoid collecting exact birth dates, full legal names, addresses, or any other personally identifiable information beyond what is listed above.
 
-* **2.3 Instructional Media**
-*   To support custom and multimodal assessments (such as color identification or auditory phonemic checks), teachers may securely upload custom instructional images and audio recording prompts. All uploaded media must be strictly instructional in nature. We explicitly prohibit the collection, upload, or storage of any student photos, student videos, or student-generated audio recordings. Any media upload that appears to contain student likeness or student-generated content may be removed without notice.
+- **2.3 Instructional Media**
+  To support custom and multimodal assessments (such as color identification or auditory phonemic checks), teachers may securely upload custom instructional images and audio recording prompts. All uploaded media must be strictly instructional in nature. We explicitly prohibit the collection, upload, or storage of any student photos, student videos, or student-generated audio recordings. Any media upload that appears to contain student likeness or student-generated content may be removed without notice.
 
-* **2.4 Technical and Diagnostic Logs**
+- **2.4 Technical and Diagnostic Logs**
   We collect non-identifiable diagnostic and performance data solely to maintain application stability and improve service reliability. This data does not include student names, scores, or identifiable information and is not linked to individual user accounts.
 
 * **2.5 Cookies and Tracking**
@@ -69,18 +69,22 @@ We do not use any data collected through abcAssess for purposes other than those
 
 ## 4. Security Architecture
 * **4.1 Client-Side Encryption**
-Sensitive student data — including names and assessment scores — is encrypted at the application level before being transmitted to or stored in our database. This means that even our own developers and database administrators cannot view student names or results in plain text. We use AES-256 encryption for data at rest and TLS 1.3 for all data in transit.
+  Sensitive student data — including names and assessment scores — is encrypted at the application level before being transmitted to or stored in our database. This means that even our own developers and database administrators cannot view student names or results in plain text. We use AES-256 encryption for data at rest and TLS 1.3 for all data in transit.
 
 * **4.2 Database Architecture**
-Our encryption keys are managed separately from our database infrastructure (MongoDB Atlas), creating a database-blind architecture in which the underlying data store cannot be read without application-level decryption. This architectural separation significantly limits exposure in the event of a database-level security incident.
+  Our encryption keys are managed separately from our database infrastructure (MongoDB Atlas), creating a database-blind architecture in which the underlying data store cannot be read without application-level decryption. This architectural separation significantly limits exposure in the event of a database-level security incident.
 
-Our primary database infrastructure is hosted in the United States. We intend to expand to EU/UK-based database infrastructure as our user base in those regions grows, in order to better serve data residency expectations for UK and EU users.
+  Our primary database infrastructure is hosted in the United States. We intend to expand to EU/UK-based database infrastructure as our user base in those regions grows, in order to better serve data residency expectations for UK and EU users.
 
 * **4.3 Access Controls**
-Access to production systems and data infrastructure is restricted to authorized personnel only, protected by multi-factor authentication, and subject to the principle of least privilege. We conduct periodic reviews of access permissions.
+  Access to production systems and data infrastructure is restricted to authorized personnel only, protected by multi-factor authentication, and subject to the principle of least privilege. We conduct periodic reviews of access permissions.
 
 * **4.4 Data Breach Notification**
-In the event of a confirmed data breach that affects personal data, we will: (a) notify affected users by email as soon as reasonably practicable and no later than 72 hours after becoming aware of the breach, in compliance with GDPR Article 33 and UK GDPR requirements; (b) notify relevant supervisory authorities as required by applicable law in each affected jurisdiction; and (c) provide a plain-language description of the nature of the breach, the categories of data affected, and the steps we are taking to address it. Notifications will be sent to the email address associated with the affected account. We encourage teachers to keep their account email addresses current.
+  In the event of a confirmed data breach that affects personal data, we will:
+  - (a) notify affected users by email as soon as reasonably practicable and no later than 72 hours after becoming aware of the breach, in compliance with GDPR Article 33 and UK GDPR requirements;
+  - (b) notify relevant supervisory authorities as required by applicable law in each affected jurisdiction; and
+  - (c) provide a plain-language description of the nature of the breach, the categories of data affected, and the steps we are taking to address it.
+  Notifications will be sent to the email address associated with the affected account. We encourage teachers to keep their account email addresses current.
 
 ---
 
