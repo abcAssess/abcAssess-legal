@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Privacy Policy
-description: Updated May 18, 2026
+description: Version 1.2 · Updated June 9, 2026
 ---
 
 <style>
@@ -13,42 +13,74 @@ description: Updated May 18, 2026
 
 ---
 
+#### abcAssess is built specifically for educators. We do not sell student data, use it for behavioral advertising, or build marketing profiles of children. We operate as a "School Official" under FERPA and as a "Data Processor" under GDPR/UK GDPR.
+
+#### abcAssess is available to educators in the United States, Canada (English-speaking provinces), Australia, New Zealand, the United Kingdom, and Ireland.
+
+---
+
 ## 1. Our Commitment to Student Privacy
 
-#### abcAssess is built specifically for educators. We operate as a "School Official" under the Family Educational Rights and Privacy Act (FERPA) in the US and as a "Data Processor" under GDPR/UK GDPR. We do not sell student data, use it for behavioral advertising, or build marketing profiles of children.
+#### abcAssess is an educational assessment platform designed exclusively for teachers and schools. Privacy is not an afterthought — it is a foundational design principle of our product. We are committed to the following core principles:
+
+* We do not sell student data to any third party, for any purpose, ever.
+* We do not use student data for behavioral advertising, interest profiling, or marketing of any kind.
+* We collect only the minimum data necessary to deliver educational assessment functionality.
+* Student data belongs to the teacher and school — not to us.
+* We provide full data portability and permanent deletion on request.
 
 ---
 
 ## 2. Information We Collect (Data Minimization)
 
-#### We apply a strict "Data Minimization" policy, collecting only what is essential for educational assessment: 
+#### We apply a strict data minimization policy, collecting only what is essential for educational assessment functionality.
 
-* **Teacher Account Data:** We use local email/password sign-in, Google Sign-In and Sign in with Apple. We collect your provider-provided name, email address, and unique identifier.
-* **Student Assessment Data:** Teachers may enter student's First Name, Last Initial (optional), and Birth Month/Year (optional). Alternatively, they may enter a student id or other identifier instead of the student's name. Birth Month/Year are used solely to calculate age for assessment accuracy and avoids the collection of exact birth dates.
-* **Instructional Media Storage:** To support custom and multimodal assessments (such as Spanish colors or auditory phonemic checks), the platform allows teacher to securely uplaod custom inmages and recording prompts. **We strickly exclude and prohibit the collection, request, or storage of any student photos, videos, or student-generated audio recordings.** All uploaded media must be strictly instructional.
-* **Technical Logs:** We collect non-identifiable diagnostic data to maintain app stability.
+* **2.1 Teacher Account Data**
+We support local email/password sign-in, Google Sign-In, and Sign in with Apple. We collect your provider-supplied name, email address, and unique account identifier. We do not collect payment information, phone numbers, or physical addresses.
+
+* **2.2 Student Assessment Data**
+Teachers may enter the following minimal student identifiers: a student's first name and last initi/al (optional), birth month and year (optional, used solely to calculate age for assessment accuracy), or alternatively a student ID number or other non-name identifier. We deliberately avoid collecting exact birth dates, full legal names, addresses, or any other personally identifiable information beyond what is listed above.
+
+* **2.3 Instructional Media**
+To support custom and multimodal assessments (such as color identification or auditory phonemic checks), teachers may securely upload custom instructional images and audio recording prompts. All uploaded media must be strictly instructional in nature. We explicitly prohibit the collection, upload, or storage of any student photos, student videos, or student-generated audio recordings. Any media upload that appears to contain student likeness or student-generated content may be removed without notice.
+
+* **2.4 Technical and Diagnostic Logs**
+We collect non-identifiable diagnostic and performance data solely to maintain application stability and improve service reliability. This data does not include student names, scores, or identifiable information and is not linked to individual user accounts.
+
+* **2.5 Cookies and Tracking**
+abcAssess does not use third-party advertising cookies, behavioral tracking scripts, or cross-site tracking technologies. We use only technically necessary session cookies required for authentication and application function. We do not use Google Analytics, Meta Pixel, or similar behavioral tracking tools. If this changes in a future version, this policy will be updated and users will be notified in advance.
 
 ---
 
-## 3. Advanced Security & "Zero-Knowledge" Architecture
+## 3. How We Use Your Data
 
-#### We utilize a "Zero-Knowledge" security model to ensure that student results remain private, even from us: 
+#### We use the data we collect exclusively for the following purposes, consistent with our GDPR lawful basis for each category:
 
-* **Client-Side Field Level Encryption (CSFLE):** Sensitive student data, including names, are encrypted at the application level *before* being sent to the database.
-* **Encryption Standards:** Data is encrypted in transit (TLS 1.3) and at rest using AES-256.
-* **Database Blindness:** Because encryption keys are managed separately from the database, the developers and database administrators cannot view student names or scores in plain text within MongoDB Atlas.
+| Data Category | Purpose | Lawful Basis |
+|---|---|---|
+| Teacher Account Data | Account creation, authentication, and account management | Contract performance (Art. 6(1)(b)) |
+| Student Assessment Data | Delivering assessment functionality and generating reports | Legitimate interests (Art. 6(1)(f)) |
+| Instructional Media | Displaying teacher-uploaded content during assessments | Contract performance (Art. 6(1)(b)) |
+| Technical Logs | Application stability, error diagnosis, and security monitoring | Legitimate interests (Art. 6(1)(f)) |
+
+We do not use any data collected through abcAssess for purposes other than those listed above without obtaining prior written consent from the affected users.
 
 ---
 
-## 4. Data Sub-Processors
+## 4. Security Architecture
+* **4.1 Client-Side Encryption**
+Sensitive student data — including names and assessment scores — is encrypted at the application level before being transmitted to or stored in our database. This means that even our own developers and database administrators cannot view student names or results in plain text. We use AES-256 encryption for data at rest and TLS 1.3 for all data in transit.
 
-#### We use a limited number of "Sub-Processors" bound by strict privacy and security standards: 
+* **4.2 Database Architecture**
+Our encryption keys are managed separately from our database infrastructure (MongoDB Atlas), creating a database-blind architecture in which the underlying data store cannot be read without application-level decryption. This architectural separation significantly limits exposure in the event of a database-level security incident.
 
-* **MongoDB Atlas:** For secure, encrypted database storage.
-* **Railway:** For secure backend processing and encryption key management.
-* **Vercel:** For hosting our application user interface.
-* **Google/Apple:** For secure federated authentication services.
-* **Resend:** For handling system transactional email operations, including password resets and feedback protocols.
+Our primary database infrastructure is hosted in the United States. We intend to expand to EU/UK-based database infrastructure as our user base in those regions grows, in order to better serve data residency expectations for UK and EU users.
+
+* **4.3 Access Controls**
+Access to production systems and data infrastructure is restricted to authorized personnel only, protected by multi-factor authentication, and subject to the principle of least privilege. We conduct periodic reviews of access permissions.
+
+* **4.4 Data Breach Notification**
+In the event of a confirmed data breach that affects personal data, we will: (a) notify affected users by email as soon as reasonably practicable and no later than 72 hours after becoming aware of the breach, in compliance with GDPR Article 33 and UK GDPR requirements; (b) notify relevant supervisory authorities as required by applicable law in each affected jurisdiction; and (c) provide a plain-language description of the nature of the breach, the categories of data affected, and the steps we are taking to address it. Notifications will be sent to the email address associated with the affected account. We encourage teachers to keep their account email addresses current.
 
 ---
 
