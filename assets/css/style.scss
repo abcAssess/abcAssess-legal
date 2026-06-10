@@ -260,7 +260,7 @@ hr {
   }
 
   a[href^="mailto:"] {
-    color: $brand-sage !important;
+    color: #96B499 !important;
 
     &:hover {
       color: $brand-steel !important;
@@ -285,15 +285,15 @@ hr {
   }
 
   .main-content h2 {
-    color: $brand-sage !important;
+    color: #96B499 !important;
   }
 
   .main-content h3 {
-    color: $brand-sage !important;
+    color: #96B499 !important;
   }
 
   .main-content h4 {
-    color: $brand-sage !important;
+    color: #96B499 !important;
   }
 
   body {
@@ -336,12 +336,12 @@ hr {
 
   blockquote {
     color: $brand-slate100;
-    border-left-color: $brand-sage;
+    border-left-color: #96B499;
   }
 
   code {
     background-color: #13223A;
-    color: $brand-sage;
+    color: #96B499;
   }
 
 }
