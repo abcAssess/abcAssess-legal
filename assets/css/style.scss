@@ -132,24 +132,23 @@ body {
   background-color: $brand-slate;
   color: $brand-navy; 
 }
-table {
+body table {
     color: $brand-navy;
+    border-color: $brand-navylight;
   }
-
-  th {
+body table th {
     background-color: $brand-slate100;
     color: $brand-navy;
+    border-color: $brand-navylight;
   }
-
-  td {
-    border-color: $brand-navy;
+body table td {
+    border-color: $brand-navylight;
   }
-
-  tr:nth-child(even) {
+body table tr:nth-child(even) {
     background-color: #e2e8f0;
+    border-color: $brand-navylight;
   }
-
-  hr {
+body table hr {
     border-color: $brand-navy;
   }
 
