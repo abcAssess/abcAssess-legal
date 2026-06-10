@@ -260,7 +260,7 @@ hr {
   }
 
   a[href^="mailto:"] {
-    color: $brand-sage !important;
+    color: #E09384 !important;
 
     &:hover {
       color: $brand-honey !important;
@@ -268,24 +268,24 @@ hr {
   }
 
   .main-content a {
-    color: #E09384;
+    color: #96B499;
 
     &:hover {
-      color: $brand-honey;
+      color: #E09384;
       text-decoration: none;
     }
 
     &:visited {
-      color: #E09384;
+      color: #96B499;
     }
   }
 
   .main-content h1 {
-    color: #96B499 !important;
+    color: $brand-honey !important;
   }
 
   .main-content h2 {
-    color: #96B499 !important;
+    color: $brand-honey !important;
   }
 
   .main-content h3 {
