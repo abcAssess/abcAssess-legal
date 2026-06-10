@@ -24,7 +24,9 @@ description: Version 2.2 · Updated June 9, 2026
 ## 1. Acceptance of Terms
 
 ### By creating an account, accessing, or using abcAssess (the "Service"), you agree to be bound by these Terms of Service (these "Terms"), our Privacy Policy, and any additional guidelines or policies we may publish from time to time. These Terms constitute a legally binding agreement between you and abcAssess ("we," "us," or "our"). If you are using abcAssess on behalf of a school, district, or institution, you represent that you have authority to bind that organization to these Terms.
+
 [Back to top ↑](#)
+
 ---
 
 ## 2. Eligibility and Authority
@@ -37,35 +39,42 @@ description: Version 2.2 · Updated June 9, 2026
 - Your use of abcAssess complies with your school's or institution's applicable data privacy policies and any applicable student data privacy agreements.
 
 abcAssess is not intended for use by students directly. Students do not create accounts or interact with the platform.
+
 [Back to top ↑](#)
 
 ---
 
 ## 3. Account Responsibilities and Multi-User Access
 
-- **3.1 Account Security**. 
-  You are responsible for maintaining the confidentiality of your account credentials and for all activity that occurs under your account. You agree to notify us immediately at support@abcassess.app if you suspect unauthorized access to or use of your account. We are not liable for any loss resulting from unauthorized use of your account.
+- **3.1 Account Security**  
+  You are responsible for maintaining the confidentiality of your account credentials and for all activity that occurs under your account. You agree to notify us immediately at [support@abcassess.app](mailto:support@abcassess.app) if you suspect unauthorized access to or use of your account. We are not liable for any loss resulting from unauthorized use of your account.
   
-- **3.2 Shared and Assistant Access**. 
+- **3.2 Shared and Assistant Access**  
   If you invite, connect, or grant access to an assistant teacher, co-teacher, or other user within the Service, you assume full administrative and legal responsibility for their account activity, data entries, and compliance with these Terms and applicable law. You should only grant access to individuals who are authorized by your institution and who understand their obligations under applicable privacy law.
   
-- **3.3 Student Record Transfers**. 
+- **3.3 Student Record Transfers**  
   The Service allows for the transfer of student records between abcAssess accounts to support legitimate educational purposes. By initiating a transfer, you represent and warrant that the receiving educator has a legitimate educational interest in the transferred student records and that the transfer complies with all applicable privacy laws including FERPA, PIPEDA, Australian Privacy Principles, the New Zealand Privacy Act 2020, and GDPR/UK GDPR as applicable. Transfer requests require acceptance by the recipient and expire automatically after 30 days if not accepted. Upon completing a transfer, the receiving educator assumes full data custody and responsibility for those records.
   
 [Back to top ↑](#)
 
 ---
 
-4. Intellectual Property and User Content
-4.1 Platform Ownership
-All software, source code, user interface designs, graphics, iconography, trademarks, brand marks, and other assets associated with abcAssess are the exclusive intellectual property of abcAssess and are protected under applicable United States and international copyright, trademark, and trade secret law. Nothing in these Terms grants you any right, title, or interest in abcAssess's intellectual property except the limited license to use the Service as described herein.
-4.2 Your Content
-You retain full ownership of original assessment frameworks, templates, and instructional content that you create within the Service. abcAssess claims no ownership over your custom content.
-4.3 License for Shared Content
-If you choose to share a custom assessment framework or template with other educators through the Service's internal sharing features, you grant abcAssess a non-exclusive, royalty-free, worldwide license to host, store, reproduce, and transmit that content solely for the purpose of operating the sharing feature. This license is limited to what is necessary to provide the Service and does not permit us to use your content for any other purpose. abcAssess does not review, endorse, or assume responsibility for the accuracy, pedagogical validity, or grading standards of user-shared content.
-4.4 Feedback
-If you provide suggestions, feedback, or ideas about the Service, you grant abcAssess the right to use such feedback without restriction or compensation to you. We are not obligated to implement any feedback.
+## 4. Intellectual Property and User Content
+
+- **4.1 Platform Ownership**  
+  All software, source code, user interface designs, graphics, iconography, trademarks, brand marks, and other assets associated with abcAssess are the exclusive intellectual property of abcAssess and are protected under applicable United States and international copyright, trademark, and trade secret law. Nothing in these Terms grants you any right, title, or interest in abcAssess's intellectual property except the limited license to use the Service as described herein.
+  
+- **4.2 Your Content**  
+  You retain full ownership of original assessment frameworks, templates, and instructional content that you create within the Service. abcAssess claims no ownership over your custom content.
+  
+- **4.3 License for Shared Content**  
+  If you choose to share a custom assessment framework or template with other educators through the Service's internal sharing features, you grant abcAssess a non-exclusive, royalty-free, worldwide license to host, store, reproduce, and transmit that content solely for the purpose of operating the sharing feature. This license is limited to what is necessary to provide the Service and does not permit us to use your content for any other purpose. abcAssess does not review, endorse, or assume responsibility for the accuracy, pedagogical validity, or grading standards of user-shared content.
+  
+- **4.4 Feedback**  
+  If you provide suggestions, feedback, or ideas about the Service, you grant abcAssess the right to use such feedback without restriction or compensation to you. We are not obligated to implement any feedback.
+  
 [Back to top ↑](#)
+
 ---
 
 5. User Responsibilities and Prohibited Uses
