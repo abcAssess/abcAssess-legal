@@ -111,19 +111,18 @@ a[href^="mailto:"] {
 // 4. Headings
 // ============================================================
 
-section.main-content h1 {
+.main-content h1 {
   color: $brand-navy !important;
-}
-section.main-content h2 {
+} 
+.main-content h2 {
   color: $brand-sage !important;
 }
-section.main-content h3 {
+.main-content h3 {
   color: $brand-sage !important;
 }
-section.main-content h4 {
-  color: $brand-sage !important;
+.main-content h4 {
+  color: $brand-steel !important;
 }
-
 // ============================================================
 // 5. Page Background
 // ============================================================
