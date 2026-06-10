@@ -224,80 +224,199 @@ body table hr {
 
 @media (prefers-color-scheme: dark) {
 
-  body {
-    background-color: $brand-navy;
-    color: $brand-slate;
+ // ============================================================
+// 1. Hero Header
+// ============================================================
+
+.page-header {
+  background-color: $brand-navylight;
+  background-image: linear-gradient(120deg, $brand-navylight, lighten($brand-navylight, 10%));
+  padding-top: 1.5rem !important;
+  padding-bottom: 1rem !important;
+}
+
+.page-header .project-name {
+  color: $brand-slate !important;
+  margin-top: 0.1rem !important;
+  margin-bottom: 0.25rem !important;
+}
+
+.page-header .project-tagline {
+  color: $brand-slate100 !important;
+  opacity: 0.85;
+}
+
+.page-header img.nav-logo,
+.page-header img {
+  max-width: 100% !important;
+  width: auto !important;
+  height: auto !important;
+  margin-bottom: 0.1rem !important;
+}
+
+header img, .site-header img, .logo {
+  max-height: 120px !important;
+  width: auto !important;
+}
+
+
+// ============================================================
+// 2. Buttons
+// ============================================================
+
+.btn {
+  color: $brand-honey;
+  border-color: rgba($brand-navy, 0.2);
+
+  &:hover {
+    background-color: rgba($brand-honey, 0.1);
+    color: $brand-navy;
+    border-color: $brand-navy;
   }
+}
 
-  .page-header {
-    background-color: $brand-navylight;
-    background-image: linear-gradient(120deg, #111e33, #1B2D4A);
+
+// ============================================================
+// 3. Links & Accents
+// ============================================================
+
+a {
+  color: $brand-sage;
+}
+
+a[href^="mailto:"] {
+  color: $brand-sage !important;
+  text-decoration: underline;
+  transition: color 0.2s ease;
+
+  &:hover {
+    color: $brand-steel !important;
   }
+}
 
-  .main-content {
-    background-color: $brand-navy;
-    color: $brand-slate;
-  }
+.main-content a {
+  color: $brand-honet;
+  font-weight: 600;
+  text-decoration: underline;
 
-  section.main-content h1,
-  section.main-content h2,
-  section.main-content h3,
-  section.main-content h4 {
-    color: #96B499 !important;
-  }
-
-  .main-content a {
-    color: $brand-honey;
-
-    &:hover {
-      color: #e09384;
-    }
-
-    &:visited {
-      color: $brand-honey;
-    }
-  }
-
-  a[href^="mailto:"] {
-    color: #c19bc9 !important;
-
-    &:hover {
-      color: $brand-steel !important;
-    }
-  }
-
-  table {
-    color: #334155;
-  }
-
-  th {
-    background-color: #111e33;
-    color: #7fA082;
-  }
-
-  td {
-    border-color: #334155;
-  }
-
-  tr:nth-child(even) {
-    background-color: #152238;
-  }
-
-  hr {
-    border-color: #334155;
-  }
-
-  blockquote {
-    color: #b0b8c4;
-    border-left-color: #7fA082;
-  }
-
-  .footer-copyright {
+  &:hover {
     color: $brand-steel;
+    text-decoration: none;
   }
 
-  code {
-    background-color: #13223A;
-    color: $brand-sage;
+  &:visited {
+    color: $brand-honey;
+    text-decoration: underline;
+  }
+}
+
+
+// ============================================================
+// 4. Headings
+// ============================================================
+
+.main-content h1 {
+  color: $brand-slate100 !important;
+} 
+.main-content h2 {
+  color: $brand-sage !important;
+}
+.main-content h3 {
+  color: $brand-sage !important;
+}
+.main-content h4 {
+  color: $brand-sage !important;
+}
+// ============================================================
+// 5. Page Background
+// ============================================================
+
+body {
+  background-color: $brand-navy;
+  color: $brand-slate100; 
+}
+body table {
+    color: $brand-slate100;
+    border-color: #64748B !important;
+  }
+body table th {
+    background-color: $brand-navylight;
+    color: $brand-navy;
+    border-color: #64748B !important;
+  }
+body table td {
+    border-color: #64748B !important;
+  }
+body table tr:nth-child(even) {
+    background-color: #$brand-navylight;
+    border-color: #64748B !important;
+  }
+body table hr {
+    border-color: #64748B !important;
+  }
+
+
+// ============================================================
+// 6. Logo Container
+// ============================================================
+
+.logo-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 20px auto;
+  height: 80px;
+
+  img {
+    height: 100px;
+    width: auto;
+    transition: opacity 0.2s ease;
+
+    &:hover {
+      opacity: 0.8;
+    }
+  }
+}
+
+
+// ============================================================
+// 7. Footer
+// ============================================================
+
+.footer-image-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 1.5rem;
+  width: 100%;
+
+  img {
+    max-height: 60px;
+    width: auto;
+    display: block;
+  }
+}
+
+.footer-copyright {
+  font-size: 0.8rem;
+  color: $brand-steel;
+  margin-top: 0.75rem;
+  margin-bottom: 0;
+}
+
+
+// ============================================================
+// 8. Mobile / Responsive
+// ============================================================
+
+@media (max-width: 768px) {
+  .page-header img.nav-logo,
+  .page-header img {
+    max-height: 120px !important;
+    margin-bottom: 1rem !important;
+  }
+
+  .page-header .project-name {
+    font-size: 2rem !important;
   }
 }
