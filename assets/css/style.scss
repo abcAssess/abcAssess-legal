@@ -81,7 +81,7 @@ a {
 }
 
 a[href^="mailto:"] {
-  color: $brand-steel !important;
+  color: $brand-plum !important;
   text-decoration: underline;
   transition: color 0.2s ease;
 
@@ -139,11 +139,11 @@ table {
   }
 
   tr:nth-child(even) {
-    background-color: #brand-slate100;
+    background-color: $e2e8f0;
   }
 
   hr {
-    border-color: #cbd5e1;
+    border-color: #60748b;
   }
 
 
