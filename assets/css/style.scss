@@ -142,14 +142,14 @@ body table th {
     border-color: $brand-navylight;
   }
 body table td {
-    border-color: $brand-navylight;
+    border-color: $brand-navylight !important;
   }
 body table tr:nth-child(even) {
     background-color: #e2e8f0;
     border-color: $brand-navylight;
   }
 body table hr {
-    border-color: $brand-navy;
+    border-color: $brand-navylight !important;
   }
 
 
