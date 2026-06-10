@@ -77,42 +77,58 @@ abcAssess is not intended for use by students directly. Students do not create a
 
 ---
 
-5. User Responsibilities and Prohibited Uses
-You agree to use abcAssess only for its intended educational assessment purposes and in compliance with all applicable laws. You agree not to:
+## 5. User Responsibilities and Prohibited Uses
 
-Enter, store, or transmit high-sensitivity personally identifiable information (PII) that is not necessary for educational assessment, including Social Security Numbers, full legal home addresses, financial records, immigration status, or comprehensive medical histories.
-Upload, request, or store any student-generated biometric data, including student photographs, facial recognition data, child voice recordings, or student-generated audio content. All uploaded media must be strictly instructional in nature.
-Attempt to reverse-engineer, decompile, or otherwise access the source code or encryption architecture of the Service.
-Attempt to introduce malicious code, conduct injection attacks, or deliberately exploit vulnerabilities in the Service.
-Use the Service to assess or store data for students for whom you do not have proper authorization.
-Share your account credentials with unauthorized individuals or allow unauthorized access to the Service through your account.
-Use the Service in any manner that violates applicable student data privacy law in your jurisdiction.
-Use the Service for any unlawful purpose or in any way that could damage, disable, or impair the Service or interfere with other users.
+####You agree to use abcAssess only for its intended educational assessment purposes and in compliance with all applicable laws. You agree not to:
+
+- Enter, store, or transmit high-sensitivity personally identifiable information (PII) that is not necessary for educational assessment, including Social Security Numbers, full legal home addresses, financial records, immigration status, or comprehensive medical histories.
+- Upload, request, or store any student-generated biometric data, including student photographs, facial recognition data, child voice recordings, or student-generated audio content. All uploaded media must be strictly instructional in nature.
+- Attempt to reverse-engineer, decompile, or otherwise access the source code or encryption architecture of the Service.
+- Attempt to introduce malicious code, conduct injection attacks, or deliberately exploit vulnerabilities in the Service.
+- Use the Service to assess or store data for students for whom you do not have proper authorization.
+- Share your account credentials with unauthorized individuals or allow unauthorized access to the Service through your account.
+- Use the Service in any manner that violates applicable student data privacy law in your jurisdiction.
+- Use the Service for any unlawful purpose or in any way that could damage, disable, or impair the Service or interfere with other users.
+  
 [Back to top ↑](#)
+
 ---
 
-6. Subscription Plans, Billing, and Free Trial
-6.1 Free Trial
-New accounts are eligible for a 14-day free trial with full access to all Service features. No payment information is required during the trial period. At the end of the trial period, a valid payment method must be provided to continue using the Service.
-If no subscription is purchased at trial end, the account enters a suspended state with read-only access. An immediate email notification is sent advising the teacher to subscribe to continue or export and delete their data. If no subscription is purchased within 90 days of trial expiry, a final warning email is sent and the account and all associated data are permanently deleted pursuant to our cascade deletion process. Teachers may log back in at any time during the 90-day grace period to export their data, subscribe, or manually delete their account.
-6.2 Subscription Plans
-abcAssess offers the following subscription plans for individual teachers:
-Monthly Plan: Full access to all features, billed month-to-month. Cancellable at any time.
-Annual Plan: Full access to all features for 12 months, billed annually. Renews automatically on the anniversary of the subscription start date unless cancelled.
-Additional plans may be introduced from time to time and will be described at the point of purchase.
-6.3 Billing and Payment
-All subscriptions are processed through our payment processor (currently Stripe). By providing payment information, you authorize us to charge your payment method for all applicable subscription fees. All prices are displayed in USD unless otherwise indicated. Applicable taxes including VAT (UK/Ireland) and GST (Australia/New Zealand) will be calculated and collected automatically at checkout.
-6.4 Auto-Renewal
-All plans renew automatically unless cancelled before the renewal date. You will receive a reminder email before each renewal. You can cancel auto-renewal at any time through your account settings.
-6.5 Free Trial and New Subscription Refund Window
-If you are not satisfied with your purchase, you may request a full refund within 48 hours of your first paid charge (new subscriptions only) or within 48 hours of an annual plan renewal charge. This refund window applies to Annual Plan new signups and renewals only. Monthly Plan charges are non-refundable. Refund requests must be submitted to support@abcassess.app within the 48-hour window.
-6.6 Cancellation
-You may cancel your subscription at any time through your account settings. Cancellation takes effect at the end of your current paid period. You will retain full access to the Service through the end of the period for which you have paid. Cancelling your subscription does not delete your account or your data — these are separate actions.
-6.7 Price Changes
-We reserve the right to change subscription prices. For Monthly Plan subscribers, we will provide at least 30 days notice before a price change takes effect. For Annual Plan subscribers, we will provide at least 60 days notice before a price change takes effect at their next renewal. Notice will be provided by email to the address associated with your account. Continued use of the Service after a price change takes effect constitutes acceptance of the new pricing.
-6.8 Feature Availability by Plan
+## 6. Subscription Plans, Billing, and Free Trial
+
+- **6.1 Free Trial**  
+  New accounts are eligible for a 14-day free trial with full access to all Service features. No payment information is required during the trial period. At the end of the trial period, a valid payment method must be provided to continue using the Service.
+  
+  If no subscription is purchased at trial end, the account enters a suspended state with read-only access. An immediate email notification is sent advising the teacher to subscribe to continue or export and delete their data. If no subscription is purchased within 90 days of trial expiry, a final warning email is sent and the account and all associated data are permanently deleted pursuant to our cascade deletion process. Teachers may log back in at any time during the 90-day grace period to export their data, subscribe, or manually delete their account.
+  
+- **6.2 Subscription Plans**  
+
+#### abcAssess offers the following subscription plans for individual teachers:
+
+- **Monthly Plan:** Full access to all features, billed month-to-month. Cancellable at any time.
+- **Annual Plan:** Full access to all features for 12 months, billed annually. Renews automatically on the anniversary of the subscription start date unless cancelled.
+- Additional plans may be introduced from time to time and will be described at the point of purchase.
+
+- **6.3 Billing and Payment**  
+  All subscriptions are processed through our payment processor (currently Stripe). By providing payment information, you authorize us to charge your payment method for all applicable subscription fees. All prices are displayed in USD unless otherwise indicated. Applicable taxes including VAT (UK/Ireland) and GST (Australia/New Zealand) will be calculated and collected automatically at checkout.
+  
+- **6.4 Auto-Renewal**
+  All plans renew automatically unless cancelled before the renewal date. You will receive a reminder email before each renewal. You can cancel auto-renewal at any time through your account settings.
+
+- **6.5 Free Trial and New Subscription Refund Window**
+  If you are not satisfied with your purchase, you may request a full refund within 48 hours of your first paid charge (new subscriptions only) or within 48 hours of an annual plan renewal charge. This refund window applies to Annual Plan new signups and renewals only. Monthly Plan charges are non-refundable. Refund requests must be submitted to [support@abcassess.app](mailto:support@abcassess.app) within the 48-hour window.
+
+- **6.6 Cancellation**
+  You may cancel your subscription at any time through your account settings. Cancellation takes effect at the end of your current paid period. You will retain full access to the Service through the end of the period for which you have paid. Cancelling your subscription does not delete your account or your data — these are separate actions.
+  
+- **6.7 Price Changes**  
+  We reserve the right to change subscription prices. For Monthly Plan subscribers, we will provide at least 30 days notice before a price change takes effect. For Annual Plan subscribers, we will provide at least 60 days notice before a price change takes effect at their next renewal. Notice will be provided by email to the address associated with your account. Continued use of the Service after a price change takes effect constitutes acceptance of the new pricing.
+  
+- **6.8 Feature Availability by Plan**  
 Features available to you depend on your current subscription plan and status. We reserve the right to modify the features included in each plan with appropriate notice as described in Section 6.7.
+
 [Back to top ↑](#)
+
 ---
 
 7. Disclaimer of Warranties
