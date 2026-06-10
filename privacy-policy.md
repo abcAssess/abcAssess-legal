@@ -13,12 +13,6 @@ description: Version 1.2 · Updated June 9, 2026
 
 ---
 
-#### abcAssess is built specifically for educators. We do not sell student data, use it for behavioral advertising, or build marketing profiles of children. We operate as a "School Official" under FERPA and as a "Data Processor" under GDPR/UK GDPR.
-
-#### abcAssess is available to educators in the United States, Canada (English-speaking provinces), Australia, New Zealand, the United Kingdom, and Ireland.
-
----
-
 ## Table of Contents
 
 1. [Our Commitment to Student Privacy](#1-our-commitment-to-student-privacy)
@@ -32,6 +26,12 @@ description: Version 1.2 · Updated June 9, 2026
 9. [Data Retention and Deletion](#9-data-retention-and-deletion)
 10. [Changes to This Policy](#10-changes-to-this-policy)
 11. [Contact](#11-contact)
+
+---
+
+#### abcAssess is built specifically for educators. We do not sell student data, use it for behavioral advertising, or build marketing profiles of children. We operate as a "School Official" under FERPA and as a "Data Processor" under GDPR/UK GDPR.
+
+#### abcAssess is available to educators in the United States, Canada (English-speaking provinces), Australia, New Zealand, the United Kingdom, and Ireland.
 
 ---
 
