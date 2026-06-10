@@ -103,7 +103,7 @@ abcAssess is not intended for use by students directly. Students do not create a
   
 - **6.2 Subscription Plans**  
 
-#### abcAssess offers the following subscription plans for individual teachers:
+  #### abcAssess offers the following subscription plans for individual teachers:
 
   - **Monthly Plan:** Full access to all features, billed month-to-month. Cancellable at any time.
   - **Annual Plan:** Full access to all features for 12 months, billed annually. Renews automatically on the anniversary of the subscription start date unless cancelled.
@@ -112,13 +112,13 @@ abcAssess is not intended for use by students directly. Students do not create a
 - **6.3 Billing and Payment**  
   All subscriptions are processed through our payment processor (currently Stripe). By providing payment information, you authorize us to charge your payment method for all applicable subscription fees. All prices are displayed in USD unless otherwise indicated. Applicable taxes including VAT (UK/Ireland) and GST (Australia/New Zealand) will be calculated and collected automatically at checkout.
   
-- **6.4 Auto-Renewal**
+- **6.4 Auto-Renewal**  
   All plans renew automatically unless cancelled before the renewal date. You will receive a reminder email before each renewal. You can cancel auto-renewal at any time through your account settings.
 
-- **6.5 Free Trial and New Subscription Refund Window**
+- **6.5 Free Trial and New Subscription Refund Window**  
   If you are not satisfied with your purchase, you may request a full refund within 48 hours of your first paid charge (new subscriptions only) or within 48 hours of an annual plan renewal charge. This refund window applies to Annual Plan new signups and renewals only. Monthly Plan charges are non-refundable. Refund requests must be submitted to [support@abcassess.app](mailto:support@abcassess.app) within the 48-hour window.
 
-- **6.6 Cancellation**
+- **6.6 Cancellation**  
   You may cancel your subscription at any time through your account settings. Cancellation takes effect at the end of your current paid period. You will retain full access to the Service through the end of the period for which you have paid. Cancelling your subscription does not delete your account or your data — these are separate actions.
   
 - **6.7 Price Changes**  
