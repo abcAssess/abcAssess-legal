@@ -78,13 +78,15 @@ a[href^="mailto:"]:hover {
 
 /* 2. Target links when a teacher hovers over them on desktop */
 .main-content a:hover {
-  color: #$brand-navy;                 /* Darkens to Trust Navy on hover for elegant contrast */
+  color: $brand-navy;                 /* Darkens to Trust Navy on hover for elegant contrast */
   text-decoration: none;          /* Clean visual state shift */
 }
 
 /* 3. Ensure visited links don't turn default purple on mobile Safari/Chrome */
 .main-content a:visited {
-  color: $brand-terracotta;                 /* Lock it to your Terracotta so it stays .logo-container {
+  color: $brand-terracotta;  
+}
+/* Lock it to your Terracotta so it stays .logo-container {
   display: flex;
   align-items: center;
   justify-content: flex-start;
