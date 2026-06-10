@@ -101,7 +101,8 @@ a[href^="mailto:"] {
   }
 
   &:visited {
-    color: $brand-navy;
+    color: $brand-terracotta;
+    text-decoration: underline;
   }
 }
 
