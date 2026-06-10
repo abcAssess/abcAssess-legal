@@ -21,6 +21,25 @@ description: Version 2.2 · Updated June 9, 2026
 
 ---
 
+## Table of Contents
+
+1. [Acceptance of Terms](#1-acceptance-of-terms)
+2. [Eligibility and Authority](#2-eligibility-and-authority)
+3. [Account Responsibilities and Multi-User Access](#3-account-responsibilities-and-multi-user-access)
+4. [Intellectual Property and User Content](#4-intellectual-property-and-user-content)
+5. [User Responsibilities and Prohibited Uses](#5-user-responsibilities-and-prohibited-uses)
+6. [Subscription Plans, Billing, and Free Trial](#6-subscription-plans-billing-and-free-trial)
+7. [Disclaimer of Warranties](#7-disclaimer-of-warranties)
+8. [Limitation of Liability](#8-limitation-of-liability)
+9. [Indemnification](#9-indemnification)
+10. [Force Majeure](#10-force-majeure)
+11. [Modifications to These Terms](#11-modifications-to-these-terms)
+12. [Termination](#12-termination)
+13. [Dispute Resolution](#13-dispute-resolution)
+14. [General Provisions](#14-general-provisions)
+
+---
+
 ## 1. Acceptance of Terms
 
 ### By creating an account, accessing, or using abcAssess (the "Service"), you agree to be bound by these Terms of Service (these "Terms"), our Privacy Policy, and any additional guidelines or policies we may publish from time to time. These Terms constitute a legally binding agreement between you and abcAssess ("we," "us," or "our"). If you are using abcAssess on behalf of a school, district, or institution, you represent that you have authority to bind that organization to these Terms.
