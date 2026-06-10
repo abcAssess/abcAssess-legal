@@ -220,7 +220,7 @@ For purposes of this DPA, the following terms have the meanings set forth below:
 
 ---
 
-##10. Subscriber Obligations
+## 10. Subscriber Obligations
 
 #### The Subscriber, as the Controller, is responsible for the following:
 - Ensuring that the collection and transfer of Personal Data to abcAssess is lawful and that all required consents, notices, or authorizations under applicable privacy law in the Subscriber's jurisdiction have been obtained prior to entering data into the Service.
@@ -274,8 +274,8 @@ For purposes of this DPA, the following terms have the meanings set forth below:
 ## 14. Contact
 
 #### For questions about this DPA, data subject rights requests, security documentation, or audit inquiries, please contact:
-Emaillegal@abcassess.appSubject LineInclude "DPA" or "Data Request" in your subject lineResponse TimeAcknowledgment within 2 business days; substantive response within 30 days
 
+| | |
 |---|---|
 | **General Support** | [support@abcassess.app](mailto:support@abcassess.app) |
 | **Legal & Data  Requests** | [legal@abcassess.app](mailto:legal@abcassess.app) |
