@@ -38,16 +38,22 @@ description: Version 2.2 · Updated June 9, 2026
 
 abcAssess is not intended for use by students directly. Students do not create accounts or interact with the platform.
 [Back to top ↑](#)
+
 ---
 
 ## 3. Account Responsibilities and Multi-User Access
-3.1 Account Security
-You are responsible for maintaining the confidentiality of your account credentials and for all activity that occurs under your account. You agree to notify us immediately at support@abcassess.app if you suspect unauthorized access to or use of your account. We are not liable for any loss resulting from unauthorized use of your account.
-3.2 Shared and Assistant Access
-If you invite, connect, or grant access to an assistant teacher, co-teacher, or other user within the Service, you assume full administrative and legal responsibility for their account activity, data entries, and compliance with these Terms and applicable law. You should only grant access to individuals who are authorized by your institution and who understand their obligations under applicable privacy law.
-3.3 Student Record Transfers
-The Service allows for the transfer of student records between abcAssess accounts to support legitimate educational purposes. By initiating a transfer, you represent and warrant that the receiving educator has a legitimate educational interest in the transferred student records and that the transfer complies with all applicable privacy laws including FERPA, PIPEDA, Australian Privacy Principles, the New Zealand Privacy Act 2020, and GDPR/UK GDPR as applicable. Transfer requests require acceptance by the recipient and expire automatically after 30 days if not accepted. Upon completing a transfer, the receiving educator assumes full data custody and responsibility for those records.
+
+- **3.1 Account Security**. 
+  You are responsible for maintaining the confidentiality of your account credentials and for all activity that occurs under your account. You agree to notify us immediately at support@abcassess.app if you suspect unauthorized access to or use of your account. We are not liable for any loss resulting from unauthorized use of your account.
+  
+- **3.2 Shared and Assistant Access**. 
+  If you invite, connect, or grant access to an assistant teacher, co-teacher, or other user within the Service, you assume full administrative and legal responsibility for their account activity, data entries, and compliance with these Terms and applicable law. You should only grant access to individuals who are authorized by your institution and who understand their obligations under applicable privacy law.
+  
+- **3.3 Student Record Transfers**. 
+  The Service allows for the transfer of student records between abcAssess accounts to support legitimate educational purposes. By initiating a transfer, you represent and warrant that the receiving educator has a legitimate educational interest in the transferred student records and that the transfer complies with all applicable privacy laws including FERPA, PIPEDA, Australian Privacy Principles, the New Zealand Privacy Act 2020, and GDPR/UK GDPR as applicable. Transfer requests require acceptance by the recipient and expire automatically after 30 days if not accepted. Upon completing a transfer, the receiving educator assumes full data custody and responsibility for those records.
+  
 [Back to top ↑](#)
+
 ---
 
 4. Intellectual Property and User Content
