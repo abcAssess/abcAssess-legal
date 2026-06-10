@@ -243,8 +243,9 @@ table {
 
   section.main-content h1,
   section.main-content h2,
-  section.main-content h3 {
-    color: #96B499;
+  section.main-content h3,
+  section.main-content h4 {
+    color: #96B499 !important;
   }
 
   .main-content a {
