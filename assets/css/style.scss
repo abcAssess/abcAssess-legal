@@ -112,16 +112,16 @@ a[href^="mailto:"] {
 // ============================================================
 
 section.main-content h1 {
-  color: $brand-navy;
+  color: $brand-navy !important;
 }
 section.main-content h2 {
-  color: $brand-navylight;
+  color: $brand-navylight !important;
 }
 section.main-content h3 {
-  color: $brand-navylight;
+  color: $brand-navylight !important;
 }
 section.main-content h4 {
-  color: $brand-navylight;
+  color: $brand-navylight !important;
 }
 
 // ============================================================
