@@ -13,14 +13,6 @@ description: Version 2.2 · Updated June 9, 2026
 
 ---
 
-#### Please read these Terms of Service carefully before using abcAssess. By creating an account or using our application, you agree to be bound by these Terms. If you do not agree, you may not access or use abcAssess.
-
-  abcAssess is available to educators in the United States, Canada (English-speaking provinces), Australia, New Zealand, the United Kingdom, and Ireland.
-
-  Governing Law: State of North Dakota, USA
-
----
-
 ## Table of Contents
 
 1. [Acceptance of Terms](#1-acceptance-of-terms)
@@ -37,6 +29,14 @@ description: Version 2.2 · Updated June 9, 2026
 12. [Termination](#12-termination)
 13. [Dispute Resolution](#13-dispute-resolution)
 14. [General Provisions](#14-general-provisions)
+
+---
+
+#### Please read these Terms of Service carefully before using abcAssess. By creating an account or using our application, you agree to be bound by these Terms. If you do not agree, you may not access or use abcAssess.
+
+  abcAssess is available to educators in the United States, Canada (English-speaking provinces), Australia, New Zealand, the United Kingdom, and Ireland.
+
+  Governing Law: State of North Dakota, USA
 
 ---
 
