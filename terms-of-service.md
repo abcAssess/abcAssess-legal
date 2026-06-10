@@ -31,7 +31,9 @@ description: Version 2.2 · Updated June 9, 2026
 
 ## 2. Eligibility and Authority
 
-### abcAssess is an educational assessment tool designed for professional educators and those providing direct instructional or assessment support to students. By registering an account or entering records into the Service, you represent and warrant that:
+### abcAssess is an educational assessment tool designed for professional educators and those providing direct instructional or assessment support to students. 
+
+  By registering an account or entering records into the Service, you represent and warrant that:
 
 - You are a licensed teacher, educator, tutor, administrator, or other authorized educational professional with responsibility for student assessment, or you are acting under the direct supervision of such a professional.
 - You have the authority — whether granted by your school, district, institution, or through your professional role — to log student performance data in compliance with applicable local, national, and federal privacy laws, including FERPA (US), PIPEDA (Canada), the Australian Privacy Principles, the New Zealand Privacy Act 2020, and GDPR/UK GDPR (EU/UK) as applicable to your jurisdiction.
@@ -108,6 +110,7 @@ abcAssess is not intended for use by students directly. Students do not create a
   - **Annual Plan:** Full access to all features for 12 months, billed annually. Renews automatically on the anniversary of the subscription start date unless cancelled.
   - Additional plans may be introduced from time to time and will be described at the point of purchase.
 
+
 - **6.3 Billing and Payment**  
   All subscriptions are processed through our payment processor (currently Stripe). By providing payment information, you authorize us to charge your payment method for all applicable subscription fees. All prices are displayed in USD unless otherwise indicated. Applicable taxes including VAT (UK/Ireland) and GST (Australia/New Zealand) will be calculated and collected automatically at checkout.
   
@@ -165,7 +168,7 @@ Features available to you depend on your current subscription plan and status. W
 - Any content you upload, share, or transmit through the Service.
 - Any claim by a student, parent, school, district, or regulatory authority arising from your use of the Service.
 
-#### We reserve the right, at our own expense, to assume the exclusive defense and control of any matter otherwise subject to indemnification by you. You agree to cooperate with our defense of such claims.
+  We reserve the right, at our own expense, to assume the exclusive defense and control of any matter otherwise subject to indemnification by you. You agree to cooperate with our defense of such claims.
 
 [Back to top ↑](#)
 
@@ -173,7 +176,7 @@ Features available to you depend on your current subscription plan and status. W
 
 ## 10. Force Majeure
 
-#### abcAssess shall not be liable for any failure or delay in performing its obligations under these Terms to the extent such failure or delay is caused by circumstances beyond our reasonable control, including but not limited to: acts of God, natural disasters, pandemic, war, terrorism, labor disputes, power outages, internet or telecommunications failures, actions of third-party service providers (including cloud infrastructure providers), cyberattacks or security incidents originating from third parties, or changes in applicable law or regulation. In such events, our obligations will be suspended for the duration of the force majeure event, and we will use commercially reasonable efforts to resume normal operations as quickly as possible.
+  abcAssess shall not be liable for any failure or delay in performing its obligations under these Terms to the extent such failure or delay is caused by circumstances beyond our reasonable control, including but not limited to: acts of God, natural disasters, pandemic, war, terrorism, labor disputes, power outages, internet or telecommunications failures, actions of third-party service providers (including cloud infrastructure providers), cyberattacks or security incidents originating from third parties, or changes in applicable law or regulation. In such events, our obligations will be suspended for the duration of the force majeure event, and we will use commercially reasonable efforts to resume normal operations as quickly as possible.
 
 [Back to top ↑](#)
 
@@ -183,7 +186,7 @@ Features available to you depend on your current subscription plan and status. W
 
 #### We may update or modify these Terms from time to time. When we make material changes, we will notify active account holders by email at least fourteen (14) days before the new Terms take effect, and we will update the Effective Date and Version number at the top of this document. Non-material changes (such as corrections of typographical errors or clarifications that do not affect your rights) may take effect immediately upon posting.
 
-#### Your continued use of the Service after the effective date of any updated Terms constitutes your acceptance of those Terms. If you do not agree with updated Terms, you may terminate your account before the effective date. We maintain a version history of these Terms, which is available upon written request to legal@abcassess.app.
+  Your continued use of the Service after the effective date of any updated Terms constitutes your acceptance of those Terms. If you do not agree with updated Terms, you may terminate your account before the effective date. We maintain a version history of these Terms, which is available upon written request to legal@abcassess.app.
   
 [Back to top ↑](#)
 
@@ -228,7 +231,7 @@ Features available to you depend on your current subscription plan and status. W
 
 ---
 
-## 14. General Provisions**  
+## 14. General Provisions 
 
 - **14.1 Entire Agreement**  
   These Terms, together with our Privacy Policy, constitute the entire agreement between you and abcAssess with respect to the Service and supersede all prior agreements, understandings, and representations relating to the subject matter hereof.
@@ -253,7 +256,9 @@ Features available to you depend on your current subscription plan and status. W
 | **General Support** | [support@abcassess.app](mailto:support@abcassess.app) |
 | **Legal & Terms Issues** | [legal@abcassess.app](mailto:legal@abcassess.app) |
 | **Response Time** | We aim to respond within 2 business days |
+
 [Back to top ↑](#)
+
 ---
 
 [Accessibility Statement](accessibility.md) &nbsp;-&nbsp; [Data Processing Agreement](dpa.md) &nbsp;-&nbsp; [Privacy Policy](privacy-policy.md) &nbsp;-&nbsp; [Technical FAQs](technical-and-privacy-faqs.md) &nbsp;-&nbsp; [User Guide](User-guide.md) 
