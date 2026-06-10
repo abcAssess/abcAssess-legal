@@ -113,7 +113,7 @@ a[href^="mailto:"] {
 
 .main-content h1 {
   color: $brand-navy !important;
-} 
+}
 .main-content h2 {
   color: $brand-navy !important;
 }
@@ -123,33 +123,40 @@ a[href^="mailto:"] {
 .main-content h4 {
   color: $brand-navylight !important;
 }
+
+
 // ============================================================
-// 5. Page Background
+// 5. Page Background & Body Text
 // ============================================================
 
 body {
   background-color: $brand-slate;
-  color: $brand-navylight; 
+  color: $brand-navylight;
 }
+
 body table {
-    color: $brand-navy;
-    border-color: #64748B !important;
-  }
+  color: $brand-navy;
+  border-color: #64748B !important;
+}
+
 body table th {
-    background-color: $brand-slate100;
-    color: $brand-navy;
-    border-color: #64748B !important;
-  }
+  background-color: $brand-slate100;
+  color: $brand-navy;
+  border-color: #64748B !important;
+}
+
 body table td {
-    border-color: #64748B !important;
-  }
+  border-color: #64748B !important;
+}
+
 body table tr:nth-child(even) {
-    background-color: #e2e8f0;
-    border-color: #64748B !important;
-  }
-body table hr {
-    border-color: #64748B !important;
-  }
+  background-color: #e2e8f0;
+  border-color: #64748B !important;
+}
+
+hr {
+  border-color: #64748B !important;
+}
 
 
 // ============================================================
@@ -224,199 +231,117 @@ body table hr {
 
 @media (prefers-color-scheme: dark) {
 
- // ============================================================
-// 1. Hero Header
-// ============================================================
-
-.page-header {
-  background-color: $brand-navylight;
-  background-image: linear-gradient(120deg, $brand-navylight, lighten($brand-navylight, 10%));
-  padding-top: 1.5rem !important;
-  padding-bottom: 1rem !important;
-}
-
-.page-header .project-name {
-  color: $brand-slate !important;
-  margin-top: 0.1rem !important;
-  margin-bottom: 0.25rem !important;
-}
-
-.page-header .project-tagline {
-  color: $brand-slate100 !important;
-  opacity: 0.85;
-}
-
-.page-header img.nav-logo,
-.page-header img {
-  max-width: 100% !important;
-  width: auto !important;
-  height: auto !important;
-  margin-bottom: 0.1rem !important;
-}
-
-header img, .site-header img, .logo {
-  max-height: 120px !important;
-  width: auto !important;
-}
-
-
-// ============================================================
-// 2. Buttons
-// ============================================================
-
-.btn {
-  color: $brand-honey;
-  border-color: rgba($brand-navy, 0.2);
-
-  &:hover {
-    background-color: rgba($brand-honey, 0.1);
-    color: $brand-navy;
-    border-color: $brand-navy;
-  }
-}
-
-
-// ============================================================
-// 3. Links & Accents
-// ============================================================
-
-a {
-  color: $brand-navy;
-}
-
-a[href^="mailto:"] {
-  color: $brand-sage !important;
-  text-decoration: underline;
-  transition: color 0.2s ease;
-
-  &:hover {
-    color: $brand-steel !important;
-  }
-}
-
-.main-content a {
-  color: $brand-honey;
-  font-weight: 600;
-  text-decoration: underline;
-
-  &:hover {
-    color: $brand-steel;
-    text-decoration: none;
-  }
-
-  &:visited {
-    color: $brand-honey;
-    text-decoration: underline;
-  }
-}
-
-
-// ============================================================
-// 4. Headings
-// ============================================================
-
-.main-content h1 {
-  color: $brand-slate100 !important;
-} 
-.main-content h2 {
-  color: $brand-sage !important;
-}
-.main-content h3 {
-  color: $brand-sage !important;
-}
-.main-content h4 {
-  color: $brand-sage !important;
-}
-// ============================================================
-// 5. Page Background
-// ============================================================
-
-body {
-  background-color: $brand-navy;
-  color: $brand-slate100; 
-}
-body table {
-    color: $brand-slate100;
-    border-color: #64748B !important;
-  }
-body table th {
+  .page-header {
     background-color: $brand-navylight;
-    color: $brand-navy;
-    border-color: #64748B !important;
-  }
-body table td {
-    border-color: #64748B !important;
-  }
-body table tr:nth-child(even) {
-    background-color: #$brand-navylight;
-    border-color: #64748B !important;
-  }
-body table hr {
-    border-color: #64748B !important;
-  }
-
-
-// ============================================================
-// 6. Logo Container
-// ============================================================
-
-.logo-container {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  margin: 20px auto;
-  height: 80px;
-
-  img {
-    height: 100px;
-    width: auto;
-    transition: opacity 0.2s ease;
-
-    &:hover {
-      opacity: 0.8;
-    }
-  }
-}
-
-
-// ============================================================
-// 7. Footer
-// ============================================================
-
-.footer-image-container {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  margin-top: 1.5rem;
-  width: 100%;
-
-  img {
-    max-height: 60px;
-    width: auto;
-    display: block;
-  }
-}
-
-.footer-copyright {
-  font-size: 0.8rem;
-  color: $brand-steel;
-  margin-top: 0.75rem;
-  margin-bottom: 0;
-}
-
-
-// ============================================================
-// 8. Mobile / Responsive
-// ============================================================
-
-@media (max-width: 768px) {
-  .page-header img.nav-logo,
-  .page-header img {
-    max-height: 120px !important;
-    margin-bottom: 1rem !important;
+    background-image: linear-gradient(120deg, $brand-navylight, lighten($brand-navylight, 10%));
   }
 
   .page-header .project-name {
-    font-size: 2rem !important;
+    color: $brand-slate !important;
   }
+
+  .page-header .project-tagline {
+    color: $brand-slate100 !important;
+  }
+
+  .btn {
+    color: $brand-honey;
+    border-color: rgba($brand-navy, 0.2);
+
+    &:hover {
+      background-color: rgba($brand-honey, 0.1);
+      color: $brand-navy;
+      border-color: $brand-navy;
+    }
+  }
+
+  a {
+    color: $brand-honey;
+  }
+
+  a[href^="mailto:"] {
+    color: $brand-sage !important;
+
+    &:hover {
+      color: $brand-steel !important;
+    }
+  }
+
+  .main-content a {
+    color: $brand-honey;
+
+    &:hover {
+      color: $brand-steel;
+      text-decoration: none;
+    }
+
+    &:visited {
+      color: $brand-honey;
+    }
+  }
+
+  .main-content h1 {
+    color: $brand-slate100 !important;
+  }
+
+  .main-content h2 {
+    color: $brand-sage !important;
+  }
+
+  .main-content h3 {
+    color: $brand-sage !important;
+  }
+
+  .main-content h4 {
+    color: $brand-sage !important;
+  }
+
+  body {
+    background-color: $brand-navy;
+    color: $brand-slate100;
+  }
+
+  body table {
+    color: $brand-slate100;
+    border-color: #64748B !important;
+  }
+
+  body table th {
+    background-color: $brand-navylight;
+    color: $brand-slate100;
+    border-color: #64748B !important;
+  }
+
+  body table td {
+    border-color: #64748B !important;
+  }
+
+  body table tr:nth-child(even) {
+    background-color: $brand-navylight;
+    border-color: #64748B !important;
+  }
+
+  hr {
+    border-color: #64748B !important;
+  }
+
+  .footer-copyright {
+    color: $brand-steel;
+  }
+
+  .main-content {
+    background-color: $brand-navy;
+    color: $brand-slate100;
+  }
+
+  blockquote {
+    color: $brand-slate100;
+    border-left-color: $brand-sage;
+  }
+
+  code {
+    background-color: #13223A;
+    color: $brand-sage;
+  }
+
 }
