@@ -13,6 +13,11 @@ $brand-sage:      #5F7E63;
 $brand-terracotta:#BD5237;
 $brand-cream:     #f7f4eb;
 $brand-plum:      #8A4897;
+$brand-honey:     #E2B667;
+$brand-slate:     #F1F5F9;
+$brand-slate100:  #E2E8F0;
+$brand-steel:     #5b7a99;
+$brand-navylight: #263c5e;
 
 
 // ============================================================
@@ -27,13 +32,13 @@ $brand-plum:      #8A4897;
 }
 
 .page-header .project-name {
-  color: #f7f4eb !important;
+  color: $brand-slate !important;
   margin-top: 0.1rem !important;
   margin-bottom: 0.25rem !important;
 }
 
 .page-header .project-tagline {
-  color: #f7f4eb !important;
+  color: #brand-slate100 !important;
   opacity: 0.85;
 }
 
@@ -76,7 +81,7 @@ a {
 }
 
 a[href^="mailto:"] {
-  color: #4A6FA5 !important;
+  color: $brand-steel !important;
   text-decoration: underline;
   transition: color 0.2s ease;
 
@@ -117,7 +122,7 @@ section.main-content h3 {
 // ============================================================
 
 body {
-  background-color: $brand-cream;
+  background-color: $brand-slate;
 }
 
 
@@ -194,18 +199,18 @@ body {
 @media (prefers-color-scheme: dark) {
 
   body {
-    background-color: #1B2D4A;
-    color: #e8e8e8;
+    background-color: $brand-navylight;
+    color: $brand-slate;
   }
 
   .page-header {
-    background-color: #111e33;
+    background-color: $brand-navy;
     background-image: linear-gradient(120deg, #111e33, #1B2D4A);
   }
 
   .main-content {
-    background-color: #1B2D4A;
-    color: #e8e8e8;
+    background-color: $brand-navylight;
+    color: $brand-slate;
   }
 
   section.main-content h1,
@@ -215,27 +220,27 @@ body {
   }
 
   .main-content a {
-    color: #D4A853;
+    color: $brand-honey;
 
     &:hover {
-      color: #e8e8e8;
+      color: #brand-slate100;
     }
 
     &:visited {
-      color: #D4A853;
+      color: $brand-honey;
     }
   }
 
   a[href^="mailto:"] {
-    color: #7fA082 !important;
+    color: #96B499 !important;
 
     &:hover {
-      color: #D4A853 !important;
+      color: $brand-steel !important;
     }
   }
 
   table {
-    color: #e8e8e8;
+    color: #334155;
   }
 
   th {
@@ -244,7 +249,7 @@ body {
   }
 
   td {
-    border-color: #2a3f5f;
+    border-color: #334155;
   }
 
   tr:nth-child(even) {
@@ -252,7 +257,7 @@ body {
   }
 
   hr {
-    border-color: #2a3f5f;
+    border-color: #334155;
   }
 
   blockquote {
@@ -265,7 +270,7 @@ body {
   }
 
   code {
-    background-color: #111e33;
-    color: #7fA082;
+    background-color: #13223A;
+    color: $brand-sage;
   }
 }
