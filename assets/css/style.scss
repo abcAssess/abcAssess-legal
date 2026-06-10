@@ -147,11 +147,11 @@ table {
   }
 
   tr:nth-child(even) {
-    background-color: $e2e8f0;
+    background-color: #e2e8f0;
   }
 
   hr {
-    border-color: #60748b;
+    border-color: $brand-navylight;
   }
 
 
