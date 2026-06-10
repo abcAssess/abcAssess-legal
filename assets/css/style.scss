@@ -260,32 +260,32 @@ hr {
   }
 
   a[href^="mailto:"] {
-    color: $brand-honey !important;
+    color: $brand-sage !important;
 
     &:hover {
-      color: $brand-steel !important;
+      color: $brand-honey !important;
     }
   }
 
   .main-content a {
-    color: #96B499;
+    color: #E09384;
 
     &:hover {
-      color: $brand-steel;
+      color: $brand-honey;
       text-decoration: none;
     }
 
     &:visited {
-      color: #96B499;
+      color: #E09384;
     }
   }
 
   .main-content h1 {
-    color: $brand-honey !important;
+    color: #96B499 !important;
   }
 
   .main-content h2 {
-    color: $brand-honey !important;
+    color: #96B499 !important;
   }
 
   .main-content h3 {
