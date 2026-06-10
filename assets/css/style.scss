@@ -256,11 +256,11 @@ hr {
   }
 
   a {
-    color: $brand-honey;
+    color: #96B499;
   }
 
   a[href^="mailto:"] {
-    color: #96B499 !important;
+    color: $brand-honey !important;
 
     &:hover {
       color: $brand-steel !important;
@@ -268,7 +268,7 @@ hr {
   }
 
   .main-content a {
-    color: $brand-honey;
+    color: #96B499;
 
     &:hover {
       color: $brand-steel;
@@ -276,7 +276,7 @@ hr {
     }
 
     &:visited {
-      color: $brand-honey;
+      color: #96B499;
     }
   }
 
@@ -285,15 +285,15 @@ hr {
   }
 
   .main-content h2 {
-    color: #96B499 !important;
+    color: $brand-honey !important;
   }
 
   .main-content h3 {
-    color: #96B499 !important;
+    color: $brand-honey !important;
   }
 
   .main-content h4 {
-    color: #96B499 !important;
+    color: #brand-honey !important;
   }
 
   body {
