@@ -81,7 +81,9 @@ abcAssess is not intended for use by students directly. Students do not create a
 
 ## 5. User Responsibilities and Prohibited Uses
 
-#### You agree to use abcAssess only for its intended educational assessment purposes and in compliance with all applicable laws. You agree not to:
+#### You agree to use abcAssess only for its intended educational assessment purposes and in compliance with all applicable laws. 
+
+  You agree not to:
 
 - Enter, store, or transmit high-sensitivity personally identifiable information (PII) that is not necessary for educational assessment, including Social Security Numbers, full legal home addresses, financial records, immigration status, or comprehensive medical histories.
 - Upload, request, or store any student-generated biometric data, including student photographs, facial recognition data, child voice recordings, or student-generated audio content. All uploaded media must be strictly instructional in nature.
@@ -110,6 +112,7 @@ abcAssess is not intended for use by students directly. Students do not create a
   - **Annual Plan:** Full access to all features for 12 months, billed annually. Renews automatically on the anniversary of the subscription start date unless cancelled.
   - Additional plans may be introduced from time to time and will be described at the point of purchase.
 
+&nbsp;
 
 - **6.3 Billing and Payment**  
   All subscriptions are processed through our payment processor (currently Stripe). By providing payment information, you authorize us to charge your payment method for all applicable subscription fees. All prices are displayed in USD unless otherwise indicated. Applicable taxes including VAT (UK/Ireland) and GST (Australia/New Zealand) will be calculated and collected automatically at checkout.
@@ -127,7 +130,7 @@ abcAssess is not intended for use by students directly. Students do not create a
   We reserve the right to change subscription prices. For Monthly Plan subscribers, we will provide at least 30 days notice before a price change takes effect. For Annual Plan subscribers, we will provide at least 60 days notice before a price change takes effect at their next renewal. Notice will be provided by email to the address associated with your account. Continued use of the Service after a price change takes effect constitutes acceptance of the new pricing.
   
 - **6.8 Feature Availability by Plan**  
-Features available to you depend on your current subscription plan and status. We reserve the right to modify the features included in each plan with appropriate notice as described in Section 6.7.
+  Features available to you depend on your current subscription plan and status. We reserve the right to modify the features included in each plan with appropriate notice as described in Section 6.7.
 
 [Back to top ↑](#)
 
@@ -159,7 +162,7 @@ Features available to you depend on your current subscription plan and status. W
 
 ## 9. Indemnification
 
-#### You agree to indemnify, defend, and hold harmless abcAssess and its officers, directors, members, employees, agents, and successors from and against any and all claims, liabilities, damages, losses, costs, and expenses (including reasonable attorneys' fees) arising out of or relating to:
+  You agree to indemnify, defend, and hold harmless abcAssess and its officers, directors, members, employees, agents, and successors from and against any and all claims, liabilities, damages, losses, costs, and expenses (including reasonable attorneys' fees) arising out of or relating to:
 
 - Your use of or access to the Service.
 - Your violation of these Terms.
@@ -184,7 +187,7 @@ Features available to you depend on your current subscription plan and status. W
 
 ## 11. Modifications to These Terms
 
-#### We may update or modify these Terms from time to time. When we make material changes, we will notify active account holders by email at least fourteen (14) days before the new Terms take effect, and we will update the Effective Date and Version number at the top of this document. Non-material changes (such as corrections of typographical errors or clarifications that do not affect your rights) may take effect immediately upon posting.
+  We may update or modify these Terms from time to time. When we make material changes, we will notify active account holders by email at least fourteen (14) days before the new Terms take effect, and we will update the Effective Date and Version number at the top of this document. Non-material changes (such as corrections of typographical errors or clarifications that do not affect your rights) may take effect immediately upon posting.
 
   Your continued use of the Service after the effective date of any updated Terms constitutes your acceptance of those Terms. If you do not agree with updated Terms, you may terminate your account before the effective date. We maintain a version history of these Terms, which is available upon written request to legal@abcassess.app.
   
