@@ -38,7 +38,7 @@ $brand-navylight: #263c5e;
 }
 
 .page-header .project-tagline {
-  color: #brand-slate100 !important;
+  color: $brand-slate100 !important;
   opacity: 0.85;
 }
 
@@ -101,7 +101,7 @@ a[href^="mailto:"] {
   }
 
   &:visited {
-    color: $brand-terracotta;
+    color: $brand-navy;
   }
 }
 
@@ -169,7 +169,7 @@ body {
 
 .footer-copyright {
   font-size: 0.8rem;
-  color: #606c71;
+  color: $brand-steel;
   margin-top: 0.75rem;
   margin-bottom: 0;
 }
@@ -223,7 +223,7 @@ body {
     color: $brand-honey;
 
     &:hover {
-      color: #brand-slate100;
+      color: #e09384;
     }
 
     &:visited {
@@ -232,7 +232,7 @@ body {
   }
 
   a[href^="mailto:"] {
-    color: #96B499 !important;
+    color: #c19bc9 !important;
 
     &:hover {
       color: $brand-steel !important;
@@ -266,7 +266,7 @@ body {
   }
 
   .footer-copyright {
-    color: #8a9ab0;
+    color: $brand-steel;
   }
 
   code {
