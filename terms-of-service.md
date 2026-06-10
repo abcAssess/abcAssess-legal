@@ -42,7 +42,7 @@ description: Version 2.2 · Updated June 9, 2026
 
 ## 1. Acceptance of Terms
 
-### By creating an account, accessing, or using abcAssess (the "Service"), you agree to be bound by these Terms of Service (these "Terms"), our Privacy Policy, and any additional guidelines or policies we may publish from time to time. These Terms constitute a legally binding agreement between you and abcAssess ("we," "us," or "our"). If you are using abcAssess on behalf of a school, district, or institution, you represent that you have authority to bind that organization to these Terms.
+#### By creating an account, accessing, or using abcAssess (the "Service"), you agree to be bound by these Terms of Service (these "Terms"), our Privacy Policy, and any additional guidelines or policies we may publish from time to time. These Terms constitute a legally binding agreement between you and abcAssess ("we," "us," or "our"). If you are using abcAssess on behalf of a school, district, or institution, you represent that you have authority to bind that organization to these Terms.
 
 [Back to top ↑](#)
 
@@ -240,7 +240,7 @@ abcAssess is not intended for use by students directly. Students do not create a
 - **13.2 Mediation**  
   If informal resolution is unsuccessful, any dispute, claim, or controversy arising out of or relating to these Terms or the Service shall be submitted to non-binding mediation before a mutually agreed-upon mediator. Either party may initiate mediation by providing written notice to the other. The parties shall share the costs of mediation equally. If mediation fails to resolve the dispute within sixty (60) days of initiation, either party may pursue legal remedies as set forth below.
   
-- **13.3 Governing Law and Jurisdiction**.
+- **13.3 Governing Law and Jurisdiction**
   These Terms and any disputes arising hereunder shall be governed by and construed in accordance with the laws of the State of North Dakota, USA, without regard to its conflict of law principles. Any legal action not resolved through mediation shall be brought exclusively in the state or federal courts located in Grand Forks County, North Dakota, and you hereby consent to personal jurisdiction in those courts.
 
   Nothing in this section limits the rights of consumers in jurisdictions where mandatory consumer protection laws apply, including the United Kingdom, Australia, New Zealand, and EU member states.
