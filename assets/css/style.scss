@@ -77,11 +77,11 @@ header img, .site-header img, .logo {
 // ============================================================
 
 a {
-  color: $brand-plum;
+  color: $brand-steel;
 }
 
 a[href^="mailto:"] {
-  color: $brand-plum !important;
+  color: $brand-steel !important;
   text-decoration: underline;
   transition: color 0.2s ease;
 
@@ -129,7 +129,7 @@ section.main-content h4 {
 // ============================================================
 
 body {
-  background-color: $brand-slate100;
+  background-color: $brand-slate;
   color: $brand-navy; 
 }
 table {
@@ -142,7 +142,7 @@ table {
   }
 
   td {
-    border-color: #cbd5e1;
+    border-color: $brand-navylight;
   }
 
   tr:nth-child(even) {
