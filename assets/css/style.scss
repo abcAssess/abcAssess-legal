@@ -133,22 +133,22 @@ body {
 }
 body table {
     color: $brand-navy;
-    border-color: $brand-navylight;
+    border-color: #cbd5e1 !important;
   }
 body table th {
     background-color: $brand-slate100;
     color: $brand-navy;
-    border-color: $brand-navylight;
+    border-color: #cbd5e1 !important;
   }
 body table td {
-    border-color: $brand-navylight !important;
+    border-color: #cbd5e1 !important;
   }
 body table tr:nth-child(even) {
     background-color: #e2e8f0;
-    border-color: $brand-navylight;
+    border-color: #cbd5e1 !important;
   }
 body table hr {
-    border-color: $brand-navylight !important;
+    border-color: #cbd5e1 !important;
   }
 
 
