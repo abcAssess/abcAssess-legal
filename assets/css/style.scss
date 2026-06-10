@@ -4,23 +4,61 @@
 @import "{{ site.theme }}";
 
 
-// abcAssess Brand Overrides
-$brand-navy: #1B2D4A;
-$brand-sage: #5F7E63;
-$brand-terracotta: #BD5237;
-$brand-cream: #f7f4eb;
-$brand-plum: #8A4897;
+// ============================================================
+// abcAssess Brand Variables
+// ============================================================
 
-/c1. Change the Header Background (The "Hero" section)
+$brand-navy:      #1B2D4A;
+$brand-sage:      #5F7E63;
+$brand-terracotta:#BD5237;
+$brand-cream:     #f7f4eb;
+$brand-plum:      #8A4897;
+
+
+// ============================================================
+// 1. Hero Header
+// ============================================================
+
 .page-header {
   background-color: $brand-navy;
   background-image: linear-gradient(120deg, $brand-navy, lighten($brand-navy, 10%));
+  padding-top: 1.5rem !important;
+  padding-bottom: 1rem !important;
 }
 
-// 2. Change the Buttons
+.page-header .project-name {
+  color: #f7f4eb !important;
+  margin-top: 0.1rem !important;
+  margin-bottom: 0.25rem !important;
+}
+
+.page-header .project-tagline {
+  color: #f7f4eb !important;
+  opacity: 0.85;
+}
+
+.page-header img.nav-logo,
+.page-header img {
+  max-width: 100% !important;
+  width: auto !important;
+  height: auto !important;
+  margin-bottom: 0.1rem !important;
+}
+
+header img, .site-header img, .logo {
+  max-height: 120px !important;
+  width: auto !important;
+}
+
+
+// ============================================================
+// 2. Buttons
+// ============================================================
+
 .btn {
   color: $brand-navy;
   border-color: rgba($brand-navy, 0.2);
+
   &:hover {
     background-color: rgba($brand-sage, 0.1);
     color: $brand-sage;
@@ -28,217 +66,174 @@ $brand-plum: #8A4897;
   }
 }
 
-// 3. Change Links & Accents
+
+// ============================================================
+// 3. Links & Accents
+// ============================================================
+
 a {
   color: $brand-sage;
 }
 
-section.main-content h1, 
-section.main-content h2, 
+a[href^="mailto:"] {
+  color: #4A6FA5 !important;
+  text-decoration: underline;
+  transition: color 0.2s ease;
+
+  &:hover {
+    color: $brand-navy !important;
+  }
+}
+
+.main-content a {
+  color: $brand-terracotta;
+  font-weight: 600;
+  text-decoration: underline;
+
+  &:hover {
+    color: $brand-navy;
+    text-decoration: none;
+  }
+
+  &:visited {
+    color: $brand-terracotta;
+  }
+}
+
+
+// ============================================================
+// 4. Headings
+// ============================================================
+
+section.main-content h1,
+section.main-content h2,
 section.main-content h3 {
   color: $brand-navy;
 }
 
-// 4. Subtle Page Background (Optional)
+
+// ============================================================
+// 5. Page Background
+// ============================================================
+
 body {
   background-color: $brand-cream;
 }
 
-  /* Style the email link specifically */
-a[href^="mailto:"] {
-  color: #4A6FA5 !important; /* Your Lighter Navy */
-  text-decoration: underline;
-  transition: color 0.2s ease;
-}
 
-/* Add a hover effect to make it feel responsive */
-a[href^="mailto:"]:hover {
-  color: $brand-navy !important; /* Your Trust Navy on hover */
-}
+// ============================================================
+// 6. Logo Container
+// ============================================================
 
-/* Custom color overrides for the Cayman theme hero header */
-.page-header .project-name {
-  color: #f7f4eb !important;
-}
-
-.page-header .project-tagline {
-  color: #f7f4eb !important;
-  opacity: 0.85; /* Slightly softens the description text so the main title pops */
-}
-/* ==========================================================================
-   CUSTOM LINK COLOR COMPLIANCE OVERRIDES
-   ========================================================================== */
-
-/* 1. Target links inside the main body container */
-.main-content a {
-  color: $brand-terracotta;                 /* High-visibility Terracotta for brand cohesion */
-  font-weight: 600;               /* Semi-bold text to make it pop visually */
-  text-decoration: underline;     /* Enforce underlines so mobile users know it's a touch target */
-}
-
-/* 2. Target links when a teacher hovers over them on desktop */
-.main-content a:hover {
-  color: $brand-navy;                 /* Darkens to Trust Navy on hover for elegant contrast */
-  text-decoration: none;          /* Clean visual state shift */
-}
-
-/* 3. Ensure visited links don't turn default purple on mobile Safari/Chrome */
-.main-content a:visited {
-  color: $brand-terracotta;  
-}
-/* Lock it to your Terracotta so it stays .logo-container {
-  display: flex;
-  align-items: center;
-  justify-content: flex-start;
-  height: 50px; // Changed to an explicit height to lock the 
-  dth: 180px; 
-    transition: opacity 0.2s ease;
-
-    &:hover {
-      opacity: 0.8; 
-    }
-
-
-  
-  }/* Logo container */
 .logo-container {
   display: flex;
   justify-content: center;
   align-items: center;
   margin: 20px auto;
   height: 80px;
+
+  img {
+    height: 100px;
+    width: auto;
+    transition: opacity 0.2s ease;
+
+    &:hover {
+      opacity: 0.8;
+    }
+  }
 }
 
-/* Logo image */
-.logo-container img {
-  height: 100px;
-  width: auto;
-  max-width: auto;
-  transition: opacity 0.2s ease;
-}
 
-/* Hover effect */
-.logo-container img:hover {
-  opacity: 0.8;
-}
+// ============================================================
+// 7. Footer
+// ============================================================
 
-header img, .site-header img, .logo {
-  max-height: 120px !important;
-  width: auto !important;
-}
-/* Tighten up the hero banner padding */
-.page-header {
-  padding-top: 1.5rem !important;    /* Default theme is usually 5rem or more */
-  padding-bottom: 1rem !important; /* Default theme is usually 5rem or more */
-}
-
-/* Optional: Bring the logo and text slightly closer together */
-.page-header img.nav-logo {
-  margin-bottom: 0.1rem !important;
-}
-
-.page-header .project-name {
-  margin-top: 0.1rem !important;
-  margin-bottom: 0.25rem !important;
-}
-/* Stack the image and the copyright vertically */
 .footer-image-container {
   display: flex;
-  flex-direction: column; /* Forces the text to drop below the image */
-  align-items: center;    /* Keeps everything perfectly centered */
+  flex-direction: column;
+  align-items: center;
   margin-top: 1.5rem;
   width: 100%;
+
+  img {
+    max-height: 60px;
+    width: auto;
+    display: block;
+  }
 }
 
-.footer-image-container img {
-  max-height: 60px;
-  width: auto;
-  display: block;
-}
-
-/* Style the copyright text to match Cayman's footer style */
 .footer-copyright {
-  font-size: 0.8rem;      /* Matches the subtle, small theme font size */
-  color: #606c71;         /* The default slate gray Cayman uses for footers */
-  margin-top: 0.75rem;    /* Creates a nice, neat gap below the image logo */
-  margin-bottom: 0;       /* Prevents accidental extra page height padding */
+  font-size: 0.8rem;
+  color: #606c71;
+  margin-top: 0.75rem;
+  margin-bottom: 0;
 }
 
-/* Ensure the hero header logo scales beautifully on mobile devices */
-.page-header img.nav-logo,
-.page-header img { /* Targets the logo specifically inside the hero block */
-  max-width: 100% !important;  /* Prevents the image from bleeding off the screen */
-  width: auto !important;       /* Maintains the perfect square aspect ratio */
-  height: auto !important;      /* Prevents any weird vertical stretching */
-}
 
-/* Optional: Finetune the size for smaller screens so it doesn't take over the whole view */
+// ============================================================
+// 8. Mobile / Responsive
+// ============================================================
+
 @media (max-width: 768px) {
   .page-header img.nav-logo,
   .page-header img {
-    max-height: 120px !important; /* Limits the maximum height on mobile so text stays visible */
+    max-height: 120px !important;
     margin-bottom: 1rem !important;
   }
-  
-  /* Tame the spacing of the text below it on mobile */
+
   .page-header .project-name {
-    font-size: 2rem !important; /* Slightly scales down the app name size for smaller screens */
+    font-size: 2rem !important;
   }
 }
-/* ==========================================================================
-   DARK MODE — responds to OS/browser dark mode preference automatically
-   ========================================================================== */
+
+
+// ============================================================
+// 9. Dark Mode
+// ============================================================
 
 @media (prefers-color-scheme: dark) {
 
-  // Page background and body text
   body {
     background-color: #1B2D4A;
     color: #e8e8e8;
   }
 
-  // Hero header — darken slightly from the light mode navy
   .page-header {
     background-color: #111e33;
     background-image: linear-gradient(120deg, #111e33, #1B2D4A);
   }
 
-  // Main content area background
   .main-content {
     background-color: #1B2D4A;
     color: #e8e8e8;
   }
 
-  // Section headings — use sage instead of navy
   section.main-content h1,
   section.main-content h2,
   section.main-content h3 {
     color: #96B499;
   }
 
-  // Table of contents and body links — honey/amber
   .main-content a {
     color: #D4A853;
+
+    &:hover {
+      color: #e8e8e8;
+    }
+
+    &:visited {
+      color: #D4A853;
+    }
   }
 
-  .main-content a:hover {
-    color: #e8e8e8;
-  }
-
-  .main-content a:visited {
-    color: #D4A853;
-  }
-
-  // Email links
   a[href^="mailto:"] {
     color: #7fA082 !important;
+
+    &:hover {
+      color: #D4A853 !important;
+    }
   }
 
-  a[href^="mailto:"]:hover {
-    color: #D4A853 !important;
-  }
-
-  // Tables
   table {
     color: #e8e8e8;
   }
@@ -256,23 +251,19 @@ header img, .site-header img, .logo {
     background-color: #152238;
   }
 
-  // Horizontal rules
   hr {
     border-color: #2a3f5f;
   }
 
-  // Blockquotes if you use them
   blockquote {
     color: #b0b8c4;
     border-left-color: #7fA082;
   }
 
-  // Footer
   .footer-copyright {
     color: #8a9ab0;
   }
 
-  // Code blocks if any
   code {
     background-color: #111e33;
     color: #7fA082;
