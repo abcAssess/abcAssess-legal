@@ -124,6 +124,26 @@ section.main-content h3 {
 body {
   background-color: $brand-slate;
 }
+table {
+    color: $brand-navy;
+  }
+
+  th {
+    background-color: $brand-slate100;
+    color: $brand-navy;
+  }
+
+  td {
+    border-color: #cbd5e1;
+  }
+
+  tr:nth-child(even) {
+    background-color: #brand-slate100;
+  }
+
+  hr {
+    border-color: #cbd5e1;
+  }
 
 
 // ============================================================
@@ -199,17 +219,17 @@ body {
 @media (prefers-color-scheme: dark) {
 
   body {
-    background-color: $brand-navylight;
+    background-color: $brand-navy;
     color: $brand-slate;
   }
 
   .page-header {
-    background-color: $brand-navy;
+    background-color: $brand-navylight;
     background-image: linear-gradient(120deg, #111e33, #1B2D4A);
   }
 
   .main-content {
-    background-color: $brand-navylight;
+    background-color: $brand-navy;
     color: $brand-slate;
   }
 
