@@ -130,6 +130,7 @@ abcAssess is not intended for use by students directly. Students do not create a
   - **Monthly Plan:** Full access to all features, billed month-to-month. Cancellable at any time.
   - **Annual Plan:** Full access to all features for 12 months, billed annually. Renews automatically on the anniversary of the subscription start date unless cancelled.
   - Additional plans may be introduced from time to time and will be described at the point of purchase.
+  
 &nbsp;
 - **6.3 Billing and Payment**  
   All subscriptions are processed through our payment processor (currently Stripe). By providing payment information, you authorize us to charge your payment method for all applicable subscription fees. All prices are displayed in USD unless otherwise indicated. Applicable taxes including VAT (UK/Ireland) and GST (Australia/New Zealand) will be calculated and collected automatically at checkout.
