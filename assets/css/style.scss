@@ -77,11 +77,11 @@ header img, .site-header img, .logo {
 // ============================================================
 
 a {
-  color: $brand-steel;
+  color: $brand-terracotta;
 }
 
 a[href^="mailto:"] {
-  color: $brand-steel !important;
+  color: $brand-terracotta !important;
   text-decoration: underline;
   transition: color 0.2s ease;
 
@@ -142,7 +142,7 @@ table {
   }
 
   td {
-    border-color: $brand-navylight;
+    border-color: $brand-navy;
   }
 
   tr:nth-child(even) {
@@ -150,7 +150,7 @@ table {
   }
 
   hr {
-    border-color: $brand-navylight;
+    border-color: $brand-navy;
   }
 
 
