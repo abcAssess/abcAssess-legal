@@ -6,12 +6,12 @@
 
 // abcAssess Brand Overrides
 $brand-navy: #1B2D4A;
-$brand-sage: #7fA082;
-$brand-terracotta: #D47659;
+$brand-sage: #5F7E63;
+$brand-terracotta: #BD5237;
 $brand-cream: #f7f4eb;
-$brand-plum: #735C7F;
+$brand-plum: #8A4897;
 
-// 1. Change the Header Background (The "Hero" section)
+/c1. Change the Header Background (The "Hero" section)
 .page-header {
   background-color: $brand-navy;
   background-image: linear-gradient(120deg, $brand-navy, lighten($brand-navy, 10%));
@@ -71,20 +71,20 @@ a[href^="mailto:"]:hover {
 
 /* 1. Target links inside the main body container */
 .main-content a {
-  color: #D47659;                 /* High-visibility Terracotta for brand cohesion */
+  color: $brand-terracotta;                 /* High-visibility Terracotta for brand cohesion */
   font-weight: 600;               /* Semi-bold text to make it pop visually */
   text-decoration: underline;     /* Enforce underlines so mobile users know it's a touch target */
 }
 
 /* 2. Target links when a teacher hovers over them on desktop */
 .main-content a:hover {
-  color: #1B2D4A;                 /* Darkens to Trust Navy on hover for elegant contrast */
+  color: #$brand-navy;                 /* Darkens to Trust Navy on hover for elegant contrast */
   text-decoration: none;          /* Clean visual state shift */
 }
 
 /* 3. Ensure visited links don't turn default purple on mobile Safari/Chrome */
 .main-content a:visited {
-  color: #D47659;                 /* Lock it to your Terracotta so it stays .logo-container {
+  color: $brand-terracotta;                 /* Lock it to your Terracotta so it stays .logo-container {
   display: flex;
   align-items: center;
   justify-content: flex-start;
@@ -212,7 +212,7 @@ header img, .site-header img, .logo {
   section.main-content h1,
   section.main-content h2,
   section.main-content h3 {
-    color: #7fA082;
+    color: #96B499;
   }
 
   // Table of contents and body links — honey/amber
