@@ -13,6 +13,25 @@ description: Version 2.1 · Updated June 10, 2026
 
 ---
 
+## Table of Contents
+
+1. [Definitions](#1-definitions)
+2. [Scope and Purpose of Processing](#2-scope-and-purpose-of-processing)
+3. [Legal and Regulatory Compliance](#3-legal-and-regulatory-compliance)
+4. [Sub-Processors](#4-sub-processors)
+5. [Security Measures](#5-security-measures)
+6. [Data Breach Notification](#6-data-breach-notification)
+7. [Data Subject Rights Assistance](#7-data-subject-rights-assistance)
+8. [Data Retention and Deletion](#8-data-retention-and-deletion)
+9. [Audit Rights](#9-audit-rights)
+10. [Subscriber Obligations](#10-subscriber-obligations)
+11. [Instructional Media and Content Restrictions](#11-instructional-media-and-content-restrictions)
+12. [Term and Termination](#12-term-and-termination)
+13. [Miscellaneous](#13-miscellaneous)
+14. [Contact](#14-contact)
+
+---
+
 #### This Data Processing Agreement ("DPA") forms a legally binding agreement between abcAssess ("Provider" or "Processor") and the educational institution, licensed childcare program, or individual educator ("Subscriber" or "Controller") using the abcAssess platform. This DPA governs the processing of personal data by abcAssess on behalf of the Subscriber and supplements the abcAssess Terms of Service.
 
 #### abcAssess is available to educators in the United States, Canada (English-speaking provinces), Australia, New Zealand, the United Kingdom, and Ireland.
@@ -90,7 +109,7 @@ For purposes of this DPA, the following terms have the meanings set forth below:
 - **3.5 PIPEDA Compliance (Canada)**  
   For Subscribers located in Canada, abcAssess complies with PIPEDA with respect to the collection, use, and disclosure of personal information. abcAssess collects only the information necessary to provide the Service, uses it only for the purposes described in this DPA, and retains it only for as long as necessary. Canadian Subscribers may direct privacy inquiries to [legal@abcassess.app](mailto:legal@abcassess.app) with "Canadian Privacy Request" in the subject line.
   
-- **3.6 Australian Privacy Principles Compliance (Australia)**
+- **3.6 Australian Privacy Principles Compliance (Australia)**  
   For Subscribers located in Australia, abcAssess complies with the Privacy Act 1988 (Cth) and the Australian Privacy Principles (APPs). abcAssess handles personal information in accordance with APP obligations including collection, use, disclosure, data quality, security, and access requirements. Australian Subscribers may direct privacy inquiries to [legal@abcassess.app](mailto:legal@abcassess.app) with "Australian Privacy Request" in the subject line.
   
 - **3.7 New Zealand Privacy Act Compliance (New Zealand)**  
@@ -141,7 +160,7 @@ For purposes of this DPA, the following terms have the meanings set forth below:
   - *Data in Transit:* All data transmitted between the application and our servers is encrypted using TLS 1.3.
   - *Data at Rest:* All data stored in our database infrastructure is encrypted at rest using AES-256.
 
-- **5.2 Access Controls**
+- **5.2 Access Controls**  
   Access to production systems and Personal Data is restricted to authorized personnel only, protected by multi-factor authentication, and governed by the principle of least privilege. Access permissions are reviewed periodically and revoked promptly upon personnel changes.
 
 - **5.3 Security Assessments**  
