@@ -77,11 +77,11 @@ header img, .site-header img, .logo {
 // ============================================================
 
 a {
-  color: $brand-plum;
+  color: $brand-sage;
 }
 
 a[href^="mailto:"] {
-  color: $brand-terracotta !important;
+  color: $brand-sage !important;
   text-decoration: underline;
   transition: color 0.2s ease;
 
@@ -91,7 +91,7 @@ a[href^="mailto:"] {
 }
 
 .main-content a {
-  color: $brand-sage;
+  color: $brand-terracotta;
   font-weight: 600;
   text-decoration: underline;
 
@@ -101,7 +101,7 @@ a[href^="mailto:"] {
   }
 
   &:visited {
-    color: $brand-sage;
+    color: $brand-terracotta;
     text-decoration: underline;
   }
 }
