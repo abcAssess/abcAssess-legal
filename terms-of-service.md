@@ -102,8 +102,7 @@ abcAssess is not intended for use by students directly. Students do not create a
   If no subscription is purchased at trial end, the account enters a suspended state with read-only access. An immediate email notification is sent advising the teacher to subscribe to continue or export and delete their data. If no subscription is purchased within 90 days of trial expiry, a final warning email is sent and the account and all associated data are permanently deleted pursuant to our cascade deletion process. Teachers may log back in at any time during the 90-day grace period to export their data, subscribe, or manually delete their account.
   
 - **6.2 Subscription Plans**  
-
-  #### abcAssess offers the following subscription plans for individual teachers:
+  abcAssess offers the following subscription plans for individual teachers:
 
   - **Monthly Plan:** Full access to all features, billed month-to-month. Cancellable at any time.
   - **Annual Plan:** Full access to all features for 12 months, billed annually. Renews automatically on the anniversary of the subscription start date unless cancelled.
@@ -184,50 +183,70 @@ Features available to you depend on your current subscription plan and status. W
 
 #### We may update or modify these Terms from time to time. When we make material changes, we will notify active account holders by email at least fourteen (14) days before the new Terms take effect, and we will update the Effective Date and Version number at the top of this document. Non-material changes (such as corrections of typographical errors or clarifications that do not affect your rights) may take effect immediately upon posting.
 
-  Your continued use of the Service after the effective date of any updated Terms constitutes your acceptance of those Terms. If you do not agree with updated Terms, you may terminate your account before the effective date. We maintain a version history of these Terms, which is available upon written request to legal@abcassess.app.
+#### Your continued use of the Service after the effective date of any updated Terms constitutes your acceptance of those Terms. If you do not agree with updated Terms, you may terminate your account before the effective date. We maintain a version history of these Terms, which is available upon written request to legal@abcassess.app.
   
 [Back to top ↑](#)
 
 ---
 
-12. Termination
-12.1 Termination by You
-You may terminate your account at any time through the App Settings panel. Upon confirmation of account deletion, our systems will immediately initiate an irreversible cascade deletion process that permanently removes your teacher profile and all associated student records, assessment histories, and uploaded media from our active database. We recommend exporting your data before deleting your account if you wish to retain records. Deletion is permanent and cannot be undone.
-Cancelling your subscription and deleting your account are separate actions. You may cancel your subscription without deleting your account and data — see Section 6.6.
-If your account has pending outgoing student or class transfer requests at the time of deletion, those transfers will be automatically cancelled and the intended recipients will be notified by email. Transfer requests that have already been accepted and completed are not affected by account deletion.
-12.2 Termination by Us
-We reserve the right to suspend, restrict, or terminate your account at any time, with or without notice, if we determine in our reasonable judgment that you have violated these Terms, engaged in fraudulent or harmful activity, or if continued provision of the Service to you would expose abcAssess or others to legal liability. Where practicable, we will notify you of the reason for termination. Upon termination by us for cause, your data will be handled in accordance with our Privacy Policy.
-12.3 Effect of Termination
-Upon termination for any reason, your right to access and use the Service immediately ceases. Provisions of these Terms that by their nature should survive termination — including Sections 4 (Intellectual Property), 7 (Disclaimer of Warranties), 8 (Limitation of Liability), 9 (Indemnification), and 13 (Dispute Resolution) — shall survive termination.
+## 12. Termination
+
+- **12.1 Termination by You**  
+  You may terminate your account at any time through the App Settings panel. Upon confirmation of account deletion, our systems will immediately initiate an irreversible cascade deletion process that permanently removes your teacher profile and all associated student records, assessment histories, and uploaded media from our active database. We recommend exporting your data before deleting your account if you wish to retain records. Deletion is permanent and cannot be undone.
+  
+  Cancelling your subscription and deleting your account are separate actions. You may cancel your subscription without deleting your account and data — see Section 6.6.
+  
+  If your account has pending outgoing student or class transfer requests at the time of deletion, those transfers will be automatically cancelled and the intended recipients will be notified by email. Transfer requests that have already been accepted and completed are not affected by account deletion.
+  
+- **12.2 Termination by Us**  
+  We reserve the right to suspend, restrict, or terminate your account at any time, with or without notice, if we determine in our reasonable judgment that you have violated these Terms, engaged in fraudulent or harmful activity, or if continued provision of the Service to you would expose abcAssess or others to legal liability. Where practicable, we will notify you of the reason for termination. Upon termination by us for cause, your data will be handled in accordance with our Privacy Policy.
+  
+- **12.3 Effect of Termination**  
+  Upon termination for any reason, your right to access and use the Service immediately ceases. Provisions of these Terms that by their nature should survive termination — including Sections 4 (Intellectual Property), 7 (Disclaimer of Warranties), 8 (Limitation of Liability), 9 (Indemnification), and 13 (Dispute Resolution) — shall survive termination.
+  
 [Back to top ↑](#)
+
 ---
 
-13. Dispute Resolution
-13.1 Informal Resolution
-Before initiating any formal dispute process, you agree to contact us at legal@abcassess.app and give us a reasonable opportunity — at least thirty (30) days — to resolve the dispute informally. Most concerns can be resolved quickly through direct communication.
-13.2 Mediation
-If informal resolution is unsuccessful, any dispute, claim, or controversy arising out of or relating to these Terms or the Service shall be submitted to non-binding mediation before a mutually agreed-upon mediator. Either party may initiate mediation by providing written notice to the other. The parties shall share the costs of mediation equally. If mediation fails to resolve the dispute within sixty (60) days of initiation, either party may pursue legal remedies as set forth below.
-13.3 Governing Law and Jurisdiction
-These Terms and any disputes arising hereunder shall be governed by and construed in accordance with the laws of the State of North Dakota, USA, without regard to its conflict of law principles. Any legal action not resolved through mediation shall be brought exclusively in the state or federal courts located in Grand Forks County, North Dakota, and you hereby consent to personal jurisdiction in those courts.
-Nothing in this section limits the rights of consumers in jurisdictions where mandatory consumer protection laws apply, including the United Kingdom, Australia, New Zealand, and EU member states.
-13.4 Waiver of Class Action
-To the extent permitted by applicable law, you agree that any dispute resolution proceedings will be conducted on an individual basis only and not as a class action, collective action, or representative proceeding. You waive the right to participate in a class action lawsuit or class-wide arbitration against abcAssess.
+## 13. Dispute Resolution
+
+- **13.1 Informal Resolution**  
+  Before initiating any formal dispute process, you agree to contact us at legal@abcassess.app and give us a reasonable opportunity — at least thirty (30) days — to resolve the dispute informally. Most concerns can be resolved quickly through direct communication.
+  
+- **13.2 Mediation**  
+  If informal resolution is unsuccessful, any dispute, claim, or controversy arising out of or relating to these Terms or the Service shall be submitted to non-binding mediation before a mutually agreed-upon mediator. Either party may initiate mediation by providing written notice to the other. The parties shall share the costs of mediation equally. If mediation fails to resolve the dispute within sixty (60) days of initiation, either party may pursue legal remedies as set forth below.
+  
+- **13.3 Governing Law and Jurisdiction**.
+  These Terms and any disputes arising hereunder shall be governed by and construed in accordance with the laws of the State of North Dakota, USA, without regard to its conflict of law principles. Any legal action not resolved through mediation shall be brought exclusively in the state or federal courts located in Grand Forks County, North Dakota, and you hereby consent to personal jurisdiction in those courts.
+
+  Nothing in this section limits the rights of consumers in jurisdictions where mandatory consumer protection laws apply, including the United Kingdom, Australia, New Zealand, and EU member states.
+  
+- **13.4 Waiver of Class Action**  
+  To the extent permitted by applicable law, you agree that any dispute resolution proceedings will be conducted on an individual basis only and not as a class action, collective action, or representative proceeding. You waive the right to participate in a class action lawsuit or class-wide arbitration against abcAssess.
+  
 [Back to top ↑](#)
+
 ---
 
-14. General Provisions
-14.1 Entire Agreement
-These Terms, together with our Privacy Policy, constitute the entire agreement between you and abcAssess with respect to the Service and supersede all prior agreements, understandings, and representations relating to the subject matter hereof.
-14.2 Severability
-If any provision of these Terms is held to be invalid, illegal, or unenforceable by a court of competent jurisdiction, that provision shall be modified to the minimum extent necessary to make it enforceable, or severed if modification is not possible, and the remaining provisions shall continue in full force and effect.
-14.3 Waiver
-Our failure to enforce any right or provision of these Terms shall not constitute a waiver of that right or provision. Any waiver must be in writing and signed by an authorized representative of abcAssess to be effective.
-14.4 Assignment
-You may not assign or transfer your rights or obligations under these Terms without our prior written consent. We may assign these Terms or our rights hereunder in connection with a merger, acquisition, sale of assets, or by operation of law, without your consent.
-14.5 No Third-Party Beneficiaries
-These Terms are for the benefit of you and abcAssess only and do not create any rights in any third party, including students or parents.
-14.6 Contact
-For any questions or concerns regarding these Terms, please contact us:
+## 14. General Provisions**  
+
+- **14.1 Entire Agreement**  
+  These Terms, together with our Privacy Policy, constitute the entire agreement between you and abcAssess with respect to the Service and supersede all prior agreements, understandings, and representations relating to the subject matter hereof.
+  
+- **14.2 Severability**  
+  If any provision of these Terms is held to be invalid, illegal, or unenforceable by a court of competent jurisdiction, that provision shall be modified to the minimum extent necessary to make it enforceable, or severed if modification is not possible, and the remaining provisions shall continue in full force and effect.
+  
+- **14.3 Waiver**  
+  Our failure to enforce any right or provision of these Terms shall not constitute a waiver of that right or provision. Any waiver must be in writing and signed by an authorized representative of abcAssess to be effective.
+  
+- **14.4 Assignment**  
+  You may not assign or transfer your rights or obligations under these Terms without our prior written consent. We may assign these Terms or our rights hereunder in connection with a merger, acquisition, sale of assets, or by operation of law, without your consent.
+  
+- **14.5 No Third-Party Beneficiaries**  
+  These Terms are for the benefit of you and abcAssess only and do not create any rights in any third party, including students or parents.
+  
+- **14.6 Contact**  
+  For any questions or concerns regarding these Terms, please contact us:
 
 | | |
 |---|---|
