@@ -123,7 +123,9 @@ section.main-content h3 {
 // ============================================================
 
 body {
-  background-color: $brand-slate;
+  background-color: $brand-slate100;
+  color: $brand-navy; 
+}
 }
 table {
     color: $brand-navy;
