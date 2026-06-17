@@ -80,6 +80,7 @@ description: Version 2.2 · Updated June 16, 2026
 
 - **Accessibility Settings**  
   abcAssess provides a dedicated Accessibility section in Settings, organized into the following groups:
+  
   - *Visual Accessibility*  
     Show proficiency symbols — teachers can show or hide the ✓ ~ ! — symbol system alongside colors throughout the app. Default on. Recommended for colorblind users.
   - *Motion & Sensitivity*  
