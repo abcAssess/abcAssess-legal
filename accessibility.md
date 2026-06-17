@@ -125,7 +125,7 @@ description: Version 2.2 · Updated June 16, 2026
   
 - **United Kingdom**  
   - *Equality Act 2010* — We design our platform to meet the accessibility requirements of the Equality Act 2010 as applied to digital services.
-  - *Public Sector Bodies Accessibility Regulations 2018* — Where applicable to institutions using abcAssess, we design to these standards which align with WCAG 2.1 AA.  
+  - *Public Sector Bodies Accessibility Regulations 2018* — Where applicable to institutions using abcAssess, we design to these standards which align with WCAG 2.1 AA.
   
 - **Australia**  
   - *Disability Discrimination Act 1992 (Cth)* — We design our platform to avoid discrimination on the basis of disability consistent with the DDA and the Web Accessibility National Transition Strategy.  
