@@ -70,12 +70,13 @@ description: Version 2.2 · Updated June 16, 2026
 
 - **Colorblind-Accessible Assessment Tracking**  
   abcAssess uses a combined color and symbol system throughout the platform to communicate student proficiency levels, ensuring that information is never conveyed by color alone. Each proficiency level is represented by both a color and a distinct symbol:
+    
   - ✓ Proficient (sage green)
   - ~ Developing (amber)
   - ! Emerging (terracotta)
   - — Not Applicable (grey)
   
-  This system appears in the in-app tracking chart, individual student profiles (Current Mastery and Assessment History), and throughout all printed and PDF reports. In reports, proficiency zones are additionally represented by pattern fills (diagonal lines, horizontal lines, and dots) alongside colors, ensuring full accessibility in black-and-white print output. This system was designed specifically to support educators with color vision deficiencies and meets WCAG 2.1 Success Criterion 1.4.1 (Use of Color).
+  This system appears in the in-app tracking chart, individual student profiles (Current Mastery and Assessment History), and throughout all printed and PDF reports. In reports, proficiency zones are additionally represented by pattern fills (diagonal lines, horizontal lines, and dots) alongside colors, ensuring full accessibility in black-and-white print output. This system was designed specifically to support educators with color vision deficiencies and meets WCAG 2.1 Success Criterion 1.4.1 (Use of Color).  
 
 - **Accessibility Settings**  
   abcAssess provides a dedicated Accessibility section in Settings, organized into the following groups:
@@ -85,7 +86,7 @@ description: Version 2.2 · Updated June 16, 2026
     Reduced motion — teachers can disable confetti animations and dialog slide-up animations for users sensitive to motion or flashing content. Default off.
   - *Sensory Feedback*  
     Assessment sounds — teachers can enable or disable audio feedback including the timed assessment alert sound and assessment completion chime. Default on.
-    Haptics — teachers can enable or disable vibration feedback when an assessment is completed. Available on mobile devices only. Default on.
+    Haptics — teachers can enable or disable vibration feedback when an assessment is completed. Available on mobile devices only. Default on.  
   
 - **Audio Assessment Support**  
   abcAssess supports optional audio prompts during assessments, including teacher-recorded audio for custom assessment items. This feature supports educators working with diverse learners and allows teachers to provide consistent, accessible verbal prompts without relying solely on visual content. Teachers can enable or disable audio prompts per assessment type in their assessment settings.
@@ -120,23 +121,23 @@ description: Version 2.2 · Updated June 16, 2026
   - *WCAG 2.1 Level AA* — Our primary technical accessibility standard for web and mobile interfaces.
   - *Section 508* — Applicable to federally funded programs and institutions using our platform. We design to Section 508 technical standards, which align closely with WCAG 2.1 AA.
   - *ADA Title III* — Increasingly applied to web-based services and applications. We design our platform to meet ADA Title III standards for accessibility of public-facing digital services.
-  - *IDEA* — We recognize that many of our users serve students with disabilities under the Individuals with Disabilities Education Act, and we design our tools to support educators working in those environments.
+  - *IDEA* — We recognize that many of our users serve students with disabilities under the Individuals with Disabilities Education Act, and we design our tools to support educators working in those environments.  
   
 - **United Kingdom**  
   - *Equality Act 2010* — We design our platform to meet the accessibility requirements of the Equality Act 2010 as applied to digital services.
-  - *Public Sector Bodies Accessibility Regulations 2018* — Where applicable to institutions using abcAssess, we design to these standards which align with WCAG 2.1 AA.
+  - *Public Sector Bodies Accessibility Regulations 2018* — Where applicable to institutions using abcAssess, we design to these standards which align with WCAG 2.1 AA.  
   
 - **Australia**  
-  - *Disability Discrimination Act 1992 (Cth)* — We design our platform to avoid discrimination on the basis of disability consistent with the DDA and the Web Accessibility National Transition Strategy.
+  - *Disability Discrimination Act 1992 (Cth)* — We design our platform to avoid discrimination on the basis of disability consistent with the DDA and the Web Accessibility National Transition Strategy.  
   
 - **New Zealand**  
-  - *Human Rights Act 1993* — We design our platform to meet accessibility obligations consistent with New Zealand's human rights framework for digital services.
+  - *Human Rights Act 1993* — We design our platform to meet accessibility obligations consistent with New Zealand's human rights framework for digital services.  
   
 - **Canada**  
-  - *Accessible Canada Act (ACA)* — We design our platform consistent with the principles of the Accessible Canada Act and applicable provincial accessibility legislation.
+  - *Accessible Canada Act (ACA)* — We design our platform consistent with the principles of the Accessible Canada Act and applicable provincial accessibility legislation.  
   
 - **Ireland**
-  - *Equal Status Acts 2000–2018* — We design our platform to meet the accessibility requirements of Irish equality legislation as applied to digital services.
+  - *Equal Status Acts 2000–2018* — We design our platform to meet the accessibility requirements of Irish equality legislation as applied to digital services.  
 
 [Back to top ↑](#)
 
