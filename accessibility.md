@@ -50,6 +50,7 @@ description: Version 2.2 · Updated June 16, 2026
   - ~ Developing (amber)
   - ! Emerging (terracotta)
   - — Not Applicable (grey)
+  
   This system appears in the in-app tracking chart, individual student profiles (Current Mastery and Assessment History), and throughout all printed and PDF reports. In reports, proficiency zones are additionally represented by pattern fills (diagonal lines, horizontal lines, and dots) alongside colors, ensuring full accessibility in black-and-white print output. This system was designed specifically to support educators with color vision deficiencies and meets WCAG 2.1 Success Criterion 1.4.1 (Use of Color).
 
 - **Accessibility Settings**  
