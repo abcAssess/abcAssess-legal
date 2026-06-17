@@ -88,7 +88,9 @@ description: Version 2.2 · Updated June 16, 2026
   - *Sensory Feedback*  
     Assessment sounds — teachers can enable or disable audio feedback including the timed assessment alert sound and assessment completion chime. Default on.
     Haptics — teachers can enable or disable vibration feedback when an assessment is completed. Available on mobile devices only. Default on.
-    
+
+&nbsp;
+
 - **Audio Assessment Support**  
   abcAssess supports optional audio prompts during assessments, including teacher-recorded audio for custom assessment items. This feature supports educators working with diverse learners and allows teachers to provide consistent, accessible verbal prompts without relying solely on visual content. Teachers can enable or disable audio prompts per assessment type in their assessment settings.
   
@@ -123,7 +125,9 @@ description: Version 2.2 · Updated June 16, 2026
   - *Section 508* — Applicable to federally funded programs and institutions using our platform. We design to Section 508 technical standards, which align closely with WCAG 2.1 AA.
   - *ADA Title III* — Increasingly applied to web-based services and applications. We design our platform to meet ADA Title III standards for accessibility of public-facing digital services.
   - *IDEA* — We recognize that many of our users serve students with disabilities under the Individuals with Disabilities Education Act, and we design our tools to support educators working in those environments.
-    
+
+ &nbsp;
+
 - **United Kingdom**  
   - *Equality Act 2010* — We design our platform to meet the accessibility requirements of the Equality Act 2010 as applied to digital services.
   - *Public Sector Bodies Accessibility Regulations 2018* — Where applicable to institutions using abcAssess, we design to these standards which align with WCAG 2.1 AA.
