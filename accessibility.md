@@ -13,6 +13,26 @@ description: Version 2.2 · Updated June 16, 2026
 
 ---
 
+## Table of Contents
+
+1. [Our Commitment](#our-commitment)
+2. [Conformance Status](#conformance-status)
+3. [Accessibility Features](#accessibility-features)
+   - [Screen Reader Support](#screen-reader-support)
+   - [Keyboard and Switch Access](#keyboard-and-switch-access)
+   - [Color Contrast](#color-contrast)
+   - [Colorblind-Accessible Assessment Tracking](#colorblind-accessible-assessment-tracking)
+   - [Accessibility Settings](#accessibility-settings)
+   - [Audio Assessment Support](#audio-assessment-support)
+   - [Touch Target Sizing](#touch-target-sizing)
+   - [Text Alternatives for Images](#text-alternatives-for-images)
+4. [Known Limitations](#known-limitations)
+5. [Legal Framework](#legal-framework)
+6. [Feedback and Accessibility Requests](#feedback-and-accessibility-requests)
+7. [Updates to This Statement](#updates-to-this-statement)
+
+---
+
 ## Our Commitment
 
 #### At abcAssess, we believe every teacher deserves access to high-quality classroom assessment tools — regardless of ability. We are committed to ensuring that our web platform and native iOS and Android applications are accessible to educators and administrators with diverse abilities.
@@ -21,6 +41,8 @@ description: Version 2.2 · Updated June 16, 2026
 
 #### abcAssess is committed to compliance with the Web Content Accessibility Guidelines (WCAG) 2.1 Level AA, Section 508 of the Rehabilitation Act of 1973, and the Americans with Disabilities Act (ADA) Title III as applied to web-based services, as well as equivalent accessibility standards in the United Kingdom, Australia, New Zealand, Canada, and Ireland. Where our platform falls short of full conformance, we are actively working to close those gaps and welcome feedback from any user who encounters a barrier.
 
+[Back to top ↑](#)
+
 ---
 
 ## Conformance Status
@@ -28,6 +50,8 @@ description: Version 2.2 · Updated June 16, 2026
 #### The Web Content Accessibility Guidelines (WCAG) define technical requirements for making digital content accessible to people with disabilities. abcAssess is designed to meet WCAG 2.1 Level AA across both our web platform and native mobile applications.
 
 **Current Status:** Partially Conformant with WCAG 2.1 Level AA. This means that some parts of our platform do not yet fully meet all guidelines. We are actively working toward full conformance and provide the known limitations and our remediation roadmap below. Users who encounter a specific barrier may request an accessible alternative by contacting us at support@abcassess.app.
+
+[Back to top ↑](#)
 
 ---
 
@@ -62,8 +86,7 @@ description: Version 2.2 · Updated June 16, 2026
   - *Sensory Feedback*  
     Assessment sounds — teachers can enable or disable audio feedback including the timed assessment alert sound and assessment completion chime. Default on.
     Haptics — teachers can enable or disable vibration feedback when an assessment is completed. Available on mobile devices only. Default on.
-
-
+  
 - **Audio Assessment Support**  
   abcAssess supports optional audio prompts during assessments, including teacher-recorded audio for custom assessment items. This feature supports educators working with diverse learners and allows teachers to provide consistent, accessible verbal prompts without relying solely on visual content. Teachers can enable or disable audio prompts per assessment type in their assessment settings.
 
@@ -72,6 +95,8 @@ description: Version 2.2 · Updated June 16, 2026
 
 - **Text Alternatives for Images**  
   Non-decorative system images include descriptive text alternatives. For teacher-uploaded instructional content — such as custom assessment images or audio prompts — our assessment builder provides fields for educators to assign their own descriptive labels within their content library. abcAssess cannot guarantee the accessibility of user-generated content, but we provide the tools to support it.
+  
+[Back to top ↑](#)
 
 ---
 
@@ -82,6 +107,8 @@ description: Version 2.2 · Updated June 16, 2026
   - *Complex Data Visualizations:* Class-wide analytics dashboards, historical progress charts, and report snapshots do not yet include comprehensive text or audio equivalents for all visual data. We are working to add accessible data table alternatives and descriptive summaries for these views.
   - *Accessible Data Exports:* We are developing accessible, high-contrast CSV data exports for all roster summaries and student progress records. This feature is currently in development. Users who need immediate access to data in an alternative format may contact us at support@abcassess.app and we will work to accommodate the request manually.
   - *User-Generated Content:* abcAssess cannot guarantee the accessibility of assessment content, images, or templates created or shared by other teachers using the platform. We encourage all educators to use the descriptive labeling tools available in the assessment builder when creating or sharing content.
+
+[Back to top ↑](#)
 
 ---
 
@@ -94,22 +121,24 @@ description: Version 2.2 · Updated June 16, 2026
   - *Section 508* — Applicable to federally funded programs and institutions using our platform. We design to Section 508 technical standards, which align closely with WCAG 2.1 AA.
   - *ADA Title III* — Increasingly applied to web-based services and applications. We design our platform to meet ADA Title III standards for accessibility of public-facing digital services.
   - *IDEA* — We recognize that many of our users serve students with disabilities under the Individuals with Disabilities Education Act, and we design our tools to support educators working in those environments.
-
+  
 - **United Kingdom**  
   - *Equality Act 2010* — We design our platform to meet the accessibility requirements of the Equality Act 2010 as applied to digital services.
   - *Public Sector Bodies Accessibility Regulations 2018* — Where applicable to institutions using abcAssess, we design to these standards which align with WCAG 2.1 AA.
-
+  
 - **Australia**  
   - *Disability Discrimination Act 1992 (Cth)* — We design our platform to avoid discrimination on the basis of disability consistent with the DDA and the Web Accessibility National Transition Strategy.
-
+  
 - **New Zealand**  
   - *Human Rights Act 1993* — We design our platform to meet accessibility obligations consistent with New Zealand's human rights framework for digital services.
-
+  
 - **Canada**  
   - *Accessible Canada Act (ACA)* — We design our platform consistent with the principles of the Accessible Canada Act and applicable provincial accessibility legislation.
-
+  
 - **Ireland**
   - *Equal Status Acts 2000–2018* — We design our platform to meet the accessibility requirements of Irish equality legislation as applied to digital services.
+
+[Back to top ↑](#)
 
 ---
 
@@ -130,11 +159,15 @@ We treat accessibility reports as high-priority feedback and use them to inform 
 | **Subject Line** | Please include "Accessibility" in your subject line |
 | **Response Time** | Acknowledgment within 2 business days; resolution plan within 10 |
 
+[Back to top ↑](#)
+
 ---
 
 ## Updates to This Statement
 
 #### We review and update this Accessibility Statement as our platform evolves and as we make progress toward full WCAG 2.1 Level AA conformance. The Effective Date and Version number at the top of this document reflect the most recent revision. Material updates will be communicated to active account holders in accordance with our standard notification policy.
+
+[Back to top ↑](#)
 
 --- 
 
