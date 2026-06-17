@@ -70,7 +70,7 @@ description: Version 2.2 · Updated June 16, 2026
 
 - **Colorblind-Accessible Assessment Tracking**  
   abcAssess uses a combined color and symbol system throughout the platform to communicate student proficiency levels, ensuring that information is never conveyed by color alone. Each proficiency level is represented by both a color and a distinct symbol:
-    
+  
   - ✓ Proficient (sage green)
   - ~ Developing (amber)
   - ! Emerging (terracotta)
@@ -86,14 +86,14 @@ description: Version 2.2 · Updated June 16, 2026
     Reduced motion — teachers can disable confetti animations and dialog slide-up animations for users sensitive to motion or flashing content. Default off.
   - *Sensory Feedback*  
     Assessment sounds — teachers can enable or disable audio feedback including the timed assessment alert sound and assessment completion chime. Default on.
-    Haptics — teachers can enable or disable vibration feedback when an assessment is completed. Available on mobile devices only. Default on.  
+    Haptics — teachers can enable or disable vibration feedback when an assessment is completed. Available on mobile devices only. Default on.
   
 - **Audio Assessment Support**  
   abcAssess supports optional audio prompts during assessments, including teacher-recorded audio for custom assessment items. This feature supports educators working with diverse learners and allows teachers to provide consistent, accessible verbal prompts without relying solely on visual content. Teachers can enable or disable audio prompts per assessment type in their assessment settings.
-
+  
 - **Touch Target Sizing**  
   All interactive elements on our native mobile applications — including buttons, toggles, and list items — maintain a minimum tap target size of 48x48 pixels, consistent with WCAG 2.1 Success Criterion 2.5.5 and platform guidelines from Apple and Google.
-
+  
 - **Text Alternatives for Images**  
   Non-decorative system images include descriptive text alternatives. For teacher-uploaded instructional content — such as custom assessment images or audio prompts — our assessment builder provides fields for educators to assign their own descriptive labels within their content library. abcAssess cannot guarantee the accessibility of user-generated content, but we provide the tools to support it.
   
