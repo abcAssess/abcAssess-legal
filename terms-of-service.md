@@ -188,7 +188,7 @@ description: Version 2.2 · Updated June 9, 2026
 - Any content you upload, share, or transmit through the Service.
 - Any claim by a student, parent, school, district, or regulatory authority arising from your use of the Service.
 
-#### We reserve the right, at our own expense, to assume the exclusive defense and control of any matter otherwise subject to indemnification by you. You agree to cooperate with our defense of such claims.
+We reserve the right, at our own expense, to assume the exclusive defense and control of any matter otherwise subject to indemnification by you. You agree to cooperate with our defense of such claims.
 
 [Back to top ↑](#)
 
