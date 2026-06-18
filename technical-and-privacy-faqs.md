@@ -131,36 +131,222 @@ Our full Data Processing Agreement, which satisfies GDPR Article 28 requirements
 
 ---
 
-## 7. Does this app work offline?
+# Security
 
-### Yes.
+## 7. How is student data secured?
 
-#### You can record assessments offline, and the data will sync securely to our servers once you have a stable internet connection.
+### With multiple layers of protection — including encryption that even we cannot read through.
 
----
+#### abcAssess uses a database-blind encryption architecture. Sensitive student data — including names and assessment scores — is encrypted at the application level before it is ever sent to our database. This means our own database administrators cannot view student information in plain text. All data is also encrypted during transmission and encrypted again at rest in our database. This layered approach means that even if our database were somehow accessed by an unauthorized party, the data would be unreadable without the application-level encryption keys.
 
-## 8. How do you track application usage?
+- **IT Administrator note:** Student identifiers and score arrays are protected using Client-Side Field-Level Encryption (CSFLE) with AES-256 encryption. Encryption keys are managed through Railway and are separate from the MongoDB Atlas database cluster. Data is encrypted in transit using TLS 1.3 and at rest using AES-256 within MongoDB Atlas (SOC 2 Type II, ISO 27001 certified).
 
-### We utilize privacy-first, event-based analytics to measure app performance, track system stability, and understand which tools educators use most. 
-
-#### This telemetry logs only high-level actions (such as when an assessment is completed or when a PDF report is generated) and does not harvest any Personally Identifiable Information (PII) from teachers or students.
+[Back to top ↑](#)
 
 ---
 
-## 9. Where is my data hosted, and who handles it?
+## 8. Are emails from abcAssess genuine and secure?
 
-### Our data layer is deployed securely via MongoDB Atlas. The frontend user interface is hosted using Vercel, and our supporting application backend environments run on Railway. 
+### Yes — we use standard email authentication protocols to prevent spoofing.
 
-#### All critical infrastructure configurations, database keys, and environment variables are strictly managed through secure provider dashboards rather than being exposed within raw application files.
+#### All outbound emails from abcAssess — including password resets, system notifications, and account alerts — are sent through authenticated channels. We implement DMARC, SPF, and DKIM email authentication protocols, which means your email provider can verify that messages claiming to be from abcAssess are genuine. If you ever receive a suspicious email claiming to be from abcAssess, do not click any links — contact us directly at [support@abcassess.app](mailto:support@abcassess.app).
+
+- **IT Administrator note:** Outbound email is handled through Resend using dedicated sending subdomains protected by HSTS. DMARC policy enforcement, unified SPF records, and DKIM signing are configured to prevent spoofing and ensure deliverability and authenticity of all system messages.
+
+[Back to top ↑](#)
 
 ---
 
-## 10. Are communications from abcAssess secure?
+## 9. What happens if there is a data breach?
 
-### Yes. 
+### We notify you promptly and take immediate action.
 
-#### All outbound transactional notifications and system updates are managed using dedicated subdomains protected by strict network security policies. This includes standard HSTS data defenses, automated DMARC protocols, and unified SPF verification records to prevent email spoofing and guarantee that any system messages originating from our code are authentic and securely transmitted.
+#### In the event of a confirmed data breach affecting personal data, abcAssess will notify affected account holders by email as quickly as possible — and within 72 hours of becoming aware of the breach, consistent with GDPR and UK GDPR requirements. Our notification will clearly explain what happened, what data was affected, and what steps we are taking to address it. We will notify relevant supervisory authorities as required by applicable law in each affected jurisdiction and cooperate fully with any regulatory inquiries.
+
+[Back to top ↑](#)
+
 ---
+
+# Data Practices
+
+## 10. How do you track application usage?
+
+###We use privacy-first analytics that collect no personally identifiable information.
+
+#### abcAssess uses PostHog for internal product analytics and Sentry for error monitoring. These tools record only anonymized, high-level events — such as when an assessment is completed or a report is generated — and do not collect any personally identifiable information from teachers or students. We do not use Google Analytics, Meta Pixel, or any behavioral advertising tracking tools. If this changes in a future version, we will update our Privacy Policy and notify users in advance.
+
+[Back to top ↑](#)
+
+---
+
+## 11. Do you use student data for advertising?
+
+### Never — not now, not ever.
+
+#### abcAssess does not engage in behavioral advertising of any kind. We do not build marketing profiles based on student data or teacher usage. We do not share data with advertising networks. Student data exists in abcAssess for one purpose only: to help you assess and support your students.
+
+[Back to top ↑](#)
+
+---
+
+## 12. Where is my data hosted, and who handles it?
+
+### In secure, certified cloud infrastructure.
+
+#### abcAssess uses a small set of carefully selected infrastructure providers, each with strong security certifications:
+
+
+#### Data is stored in the United States by default. We are planning to expand to EU/UK-based database infrastructure as our user base in those regions grows. UK and EU Subscribers should review our Data Processing Agreement for details on applicable international transfer mechanisms.
+
+[Back to top ↑](#)
+
+---
+
+# Account & Data Management
+
+## 13. Can I export my data?
+
+### Yes — full data portability is built into the app.
+
+#### You can generate PDF reports for individual students or full classes at any time from the Reports page. You can also download a complete backup of all your account data — including classes, student records, and assessment histories — from the Reports page.
+
+#### We do not store copies of exported files on our servers after delivery. Once downloaded, you are responsible for storing your data securely in accordance with your school or district's policies and applicable privacy law.
+
+[Back to top ↑](#)
+
+---
+
+## Q14. What are backup files and how do they work?
+
+### Backup files are a complete portable copy of your account data.
+
+#### A backup file contains all your classes, student records, and assessment histories. Backup files can be imported into any abcAssess account — not only the originating account. This enables legitimate use cases such as account migration, end-of-year class handoff to a colleague, or account recovery if you are locked out.
+Important things to know about backup files:
+- A confirmation acknowledgment is required before downloading. By downloading, you confirm that you will handle the file in accordance with FERPA and applicable privacy law.
+- Backup files contain student data and should be treated with the same care as any other document containing student records. Do not share backup files with unauthorized individuals.
+- You are legally responsible for ensuring that any educator you share a backup with has a legitimate educational interest in those student records.
+- Co-teacher and assistant teacher links, pending invitations, and pending transfer requests are not included in backup files and will not carry over on import.
+- Student names are encrypted and tied to the originating deployment. If a backup is imported into a different abcAssess deployment, student names may display as unreadable — but classes, scores, and assessment histories will import cleanly. You would need to re-enter student names manually in that scenario.
+
+[Back to top ↑](#)
+
+---
+
+## 15. Can I share my backup file with a colleague?
+
+### Technically yes — but you carry the legal responsibility.
+
+#### Because backup files can be imported into any abcAssess account, you could share one with a colleague. However, by downloading the backup you have already acknowledged your responsibility under FERPA and applicable privacy law to ensure the receiving educator has a legitimate educational interest in those student records.
+
+#### For most end-of-year handoffs, we recommend using the built-in student transfer feature instead. It requires the receiving teacher to explicitly accept the transfer, creates an auditable record, and is the more compliant approach for transferring student records between educators.
+
+[Back to top ↑](#)
+
+---
+
+## 16. How do student transfers between teachers work?
+
+### Through a consent-based request and acceptance flow.
+
+#### A teacher can transfer individual students or an entire class to another abcAssess educator. The receiving teacher must explicitly accept the transfer before any data moves. Transfer requests expire automatically after 30 days if not accepted.
+#### When initiating a transfer, the sending teacher must confirm that the receiving educator has a legitimate educational interest in those student records, in compliance with FERPA and applicable privacy law.
+#### The sending teacher can choose to keep a copy of the data, archive their copy, or remove their copy entirely. Archive and remove actions are held until the recipient accepts — so if the transfer is never accepted, the sending teacher's data remains unchanged.
+
+[Back to top ↑](#)
+
+---
+
+## 17. What happens to student data when a teacher leaves a school?
+
+### The teacher retains their account and data — the school does not automatically receive it.
+
+#### abcAssess is a teacher-account-based tool. When a teacher leaves a school, their account and all associated student data remains under their control. The school does not automatically receive or retain access to that data.
+#### If a teacher is leaving and wants to hand off their students to a colleague, they should use the built-in student or class transfer feature before their last day. If a teacher's account is simply abandoned, it will be flagged for deletion after 12 months of inactivity following a 30-day warning email.
+#### Schools and districts concerned about data continuity and ownership should review our Data Processing Agreement and consider establishing a formal data governance policy for use of third-party edtech tools.
+
+[Back to top ↑](#)
+
+---
+
+## 18. What happens if I delete my account?
+
+### Your data is permanently and immediately deleted.
+
+#### When you delete your account through App Settings, abcAssess immediately initiates a cascade deletion process that permanently removes your teacher profile and all associated student records, assessment histories, and uploaded media from our active database. This process begins immediately upon your confirmation and cannot be undone.
+
+#### We recommend exporting your data before deleting your account if you wish to keep records. Encrypted system backups may retain data for up to 30 days as part of our standard backup rotation before being permanently overwritten — during this period the data is not accessible or restorable under normal circumstances.
+
+#### Note: Cancelling your subscription and deleting your account are separate actions. You can cancel billing without deleting your data.
+
+[Back to top ↑](#)
+
+---
+
+## 19. Does abcAssess work offline?
+
+### Yes — with two layers of local protection.
+
+#### abcAssess supports offline data capture so you can record assessments in low-connectivity environments such as playgrounds, hallways, or areas with poor reception.
+How it works:
+- While you are mid-assessment, the app automatically saves a draft snapshot of your responses to your device's local storage every second. If your phone closes or the app is interrupted, your progress is saved and you can resume when you reopen the app.
+- When you complete an assessment, the app immediately attempts to sync to our servers. If you are offline, the completed assessment is held in a persistent local queue on your device and syncs automatically as soon as connectivity is restored. Each assessment stays in the queue until our server confirms receipt — so there is no risk of double-posting.
+The one limitation to be aware of:
+- If your device is lost, stolen, wiped, or factory reset before unsynced assessments have been uploaded, that data cannot be recovered by abcAssess. Local storage is device-specific and cannot be restored remotely. We recommend checking that assessments have synced (visible in the Pending Sync section of Settings) before retiring or resetting a device.
+
+[Back to top ↑](#)
+
+---
+
+## 20. What happens to my students' data if I don't subscribe after the free trial?
+
+### Your data is protected during a grace period, then permanently deleted.
+
+#### When your 14-day free trial ends without a subscription being purchased, your account enters a suspended state with read-only access — you can still log in and export your data but cannot run new assessments or add students. You'll receive an immediate email letting you know your trial has ended with options to subscribe or export and delete your data.
+
+#### If no subscription is purchased within 90 days of your trial ending, your account and all associated data — including all student records and assessment histories — are permanently deleted. You'll receive a warning email before this happens.
+
+#### During the 90-day grace period you can log back in at any time to export your data, subscribe, or manually delete your account. We recommend exporting any data you want to keep before the grace period ends.
+
+[Back to top ↑](#)
+
+---
+
+## Q21. What subscription plans are available?
+
+### Two individual plans plus school and district options.
+- 14-day free trial: All new accounts start with a full-featured free trial. No payment information required during the trial — a valid payment method is needed at the end to continue.
+- Monthly Plan — $5/month: Full access to all features, billed month-to-month. Cancel anytime.
+- Annual Plan — $50/year: Full access to all features for 12 months. Saves $10 versus monthly. Renews automatically each year.
+- School and district pricing: Available for organizations with multiple teachers. Contact us at [support@abcassess.app](mailto:support@abcassess.app) for pricing information.
+- Beta participant pricing: Teachers who participated in the abcAssess beta program receive the following benefits:
+  - One full year of free access following public launch, upon completion of the end-of-beta survey
+  - Founding Member rate — a permanent 20% discount off the then-current subscription price for as long as they maintain an active subscription
+  - Beta centers receive a permanent 20% discount off center licensing when that option becomes available
+
+#### See Section 6.10 of the Terms of Service for full details.
+
+Q21. What happens if my subscription lapses?
+You have a 90-day window before any data is affected.
+If your subscription lapses for any reason — including non-renewal, a failed payment, or school procurement delays — here is what happens:
+
+Days 1–30: Full access continues. You'll receive reminder emails at lapse, day 14, and day 25.
+Days 31–90: Your account enters read-only mode. You can view all your data, download reports, and export records, but cannot run new assessments or add students.
+Day 85: A final warning email is sent.
+Day 90: Your account and all associated student data are permanently deleted.
+
+You can resubscribe at any time during the 90-day window to immediately restore full access with all your data intact.
+This grace period is intentionally generous — we know school procurement timelines, fiscal year resets, and PO processing can cause brief lapses that are entirely outside a teacher's control. We don't want an administrative delay to cost you your data.
+
+Q22. Is abcAssess available outside the United States?
+Yes — we currently serve six English-speaking markets.
+abcAssess is available to educators in the United States, Canada (English-speaking provinces), Australia, New Zealand, the United Kingdom, and Ireland. The app is available in English only at this time.
+Each market has its own applicable privacy law compliance — see Q2 for details. Pricing is displayed in USD. Applicable taxes including VAT (UK/Ireland) and GST (Australia/New Zealand) are calculated and collected automatically at checkout.
+
+Still Have Questions?
+If you have a question that isn't answered here — or if you're an IT administrator evaluating abcAssess for your district or center — we're happy to help.
+
+
+
 
 ## Contact
 
