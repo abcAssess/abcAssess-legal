@@ -41,7 +41,8 @@ description: Version 2.1 · Updated June 10, 2026
 ---
 
 ## 1. Definitions
-For purposes of this DPA, the following terms have the meanings set forth below:
+
+#### For purposes of this DPA, the following terms have the meanings set forth below:
 - **"Controller"** The Subscriber — the school, institution, or educator who determines the purposes and means of processing student data. Under FERPA, this is the school or district.
 - **"Processor"** abcAssess — the entity that processes personal data on behalf of and under the instructions of the Controller.
 - **"Personal Data"** Any information relating to an identified or identifiable individual, including student first names, last initials, birth month and year, student identifiers, and assessment results.
@@ -89,7 +90,7 @@ For purposes of this DPA, the following terms have the meanings set forth below:
   - Training, fine-tuning, or improving any machine learning or artificial intelligence model.
   - Building marketing profiles or user tracking databases.
   - Any purpose unrelated to providing the educational assessment Service to the Subscriber.
-
+<br><br>
 - **3.3 GDPR — Article 28 Compliance (EU Users)**  
   For Subscribers located in the European Union, or whose students' data may be subject to GDPR, abcAssess acts as a Data Processor under GDPR Article 28. abcAssess commits to the following obligations required under Article 28:
 
@@ -135,7 +136,7 @@ For purposes of this DPA, the following terms have the meanings set forth below:
 | ***Stripe*** | Payment processing and subscription management | United States / Global | *SOC 2 Type II, PCI DSS Level 1* |
 | ***PostHog*** | Anonymized product analytics and feature usage tracking — no student PII collected | US / EU | *SOC 2 Type II* |
 | ***Sentry*** | Anonymized error monitoring and application stability — no student PII collected | United States | *SOC 2 Type II* |
-
+<br><br>
 - **4.2 Sub-Processor Change Notification**  
   abcAssess will notify Subscribers of any intended addition or replacement of sub-processors at least fourteen (14) days before the change takes effect, by posting an update to this DPA and notifying active account holders by email. The Subscriber may object to a new sub-processor within fourteen (14) days of receiving notice by contacting [legal@abcassess.app](mailto:legal@abcassess.app). If the parties cannot resolve a legitimate objection, the Subscriber may terminate the service relationship without penalty by providing written notice within thirty (30) days of the original sub-processor notification.
   
@@ -148,7 +149,7 @@ For purposes of this DPA, the following terms have the meanings set forth below:
   - *Australian transfers:* Contractual arrangements consistent with Australian Privacy Principle 8 cross-border disclosure requirements.
   - *New Zealand transfers:* Contractual arrangements consistent with Privacy Act 2020 information privacy principle 12.
 
-  Documentation of applicable transfer safeguards is available upon written request to legal@abcassess.app.
+  Documentation of applicable transfer safeguards is available upon written request to [legal@abcassess.app](mailto:legal@abcassess.app).
 
 ---
 
@@ -228,14 +229,17 @@ For purposes of this DPA, the following terms have the meanings set forth below:
 
 #### abcAssess will make available to the Subscriber all information reasonably necessary to demonstrate compliance with the obligations set forth in this DPA and in applicable privacy law. The Subscriber may exercise audit rights as follows:
 
-- *Documentation requests:* The Subscriber may request copies of relevant security policies, sub-processor agreements (in redacted form to protect confidential information), and compliance certifications at any time by contacting [legal@abcassess.app](mailto:legal@abcassess.app). abcAssess will respond within 30 days.
-- *Third-party audits:* abcAssess will cooperate with reasonable third-party security assessments or audits commissioned by the Subscriber, provided that:
+- **Documentation requests:**
+  The Subscriber may request copies of relevant security policies, sub-processor agreements (in redacted form to protect confidential information), and compliance certifications at any time by contacting [legal@abcassess.app](mailto:legal@abcassess.app). abcAssess will respond within 30 days.
+- **Third-party audits:**
+  abcAssess will cooperate with reasonable third-party security assessments or audits commissioned by the Subscriber, provided that:
   - (a) the Subscriber gives at least 30 days written notice;
   - (b) the audit is conducted during normal business hours and does not unreasonably disrupt abcAssess operations;
   - (c) the Subscriber bears the cost of such audit unless the audit reveals a material breach of this DPA by abcAssess; and
   - (d) the auditor signs a confidentiality agreement acceptable to abcAssess.
-
-- *Certification review:* Where abcAssess maintains third-party security certifications (such as SOC 2 reports from its sub-processors), copies will be shared with the Subscriber upon request and subject to confidentiality obligations.
+<br><br>
+- **Certification review:**
+  Where abcAssess maintains third-party security certifications (such as SOC 2 reports from its sub-processors), copies will be shared with the Subscriber upon request and subject to confidentiality obligations.
 
 ---
 
