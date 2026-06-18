@@ -137,8 +137,8 @@ description: Version 2.1 · Updated June 10, 2026
 | ***Stripe*** | Payment processing and subscription management | United States / Global | *SOC 2 Type II, PCI DSS Level 1* |
 | ***PostHog*** | Anonymized product analytics and feature usage tracking — no student PII collected | US / EU | *SOC 2 Type II* |
 | ***Sentry*** | Anonymized error monitoring and application stability — no student PII collected | United States | *SOC 2 Type II* |
+
 <br><br>
-  
 - **4.2 Sub-Processor Change Notification**  
   abcAssess will notify Subscribers of any intended addition or replacement of sub-processors at least fourteen (14) days before the change takes effect, by posting an update to this DPA and notifying active account holders by email. The Subscriber may object to a new sub-processor within fourteen (14) days of receiving notice by contacting [legal@abcassess.app](mailto:legal@abcassess.app). If the parties cannot resolve a legitimate objection, the Subscriber may terminate the service relationship without penalty by providing written notice within thirty (30) days of the original sub-processor notification.
   
@@ -162,7 +162,7 @@ description: Version 2.1 · Updated June 10, 2026
   - *Client-Side Field-Level Encryption (CSFLE):* Sensitive student identifiers and assessment results are encrypted at the application layer using AES-256 encryption before being transmitted to or stored in the database. Encryption keys are managed separately from the database, meaning database administrators cannot read student data in plain text.
   - *Data in Transit:* All data transmitted between the application and our servers is encrypted using TLS 1.3.
   - *Data at Rest:* All data stored in our database infrastructure is encrypted at rest using AES-256.
-
+<br><br>
 - **5.2 Access Controls**  
   Access to production systems and Personal Data is restricted to authorized personnel only, protected by multi-factor authentication, and governed by the principle of least privilege. Access permissions are reviewed periodically and revoked promptly upon personnel changes.
 
