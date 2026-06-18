@@ -91,6 +91,7 @@ description: Version 2.1 · Updated June 10, 2026
   - Building marketing profiles or user tracking databases.
   - Any purpose unrelated to providing the educational assessment Service to the Subscriber.
 <br><br>
+
 - **3.3 GDPR — Article 28 Compliance (EU Users)**  
   For Subscribers located in the European Union, or whose students' data may be subject to GDPR, abcAssess acts as a Data Processor under GDPR Article 28. abcAssess commits to the following obligations required under Article 28:
 
@@ -137,6 +138,7 @@ description: Version 2.1 · Updated June 10, 2026
 | ***PostHog*** | Anonymized product analytics and feature usage tracking — no student PII collected | US / EU | *SOC 2 Type II* |
 | ***Sentry*** | Anonymized error monitoring and application stability — no student PII collected | United States | *SOC 2 Type II* |
 <br><br>
+  
 - **4.2 Sub-Processor Change Notification**  
   abcAssess will notify Subscribers of any intended addition or replacement of sub-processors at least fourteen (14) days before the change takes effect, by posting an update to this DPA and notifying active account holders by email. The Subscriber may object to a new sub-processor within fourteen (14) days of receiving notice by contacting [legal@abcassess.app](mailto:legal@abcassess.app). If the parties cannot resolve a legitimate objection, the Subscriber may terminate the service relationship without penalty by providing written notice within thirty (30) days of the original sub-processor notification.
   
@@ -199,9 +201,9 @@ description: Version 2.1 · Updated June 10, 2026
 
 #### abcAssess provides the following tools to facilitate data subject rights:
 
-- *In-app data export:* Subscribers may download a complete export of all account and student data at any time through the Reports section of the app.
-- *In-app deletion:* Subscribers may delete individual student records, entire class rosters, or their full account at any time through App Settings.
-- *Manual assistance:* For requests that cannot be fulfilled through the in-app tools, the Subscriber may contact legal@abcassess.app with "Data Request" in the subject line. abcAssess will respond within 30 days.
+- **In-app data export:** Subscribers may download a complete export of all account and student data at any time through the Reports section of the app.
+- **In-app deletion:** Subscribers may delete individual student records, entire class rosters, or their full account at any time through App Settings.
+- **Manual assistance:** For requests that cannot be fulfilled through the in-app tools, the Subscriber may contact legal@abcassess.app with "Data Request" in the subject line. abcAssess will respond within 30 days.
 
 #### abcAssess will not respond directly to data subject requests without the Subscriber's prior authorization, unless required to do so by applicable law.
 
