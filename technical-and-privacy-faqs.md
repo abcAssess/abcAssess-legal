@@ -28,19 +28,27 @@ For full details, see our Privacy Policy, Terms of Service, and Data Processing 
 
 ---
 
-## 2. How is student data secured?
+## 2. Is abcAssess compliant with GDPR, UK GDPR, or other international privacy laws?
 
-### Data privacy is built directly into our database architecture. 
+### Yes — we are designed for compliance across all markets we serve.
 
-#### We enforce strict application-level multi-tenant isolation using unique organizational and teacher identifiers. This means all classroom data is tightly filtered through server-side query middleware so that records from one classroom can never be accessed or read by another. All data is encrypted in transit using industry-standard TLS protocols and encrypted at rest within our secured database environment.
+#### abcAssess currently serves educators in the United States, Canada (English-speaking provinces), Australia, New Zealand, the United Kingdom, and Ireland.
+<br><br>
+  **EU users:** abcAssess complies with GDPR and acts as a Data Processor under GDPR Article 28. We use Standard Contractual Clauses (SCCs) for data transfers outside the EEA. We intend to appoint an EU Representative as required by GDPR Article 27 — this will be updated in our DPA when the appointment is made.
+  **UK users:** abcAssess complies with UK GDPR. We use the UK International Data Transfer Agreement (IDTA) for applicable transfers. We intend to appoint a UK Representative as required by UK GDPR Article 27.
+  **Canadian users:** abcAssess complies with PIPEDA.
+  **Australian users:** abcAssess complies with the Privacy Act 1988 (Cth) and Australian Privacy Principles (APPs).
+  **New Zealand users:** abcAssess complies with the Privacy Act 2020.
+
+Our full Data Processing Agreement, which satisfies GDPR Article 28 requirements and addresses all applicable jurisdictions, is available upon request at legal@abcassess.app.
 
 ---
 
-## 3. Who owns the data I enter?
+## 3. Does abcAssess use student data to train AI or machine learning models?
 
-### You (the educator) or your school district own all student data.
+### Never — this is explicitly prohibited.
 
-#### abcAssess does not claim ownership of student records, nor do we ever sell or share data with third-party advertisers.
+#### Student data entered into abcAssess is never used to train, fine-tune, or improve any artificial intelligence or machine learning model — by us or by any third party. This prohibition is written into our Data Processing Agreement and our sub-processor contracts. Student data is used solely to deliver the assessment features you have requested. This will not change without explicit notice and consent.
 
 ---
 
