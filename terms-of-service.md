@@ -127,8 +127,8 @@ description: Version 2.2 · Updated June 9, 2026
 - **6.2 Subscription Plans**  
   abcAssess offers the following subscription plans for individual teachers:
 
-  - **Monthly Plan:** Full access to all features, billed month-to-month. Cancellable at any time.
-  - **Annual Plan:** Full access to all features for 12 months, billed annually. Renews automatically on the anniversary of the subscription start date unless cancelled.
+  - *Monthly Plan:* Full access to all features, billed month-to-month. Cancellable at any time.
+  - *Annual Plan:* Full access to all features for 12 months, billed annually. Renews automatically on the anniversary of the subscription start date unless cancelled.
   - Additional plans may be introduced from time to time and will be described at the point of purchase.
 <br><br>
 - **6.3 Billing and Payment**  
