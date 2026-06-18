@@ -50,9 +50,9 @@ For full details, see our Privacy Policy, Terms of Service, and Data Processing 
 ### Subscriptions & Billing
 20. [What happens to my students' data if I don't subscribe after the free trial?](#20-what-happens-to-my-students-data-if-i-dont-subscribe-after-the-free-trial)
 21. [What subscription plans are available?](#21-what-subscription-plans-are-available)
-22. [What happens if my subscription lapses?](#21-what-happens-if-my-subscription-lapses)
-23. [Is abcAssess available outside the United States?](#22-is-abcassess-available-outside-the-united-states)
-
+22. [What happens if my subscription lapses?](#22-what-happens-if-my-subscription-lapses)
+23. [Is abcAssess available outside the United States?](#23-is-abcassess-available-outside-the-united-states)
+24. [What if I still have more questions?](#24-still-have-questions)
 ---
 
 # Privacy and Legal Compliance
@@ -171,7 +171,7 @@ Our full Data Processing Agreement, which satisfies GDPR Article 28 requirements
 
 ## 10. How do you track application usage?
 
-###We use privacy-first analytics that collect no personally identifiable information.
+### We use privacy-first analytics that collect no personally identifiable information.
 
 #### abcAssess uses PostHog for internal product analytics and Sentry for error monitoring. These tools record only anonymized, high-level events — such as when an assessment is completed or a report is generated — and do not collect any personally identifiable information from teachers or students. We do not use Google Analytics, Meta Pixel, or any behavioral advertising tracking tools. If this changes in a future version, we will update our Privacy Policy and notify users in advance.
 
@@ -195,6 +195,15 @@ Our full Data Processing Agreement, which satisfies GDPR Article 28 requirements
 
 #### abcAssess uses a small set of carefully selected infrastructure providers, each with strong security certifications:
 
+| Provider | Role | Data Location | Certification |
+|---|---|---|---|
+| MongoDB Atlas | Encrypted database storage | United States (EU region planned for UK/EU users) | SOC 2 Type II, ISO 27001 |
+| Railway | Backend processing and encryption key management | United States | SOC 2 Type II |
+| Vercel | Application hosting and edge delivery | Global CDN / U.S. primary | SOC 2 Type II |
+| Resend | Transactional email delivery | United States | SOC 2 Type II |
+| Stripe | Payment processing | United States / Global | SOC 2 Type II, PCI DSS Level 1 |
+| PostHog | Anonymized product analytics — no student PII collected | U.S. / EU | SOC 2 Type II |
+| Sentry | Anonymized error monitoring — no student PII collected | United States | SOC 2 Type II |
 
 #### Data is stored in the United States by default. We are planning to expand to EU/UK-based database infrastructure as our user base in those regions grows. UK and EU Subscribers should review our Data Processing Agreement for details on applicable international transfer mechanisms.
 
@@ -276,7 +285,7 @@ Important things to know about backup files:
 
 #### We recommend exporting your data before deleting your account if you wish to keep records. Encrypted system backups may retain data for up to 30 days as part of our standard backup rotation before being permanently overwritten — during this period the data is not accessible or restorable under normal circumstances.
 
-#### Note: Cancelling your subscription and deleting your account are separate actions. You can cancel billing without deleting your data.
+#### *Note: Cancelling your subscription and deleting your account are separate actions. You can cancel billing without deleting your data.*
 
 [Back to top ↑](#)
 
@@ -311,7 +320,7 @@ The one limitation to be aware of:
 
 ---
 
-## Q21. What subscription plans are available?
+## 21. What subscription plans are available?
 
 ### Two individual plans plus school and district options.
 - 14-day free trial: All new accounts start with a full-featured free trial. No payment information required during the trial — a valid payment method is needed at the end to continue.
@@ -325,34 +334,54 @@ The one limitation to be aware of:
 
 #### See Section 6.10 of the Terms of Service for full details.
 
-Q21. What happens if my subscription lapses?
-You have a 90-day window before any data is affected.
-If your subscription lapses for any reason — including non-renewal, a failed payment, or school procurement delays — here is what happens:
+[Back to top ↑](#)
 
-Days 1–30: Full access continues. You'll receive reminder emails at lapse, day 14, and day 25.
-Days 31–90: Your account enters read-only mode. You can view all your data, download reports, and export records, but cannot run new assessments or add students.
-Day 85: A final warning email is sent.
-Day 90: Your account and all associated student data are permanently deleted.
+---
 
-You can resubscribe at any time during the 90-day window to immediately restore full access with all your data intact.
-This grace period is intentionally generous — we know school procurement timelines, fiscal year resets, and PO processing can cause brief lapses that are entirely outside a teacher's control. We don't want an administrative delay to cost you your data.
+## 22. What happens if my subscription lapses?
 
-Q22. Is abcAssess available outside the United States?
-Yes — we currently serve six English-speaking markets.
-abcAssess is available to educators in the United States, Canada (English-speaking provinces), Australia, New Zealand, the United Kingdom, and Ireland. The app is available in English only at this time.
-Each market has its own applicable privacy law compliance — see Q2 for details. Pricing is displayed in USD. Applicable taxes including VAT (UK/Ireland) and GST (Australia/New Zealand) are calculated and collected automatically at checkout.
+### You have a 90-day window before any data is affected.
 
-Still Have Questions?
-If you have a question that isn't answered here — or if you're an IT administrator evaluating abcAssess for your district or center — we're happy to help.
+#### If your subscription lapses for any reason — including non-renewal, a failed payment, or school procurement delays — here is what happens:
+- Days 1–30: Full access continues. You'll receive reminder emails at lapse, day 14, and day 25.
+- Days 31–90: Your account enters read-only mode. You can view all your data, download reports, and export records, but cannot run new assessments or add students.
+- Day 85: A final warning email is sent.
+- Day 90: Your account and all associated student data are permanently deleted.
 
+#### You can resubscribe at any time during the 90-day window to immediately restore full access with all your data intact.
 
+#### This grace period is intentionally generous — we know school procurement timelines, fiscal year resets, and PO processing can cause brief lapses that are entirely outside a teacher's control. We don't want an administrative delay to cost you your data.
 
+[Back to top ↑](#)
 
-## Contact
+---
 
-#### &nbsp;&nbsp;&nbsp;&nbsp;E-mail: [hello@abcassess.app](mailto:hello@abcassess.app)
+## 23. Is abcAssess available outside the United States?
 
-*We aim to respond to all inquiries within 2 business days.*
+### Yes — we currently serve six English-speaking markets.
+
+#### abcAssess is available to educators in the United States, Canada (English-speaking provinces), Australia, New Zealand, the United Kingdom, and Ireland. The app is available in English only at this time.
+
+#### Each market has its own applicable privacy law compliance — see Q2 for details. Pricing is displayed in USD. Applicable taxes including VAT (UK/Ireland) and GST (Australia/New Zealand) are calculated and collected automatically at checkout.
+
+[Back to top ↑](#)
+
+---
+
+## 24. Still Have Questions?
+
+### If you have a question that isn't answered here — or if you're an IT administrator evaluating abcAssess for your district or center — we're happy to help.
+
+| | |
+|---|---|
+| **General Support** | [support@abcassess.app](mailto:support@abcassess.app) |
+| **Legal & Privacy** | [legal@abcassess.app](mailto:legal@abcassess.app) |
+| **DPA Requests** | [legal@abcassess.app](mailto:legal@abcassess.app) — include "DPA Request" in subject |
+| **Security Questions** | [legal@abcassess.app](mailto:legal@abcassess.app) — include "Security" in subject |
+| **Response Time** | We aim to respond within 2 business days |
+| **Full Documentation** | Privacy Policy, Terms of Service, DPA, and Accessibility Statement at abcassess.app |
+
+[Back to top ↑](#)
 
 ---
   
