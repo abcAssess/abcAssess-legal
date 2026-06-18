@@ -98,9 +98,9 @@ description: Version 2.2 · Updated June 16, 2026
 
 #### We are transparent about the areas of our platform that do not yet meet full WCAG 2.1 Level AA conformance. We are actively working to address each of the following:
   
-  - *Complex Data Visualizations:* Class-wide analytics dashboards, historical progress charts, and report snapshots do not yet include comprehensive text or audio equivalents for all visual data. We are working to add accessible data table alternatives and descriptive summaries for these views.
-  - *Accessible Data Exports:* We are developing accessible, high-contrast CSV data exports for all roster summaries and student progress records. This feature is currently in development. Users who need immediate access to data in an alternative format may contact us at support@abcassess.app and we will work to accommodate the request manually.
-  - *User-Generated Content:* abcAssess cannot guarantee the accessibility of assessment content, images, or templates created or shared by other teachers using the platform. We encourage all educators to use the descriptive labeling tools available in the assessment builder when creating or sharing content.
+  - **Complex Data Visualizations:** Class-wide analytics dashboards, historical progress charts, and report snapshots do not yet include comprehensive text or audio equivalents for all visual data. We are working to add accessible data table alternatives and descriptive summaries for these views.
+  - **Accessible Data Exports:** We are developing accessible, high-contrast CSV data exports for all roster summaries and student progress records. This feature is currently in development. Users who need immediate access to data in an alternative format may contact us at support@abcassess.app and we will work to accommodate the request manually.
+  - **User-Generated Content:** abcAssess cannot guarantee the accessibility of assessment content, images, or templates created or shared by other teachers using the platform. We encourage all educators to use the descriptive labeling tools available in the assessment builder when creating or sharing content.
 
 [Back to top ↑](#)
 
