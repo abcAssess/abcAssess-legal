@@ -33,12 +33,12 @@ For full details, see our Privacy Policy, Terms of Service, and Data Processing 
 ### Yes — we are designed for compliance across all markets we serve.
 
 #### abcAssess currently serves educators in the United States, Canada (English-speaking provinces), Australia, New Zealand, the United Kingdom, and Ireland.
-<br><br>
-  **EU users:** abcAssess complies with GDPR and acts as a Data Processor under GDPR Article 28. We use Standard Contractual Clauses (SCCs) for data transfers outside the EEA. We intend to appoint an EU Representative as required by GDPR Article 27 — this will be updated in our DPA when the appointment is made.
-  **UK users:** abcAssess complies with UK GDPR. We use the UK International Data Transfer Agreement (IDTA) for applicable transfers. We intend to appoint a UK Representative as required by UK GDPR Article 27.
-  **Canadian users:** abcAssess complies with PIPEDA.
-  **Australian users:** abcAssess complies with the Privacy Act 1988 (Cth) and Australian Privacy Principles (APPs).
-  **New Zealand users:** abcAssess complies with the Privacy Act 2020.
+
+- **EU users:** abcAssess complies with GDPR and acts as a Data Processor under GDPR Article 28. We use Standard Contractual Clauses (SCCs) for data transfers outside the EEA. We intend to appoint an EU Representative as required by GDPR Article 27 — this will be updated in our DPA when the appointment is made.
+   **UK users:** abcAssess complies with UK GDPR. We use the UK International Data Transfer Agreement (IDTA) for applicable transfers. We intend to appoint a UK Representative as required by UK GDPR Article 27.
+- **Canadian users:** abcAssess complies with PIPEDA.
+- **Australian users:** abcAssess complies with the Privacy Act 1988 (Cth) and Australian Privacy Principles (APPs).
+- **New Zealand users:** abcAssess complies with the Privacy Act 2020.
 
 Our full Data Processing Agreement, which satisfies GDPR Article 28 requirements and addresses all applicable jurisdictions, is available upon request at legal@abcassess.app.
 
@@ -52,11 +52,11 @@ Our full Data Processing Agreement, which satisfies GDPR Article 28 requirements
 
 ---
 
-## 4. Can I export my data?
+## 4. Who owns the data I enter into abcAssess?
 
-### Absolutely.
+### You do — or your school district does.
 
-#### You can generate PDF reports for individual students or download data backups directly from the app for your own archives.
+#### abcAssess does not claim ownership of any student records or assessment data you enter. Under FERPA, student education records belong to the school or district. We are a service provider — we hold and process your data on your behalf. We will never sell, share, or use student data for any purpose outside of delivering the Service to you.
 
 ---
 
