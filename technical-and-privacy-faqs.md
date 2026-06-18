@@ -18,6 +18,43 @@ For full details, see our Privacy Policy, Terms of Service, and Data Processing 
 
 ---
 
+## Table of Contents
+
+### Privacy & Legal Compliance
+1. [Is abcAssess FERPA and COPPA compliant?](#1-is-abcassess-ferpa-and-coppa-compliant)
+2. [Is abcAssess compliant with GDPR, UK GDPR, or other international privacy laws?](#2-is-abcassess-compliant-with-gdpr-uk-gdpr-or-other-international-privacy-laws)
+3. [Does abcAssess use student data to train AI or machine learning models?](#3-does-abcassess-use-student-data-to-train-ai-or-machine-learning-models)
+4. [What student data does abcAssess collect — and what does it not collect?](#4-what-student-data-does-abcassess-collect--and-what-does-it-not-collect)
+5. [Who can see student data inside abcAssess?](#5-who-can-see-student-data-inside-abcassess)
+6. [Can teachers share access with assistants or co-teachers?](#6-can-teachers-share-access-with-assistants-or-co-teachers)
+
+### Security
+7. [How is student data secured?](#7-how-is-student-data-secured)
+8. [Are emails from abcAssess genuine and secure?](#8-are-emails-from-abcassess-genuine-and-secure)
+9. [What happens if there is a data breach?](#9-what-happens-if-there-is-a-data-breach)
+
+### Data Practices
+10. [How do you track application usage?](#10-how-do-you-track-application-usage)
+11. [Do you use student data for advertising?](#11-do-you-use-student-data-for-advertising)
+12. [Where is my data hosted, and who handles it?](#12-where-is-my-data-hosted-and-who-handles-it)
+
+### Account & Data Management
+13. [Can I export my data?](#13-can-i-export-my-data)
+14. [What are backup files and how do they work?](#14-what-are-backup-files-and-how-do-they-work)
+15. [Can I share my backup file with a colleague?](#15-can-i-share-my-backup-file-with-a-colleague)
+16. [How do student transfers between teachers work?](#16-how-do-student-transfers-between-teachers-work)
+17. [What happens to student data when a teacher leaves a school?](#17-what-happens-to-student-data-when-a-teacher-leaves-a-school)
+18. [What happens if I delete my account?](#18-what-happens-if-i-delete-my-account)
+19. [Does abcAssess work offline?](#19-does-abcassess-work-offline)
+
+### Subscriptions & Billing
+20. [What happens to my students' data if I don't subscribe after the free trial?](#20-what-happens-to-my-students-data-if-i-dont-subscribe-after-the-free-trial)
+21. [What subscription plans are available?](#21-what-subscription-plans-are-available)
+22. [What happens if my subscription lapses?](#21-what-happens-if-my-subscription-lapses)
+23. [Is abcAssess available outside the United States?](#22-is-abcassess-available-outside-the-united-states)
+
+---
+
 # Privacy and Legal Compliance
 
 ## 1. Is abcAssess FERPA and COPPA compliant?
@@ -60,11 +97,15 @@ Our full Data Processing Agreement, which satisfies GDPR Article 28 requirements
 
 ---
 
-## 5. What happens if I delete my account?
+## 5. Can my school administrator or district see my classroom data?
 
-### We utilize a Cascade Deletion process.
+### No — your classroom data is isolated to your account.
 
-#### When you delete your account through the App Settings, your profile and all associated student records are permanently wiped from our servers.
+#### abcAssess enforces strict multi-tenant data isolation at the server level. Records from your classroom are filtered through server-side controls tied to your unique account identifier. No other teacher, administrator, or district user can access your classroom data through the platform unless you explicitly invite them as a co-teacher or assistant on your account. abcAssess staff cannot view student names or scores in plain text due to our client-side encryption architecture.
+
+#### School-level or district-level administrator accounts are not currently available. Teachers control their own data independently.
+
+- **IT Administrator note:** Data isolation is enforced through server-side query middleware using unique organizational and teacher identifiers. Records from one account cannot be accessed by another account at the database query level, independent of application-layer controls.
 
 ---
 
