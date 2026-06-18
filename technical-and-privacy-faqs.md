@@ -18,11 +18,11 @@ For full details, see our Privacy Policy, Terms of Service, and Data Processing 
 
 ---
 
-## Privacy and Legal Compliance
+# Privacy and Legal Compliance
 
-###1. Is abcAssess FERPA and COPPA compliant?
+## 1. Is abcAssess FERPA and COPPA compliant?
 
-#### Yes - fully.
+### Yes - fully.
 
 #### abcAssess acts as a "School Official" under FERPA, meaning we process student data only for legitimate educational purposes and only under the direction of the teacher or school. We practice strict data minimization: to identify students, we collect only a first name and last initial (optional) and birth month and year (optional, stored as a YYYY-MM value). We never collect full legal names, exact birth dates, home addresses, or any student-generated media such as photos or videos. Under COPPA, we never use student data for advertising, profiling, or any commercial purpose. Students do not create accounts or interact with the platform directly.
 
