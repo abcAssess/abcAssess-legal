@@ -49,7 +49,7 @@ description: Version 2.2 · Updated June 16, 2026
 
 #### The Web Content Accessibility Guidelines (WCAG) define technical requirements for making digital content accessible to people with disabilities. abcAssess is designed to meet WCAG 2.1 Level AA across both our web platform and native mobile applications.
 
-**Current Status:** Partially Conformant with WCAG 2.1 Level AA. This means that some parts of our platform do not yet fully meet all guidelines. We are actively working toward full conformance and provide the known limitations and our remediation roadmap below. Users who encounter a specific barrier may request an accessible alternative by contacting us at support@abcassess.app.
+**Current Status:** Partially Conformant with WCAG 2.1 Level AA. This means that some parts of our platform do not yet fully meet all guidelines. We are actively working toward full conformance and provide the known limitations and our remediation roadmap below. Users who encounter a specific barrier may request an accessible alternative by contacting us at [support@abcassess.app](mailto:support@abcassess.app).
 
 [Back to top ↑](#)
 
@@ -123,22 +123,20 @@ description: Version 2.2 · Updated June 16, 2026
   - *Section 508* — Applicable to federally funded programs and institutions using our platform. We design to Section 508 technical standards, which align closely with WCAG 2.1 AA.
   - *ADA Title III* — Increasingly applied to web-based services and applications. We design our platform to meet ADA Title III standards for accessibility of public-facing digital services.
   - *IDEA* — We recognize that many of our users serve students with disabilities under the Individuals with Disabilities Education Act, and we design our tools to support educators working in those environments.
-
- &nbsp;
-
+<br><br>
 - **United Kingdom**  
   - *Equality Act 2010* — We design our platform to meet the accessibility requirements of the Equality Act 2010 as applied to digital services.
   - *Public Sector Bodies Accessibility Regulations 2018* — Where applicable to institutions using abcAssess, we design to these standards which align with WCAG 2.1 AA.
-    
+<br><br>
 - **Australia**  
   - *Disability Discrimination Act 1992 (Cth)* — We design our platform to avoid discrimination on the basis of disability consistent with the DDA and the Web Accessibility National Transition Strategy.
-    
+<br><br>
 - **New Zealand**  
   - *Human Rights Act 1993* — We design our platform to meet accessibility obligations consistent with New Zealand's human rights framework for digital services.
-    
+<br><br>
 - **Canada**  
   - *Accessible Canada Act (ACA)* — We design our platform consistent with the principles of the Accessible Canada Act and applicable provincial accessibility legislation.
-    
+<br><br> 
 - **Ireland**
   - *Equal Status Acts 2000–2018* — We design our platform to meet the accessibility requirements of Irish equality legislation as applied to digital services.  
 
