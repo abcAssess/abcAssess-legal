@@ -63,6 +63,8 @@ For full details, see our Privacy Policy, Terms of Service, and Data Processing 
 
 #### abcAssess acts as a "School Official" under FERPA, meaning we process student data only for legitimate educational purposes and only under the direction of the teacher or school. We practice strict data minimization: to identify students, we collect only a first name and last initial (optional) and birth month and year (optional, stored as a YYYY-MM value). We never collect full legal names, exact birth dates, home addresses, or any student-generated media such as photos or videos. Under COPPA, we never use student data for advertising, profiling, or any commercial purpose. Students do not create accounts or interact with the platform directly.
 
+[Back to top ↑](#)
+
 ---
 
 ## 2. Is abcAssess compliant with GDPR, UK GDPR, or other international privacy laws?
@@ -77,7 +79,9 @@ For full details, see our Privacy Policy, Terms of Service, and Data Processing 
 - **Australian users:** abcAssess complies with the Privacy Act 1988 (Cth) and Australian Privacy Principles (APPs).
 - **New Zealand users:** abcAssess complies with the Privacy Act 2020.
 
-Our full Data Processing Agreement, which satisfies GDPR Article 28 requirements and addresses all applicable jurisdictions, is available upon request at legal@abcassess.app.
+Our full Data Processing Agreement, which satisfies GDPR Article 28 requirements and addresses all applicable jurisdictions, is available upon request at [legal@abcassess.app](mailto:legal@abcassess.app)
+
+[Back to top ↑](#)
 
 ---
 
@@ -87,6 +91,8 @@ Our full Data Processing Agreement, which satisfies GDPR Article 28 requirements
 
 #### Student data entered into abcAssess is never used to train, fine-tune, or improve any artificial intelligence or machine learning model — by us or by any third party. This prohibition is written into our Data Processing Agreement and our sub-processor contracts. Student data is used solely to deliver the assessment features you have requested. This will not change without explicit notice and consent.
 
+[Back to top ↑](#)
+
 ---
 
 ## 4. Who owns the data I enter into abcAssess?
@@ -94,6 +100,8 @@ Our full Data Processing Agreement, which satisfies GDPR Article 28 requirements
 ### You do — or your school district does.
 
 #### abcAssess does not claim ownership of any student records or assessment data you enter. Under FERPA, student education records belong to the school or district. We are a service provider — we hold and process your data on your behalf. We will never sell, share, or use student data for any purpose outside of delivering the Service to you.
+
+[Back to top ↑](#)
 
 ---
 
@@ -107,13 +115,19 @@ Our full Data Processing Agreement, which satisfies GDPR Article 28 requirements
 
 - **IT Administrator note:** Data isolation is enforced through server-side query middleware using unique organizational and teacher identifiers. Records from one account cannot be accessed by another account at the database query level, independent of application-layer controls.
 
+[Back to top ↑](#)
+
 ---
 
-## 6. Do you use student data for advertising?
+## 6. What access do co-teachers and assistants have?
 
-### Never.
+### It depends on the role — abcAssess has two levels of shared access.
+- Co-Teachers share full ownership of the class. They can run assessments, manage students, view all reports, change assessment settings, and invite others.
+- Assistant Teachers can run assessments and add assessment notes only. They cannot view reports, edit the student roster, change assessment settings, or invite other teachers.
 
-#### We do not engage in behavioral advertising, and we do not build marketing profiles based on student performance or information.
+#### Access is granted by the Lead Teacher or Co-Teacher through the Manage Teachers feature. The teacher who grants access is responsible for ensuring that shared users are authorized by their institution and understand their obligations under applicable privacy law.
+
+[Back to top ↑](#)
 
 ---
 
