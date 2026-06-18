@@ -52,14 +52,14 @@ description: Version 2.2 · Updated June 9, 2026
 
 ### abcAssess is an educational assessment tool designed for professional educators and those providing direct instructional or assessment support to students. 
 
-  By registering an account or entering records into the Service, you represent and warrant that:
+#### By registering an account or entering records into the Service, you represent and warrant that:
 
 - You are a licensed teacher, educator, tutor, administrator, or other authorized educational professional with responsibility for student assessment, or you are acting under the direct supervision of such a professional.
 - You have the authority — whether granted by your school, district, institution, or through your professional role — to log student performance data in compliance with applicable local, national, and federal privacy laws, including FERPA (US), PIPEDA (Canada), the Australian Privacy Principles, the New Zealand Privacy Act 2020, and GDPR/UK GDPR (EU/UK) as applicable to your jurisdiction.
 - You are at least 18 years of age and have the legal capacity to enter into a binding agreement.
 - Your use of abcAssess complies with your school's or institution's applicable data privacy policies and any applicable student data privacy agreements.
 
-abcAssess is not intended for use by students directly. Students do not create accounts or interact with the platform.
+#### abcAssess is not intended for use by students directly. Students do not create accounts or interact with the platform.
 
 [Back to top ↑](#)
 
@@ -130,8 +130,7 @@ abcAssess is not intended for use by students directly. Students do not create a
   - **Monthly Plan:** Full access to all features, billed month-to-month. Cancellable at any time.
   - **Annual Plan:** Full access to all features for 12 months, billed annually. Renews automatically on the anniversary of the subscription start date unless cancelled.
   - Additional plans may be introduced from time to time and will be described at the point of purchase.
-  
-&nbsp;
+<br><br>
 - **6.3 Billing and Payment**  
   All subscriptions are processed through our payment processor (currently Stripe). By providing payment information, you authorize us to charge your payment method for all applicable subscription fees. All prices are displayed in USD unless otherwise indicated. Applicable taxes including VAT (UK/Ireland) and GST (Australia/New Zealand) will be calculated and collected automatically at checkout.
   
@@ -158,9 +157,9 @@ abcAssess is not intended for use by students directly. Students do not create a
 
 #### THE SERVICE IS PROVIDED "AS IS" AND "AS AVAILABLE" WITHOUT WARRANTY OF ANY KIND. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, ABCASSESS EXPRESSLY DISCLAIMS ALL WARRANTIES, WHETHER EXPRESS, IMPLIED, STATUTORY, OR OTHERWISE, INCLUDING WITHOUT LIMITATION ANY IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NON-INFRINGEMENT.
 
-  We do not warrant that the Service will be uninterrupted, error-free, completely secure, or free of viruses or other harmful components. We do not warrant that any data stored through the Service will be retained indefinitely or that the Service will meet your specific requirements.
+#### We do not warrant that the Service will be uninterrupted, error-free, completely secure, or free of viruses or other harmful components. We do not warrant that any data stored through the Service will be retained indefinitely or that the Service will meet your specific requirements.
   
-  The Service includes offline data capture capabilities that store assessment data locally on your device in low-connectivity environments. abcAssess is not liable for any data loss resulting from local storage deletions, browser cache clearing, app deletion, device reset, device damage, or failure to synchronize local data with our servers before such events occur. It is your responsibility to ensure data is synchronized before clearing local storage, deleting the app, or retiring a device.
+#### The Service includes offline data capture capabilities that store assessment data locally on your device in low-connectivity environments. abcAssess is not liable for any data loss resulting from local storage deletions, browser cache clearing, app deletion, device reset, device damage, or failure to synchronize local data with our servers before such events occur. It is your responsibility to ensure data is synchronized before clearing local storage, deleting the app, or retiring a device.
   
 [Back to top ↑](#)
 
@@ -170,9 +169,9 @@ abcAssess is not intended for use by students directly. Students do not create a
 
 #### TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, ABCASSESS AND ITS OFFICERS, DIRECTORS, MEMBERS, EMPLOYEES, AND AGENTS SHALL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, EXEMPLARY, OR PUNITIVE DAMAGES, INCLUDING WITHOUT LIMITATION LOSS OF DATA, LOSS OF PROFITS, OR LOSS OF GOODWILL, ARISING OUT OF OR IN CONNECTION WITH YOUR USE OF OR INABILITY TO USE THE SERVICE, EVEN IF WE HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
 
-  To the maximum extent permitted by applicable law, abcAssess's total cumulative liability to you for any claims arising out of or relating to these Terms or your use of the Service shall not exceed the total amount you paid to abcAssess during the twelve (12) month period immediately preceding the event giving rise to the claim. If you have not paid any amounts to abcAssess during that period, our total liability shall not exceed one hundred dollars ($100.00 USD).
+#### To the maximum extent permitted by applicable law, abcAssess's total cumulative liability to you for any claims arising out of or relating to these Terms or your use of the Service shall not exceed the total amount you paid to abcAssess during the twelve (12) month period immediately preceding the event giving rise to the claim. If you have not paid any amounts to abcAssess during that period, our total liability shall not exceed one hundred dollars ($100.00 USD).
 
-  Some jurisdictions do not allow the exclusion or limitation of certain damages, so some of the above limitations may not apply to you.
+#### Some jurisdictions do not allow the exclusion or limitation of certain damages, so some of the above limitations may not apply to you.
   
 [Back to top ↑](#)
 
@@ -180,7 +179,7 @@ abcAssess is not intended for use by students directly. Students do not create a
 
 ## 9. Indemnification
 
-  You agree to indemnify, defend, and hold harmless abcAssess and its officers, directors, members, employees, agents, and successors from and against any and all claims, liabilities, damages, losses, costs, and expenses (including reasonable attorneys' fees) arising out of or relating to:
+#### You agree to indemnify, defend, and hold harmless abcAssess and its officers, directors, members, employees, agents, and successors from and against any and all claims, liabilities, damages, losses, costs, and expenses (including reasonable attorneys' fees) arising out of or relating to:
 
 - Your use of or access to the Service.
 - Your violation of these Terms.
@@ -189,7 +188,7 @@ abcAssess is not intended for use by students directly. Students do not create a
 - Any content you upload, share, or transmit through the Service.
 - Any claim by a student, parent, school, district, or regulatory authority arising from your use of the Service.
 
-  We reserve the right, at our own expense, to assume the exclusive defense and control of any matter otherwise subject to indemnification by you. You agree to cooperate with our defense of such claims.
+#### We reserve the right, at our own expense, to assume the exclusive defense and control of any matter otherwise subject to indemnification by you. You agree to cooperate with our defense of such claims.
 
 [Back to top ↑](#)
 
@@ -197,7 +196,7 @@ abcAssess is not intended for use by students directly. Students do not create a
 
 ## 10. Force Majeure
 
-  abcAssess shall not be liable for any failure or delay in performing its obligations under these Terms to the extent such failure or delay is caused by circumstances beyond our reasonable control, including but not limited to: acts of God, natural disasters, pandemic, war, terrorism, labor disputes, power outages, internet or telecommunications failures, actions of third-party service providers (including cloud infrastructure providers), cyberattacks or security incidents originating from third parties, or changes in applicable law or regulation. In such events, our obligations will be suspended for the duration of the force majeure event, and we will use commercially reasonable efforts to resume normal operations as quickly as possible.
+#### abcAssess shall not be liable for any failure or delay in performing its obligations under these Terms to the extent such failure or delay is caused by circumstances beyond our reasonable control, including but not limited to: acts of God, natural disasters, pandemic, war, terrorism, labor disputes, power outages, internet or telecommunications failures, actions of third-party service providers (including cloud infrastructure providers), cyberattacks or security incidents originating from third parties, or changes in applicable law or regulation. In such events, our obligations will be suspended for the duration of the force majeure event, and we will use commercially reasonable efforts to resume normal operations as quickly as possible.
 
 [Back to top ↑](#)
 
