@@ -88,9 +88,7 @@ description: Version 2.2 · Updated June 16, 2026
   - *Sensory Feedback*  
     Assessment sounds — teachers can enable or disable audio feedback including the timed assessment alert sound and assessment completion chime. Default on.
     Haptics — teachers can enable or disable vibration feedback when an assessment is completed. Available on mobile devices only. Default on.
-
 &nbsp;
-
 - **Audio Assessment Support**  
   abcAssess supports optional audio prompts during assessments, including teacher-recorded audio for custom assessment items. This feature supports educators working with diverse learners and allows teachers to provide consistent, accessible verbal prompts without relying solely on visual content. Teachers can enable or disable audio prompts per assessment type in their assessment settings.
   
