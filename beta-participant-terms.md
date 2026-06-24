@@ -18,7 +18,7 @@ description: Version 1.0 · Updated June 23, 2026
  
 ---
  
-### Thank you for participating in the abcAssess beta. This document summarizes what you're entitled to as a beta participant and what's expected of you. It's written in plain language — the full legal terms are in Section 6.10 of the [abcAssess Terms of Service](terms-of-service.md#6#6-subscription-plans-billing-and-free-trial).
+### Thank you for participating in the abcAssess beta. This document summarizes what you're entitled to as a beta participant and what's expected of you. It's written in plain language — the full legal terms are in Section 6.10 of the [abcAssess Terms of Service](terms-of-service.md#6-subscription-plans-billing-and-free-trial).
  
 ---
  
@@ -30,7 +30,7 @@ description: Version 1.0 · Updated June 23, 2026
 
 ### **After Launch (Fall 2026)**
 - **One free year** of full access following public launch — same features as paid subscribers, no charge
-- To claim your free year: complete the end-of-beta survey by the deadline Danielle sends you. If you miss the deadline, reach out to beta@abcassess.app — she'll work with you.
+- To claim your free year: complete the end-of-beta survey by the deadline Danielle sends you. If you miss the deadline, reach out to [beta@abcassess.app](mailto:beta@abcassess.app) — she'll work with you.
 
 ### **Ongoing — Founding Member Rate**
 - After your free year, you'll never pay full price
@@ -56,7 +56,7 @@ Try features you might not reach for every day — reports, custom assessments, 
 Send feedback whenever something occurs to you — broken things, confusing things, ideas, wishes, vague feelings that something isn't quite right. No message is too small. If you think of five things in one day, send five messages.
  
 - **In-app:** Beta Feedback button
-- **Email:** beta@abcassess.app
+- **Email:** [beta@abcassess.app](mailto:beta@abcassess.app)
   
 ### **Complete the End-of-Beta Survey**
 Before launch, Danielle will send a short survey (about 5–10 minutes). Completing it is what confirms your free year. If you didn't use abcAssess much during beta, fill it out anyway — that feedback matters too.
