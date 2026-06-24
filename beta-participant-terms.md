@@ -74,13 +74,13 @@ Before launch, Danielle will send a short survey (about 5–10 minutes). Complet
  
 ## A Few Things to Know
  
-**Your data is safe.** The same encryption and privacy protections in the launch version are in place right now. Beta status doesn't affect how your students' data is handled.
+- **Your data is safe.** The same encryption and privacy protections in the launch version are in place right now. Beta status doesn't affect how your students' data is handled.
  
-**Things will change.** The interface, features, and workflows may change during beta. That's intentional. If something looks different than you remember, that's probably a good sign.
+- **Things will change.** The interface, features, and workflows may change during beta. That's intentional. If something looks different than you remember, that's probably a good sign.
  
-**The Founding Member rate is non-transferable.** It applies to your individual account only and cannot be applied to a new account if you create one later.
+- **The Founding Member rate is non-transferable.** It applies to your individual account only and cannot be applied to a new account if you create one later.
  
-**The center discount applies to your center's account**, not individual teacher accounts, when center licensing becomes available.
+- **The center discount applies to your center's account**, not individual teacher accounts, when center licensing becomes available.
  
 ---
  
