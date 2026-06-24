@@ -234,13 +234,16 @@ Teachers and schools located in the European Union, United Kingdom, Australia, N
 - **9.3 Free Trial Expiry**  
   When a 14-day free trial ends without a subscription being purchased, the account enters a suspended state with read-only access. An immediate email notification is sent advising the teacher to subscribe to continue or export and delete their data. If no subscription is purchased within 90 days of trial expiry, a final warning email is sent and the account and all associated data are permanently deleted pursuant to the cascade deletion process described in Section 9.2. Teachers may log back in at any time during the 90-day grace period to export their data, subscribe, or manually delete their account.
   
-- **9.4 Inactivity**  
-  Accounts that remain completely inactive for 12 consecutive months will be flagged for archival deletion. We will send a written warning notice to the account's registered email address 30 days prior to scheduled deletion. If no response or login activity is recorded within that 30-day window, the account and all associated data will be permanently deleted pursuant to the cascade deletion process described above.
+- **9.4 Subscription Lapse**  
+  When a paid subscription lapses — for any reason including non-renewal, failed payment, or school procurement delays — the account retains full access for 30 days from the lapse date to allow time for renewal. Reminder emails are sent at lapse, at 14 days, and at 25 days. If the subscription is not renewed within 30 days, the account enters a read-only suspended state for a further 60 days during which the teacher may view data, download reports, and export records but cannot run new assessments or add students. A final warning email is sent at day 85. If no renewal is made by day 90 from the original lapse date, the account and all associated data are permanently deleted pursuant to the cascade deletion process described in Section 9.2. Teachers may resubscribe at any time during the grace period to immediately restore full access.
   
-- **9.5 Backup and Recovery**  
+- **9.5 Inactivity**  
+  Accounts that remain completely inactive for 12 consecutive months will be flagged for archival deletion. We will send a written warning notice to the account's registered email address 30 days prior to scheduled deletion. If no response or login activity is recorded within that 30-day window, the account and all associated data will be permanently deleted pursuant to the cascade deletion process described above. Free assistant accounts that have no active class connections are subject to the same 12-month inactivity policy. Free accounts hold no student data — deletion of a free account has no impact on student records, which remain with the class owner.
+  
+- **9.6 Backup and Recovery**  
   Following account deletion, data may persist in encrypted system backups for up to 30 days before being permanently overwritten in the ordinary course of our backup rotation cycle. During this period, data in backups is not accessible or restorable except in the event of a system-wide catastrophic failure, and only to the extent required to restore overall system integrity.
   
-- **9.6 Transfer Request Expiry**  
+- **9.7 Transfer Request Expiry**  
   Pending student and class transfer requests expire automatically after 30 days if not accepted by the recipient. Upon expiry, the transfer is cancelled and the sending teacher retains their original data unchanged. The sending teacher and intended recipient are both notified by email when a transfer request expires. This 30-day limit applies regardless of whether the sending teacher's account remains active.
   
 [Back to top ↑](#)
