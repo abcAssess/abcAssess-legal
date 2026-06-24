@@ -255,7 +255,7 @@ In accordance with [Section 4.2](dpa.md#4-sub-processors) of the abcAssess Data 
 
 - Notify all active Subscribers by email at least 14 days before adding, removing, or making material changes to any sub-processor.
 - Update this registry and increment the version number upon any change.
-- Allow Subscribers to object to a new sub-processor within 14 days of notification by contacting legal@abcassess.app.
+- Allow Subscribers to object to a new sub-processor within 14 days of notification by contacting [legal@abcassess.app](mailto:legal@abcassess.app).
 - Where a legitimate objection cannot be resolved, allow the Subscriber to terminate their account without penalty within 30 days of the original notification.
 
 [Back to top ↑](#)
@@ -268,7 +268,7 @@ For questions about this registry, requests for sub-processor DPA documentation,
 
 | | |
 |---|---|
-| **Email** | legal@abcassess.app |
+| **Email** | [legal@abcassess.app](legal@abcassess.app) |
 | **Subject Line** | Include "Sub-Processor" in your subject line |
 | **Response Time** | Within 2 business days for general inquiries; within 14 days for formal objections |
 | **DPA Documentation** | Available upon request — include "DPA Documentation Request" in subject line |
