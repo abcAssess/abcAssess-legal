@@ -233,6 +233,8 @@ The following tools are used by abcAssess in connection with platform developmen
 
 **Data processed:** DNS queries and routing only. No personal data, student data, or teacher data processed.
 
+[Back to top ↑](#)
+
 ---
 
 ## Sub-Processor Change Log
@@ -242,6 +244,8 @@ The following tools are used by abcAssess in connection with platform developmen
 | May 18, 2026 | 1.0 | Initial Publication | Registry first published with four sub-processors: MongoDB Atlas, Railway, Vercel, Resend. |
 | May 30, 2026 | 2.0 | Addition / Expansion | Added Google LLC and Apple Inc. as authentication sub-processors. Added data location, transfer mechanism, and privacy policy columns. Added client-side encryption note. Corrected Vercel certification to ISO 27001:2022. |
 | June 7, 2026 | 2.1 | Addition / Expansion | Added Stripe (payment processing), PostHog (anonymized analytics), and Sentry (error monitoring) to main registry. Added Infrastructure and Development Tools section listing five tools that process no personal data: Uptime Robot, GitHub, Emergent AI, Anthropic (Claude AI), and Cloudflare. Updated contact email to legal@abcassess.app. Removed mailing address. Updated company name to abcAssess (pending LLC formation). |
+
+[Back to top ↑](#)
 
 ---
 
@@ -253,6 +257,8 @@ In accordance with [Section 4.2](dpa.md#4-sub-processors) of the abcAssess Data 
 - Update this registry and increment the version number upon any change.
 - Allow Subscribers to object to a new sub-processor within 14 days of notification by contacting legal@abcassess.app.
 - Where a legitimate objection cannot be resolved, allow the Subscriber to terminate their account without penalty within 30 days of the original notification.
+
+[Back to top ↑](#)
 
 ---
 
