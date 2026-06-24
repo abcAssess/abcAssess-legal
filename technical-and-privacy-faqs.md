@@ -24,9 +24,9 @@ For full details, see our [Privacy Policy](privacy-policy.md), [Terms of Service
 1. [Is abcAssess FERPA and COPPA compliant?](#1-is-abcassess-ferpa-and-coppa-compliant)
 2. [Is abcAssess compliant with GDPR, UK GDPR, or other international privacy laws?](#2-is-abcassess-compliant-with-gdpr-uk-gdpr-or-other-international-privacy-laws)
 3. [Does abcAssess use student data to train AI or machine learning models?](#3-does-abcassess-use-student-data-to-train-ai-or-machine-learning-models)
-4. [Who owns the data I enter into abcAssess?](#4-who-owns-the-data-I-enter-into-abcAssess)
-5. [Who can see student data inside abcAssess?](#5-who-can-see-student-data-inside-abcassess)
-6. [Can teachers share access with assistants or co-teachers?](#6-can-teachers-share-access-with-assistants-or-co-teachers)
+4. [Who owns the data I enter into abcAssess?](#4-who-owns-the-data-i-enter-into-abcassess)
+5. [Can my school administrator or district see my classroom data?](#5-can-my-school-administrator-or-district-see-my-classroom-data)
+6. [What access do co-teachers and assistants have?](#6-what-access-do-co-teachers-and-assistants-have)
 
 ### Security
 7. [How is student data secured?](#7-how-is-student-data-secured)
@@ -226,7 +226,7 @@ Our full Data Processing Agreement, which satisfies GDPR Article 28 requirements
 
 ---
 
-## Q14. What are backup files and how do they work?
+## 14. What are backup files and how do they work?
 
 ### Backup files are a complete portable copy of your account data.
 
