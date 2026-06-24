@@ -333,7 +333,7 @@ The one limitation to be aware of:
   - Founding Member rate — a permanent 20% discount off the then-current subscription price for as long as they maintain an active subscription
   - Beta centers receive a permanent 20% discount off center licensing when that option becomes available
 
-#### See [Section 6.10 of the Terms of Service](tos.md#6-subscription-plans-billing-and-free-trial) for full details.
+#### See [Section 6.10 of the Terms of Service](terms-of-service.md#6-subscription-plans-billing-and-free-trial) for full details.
 
 [Back to top ↑](#)
 
@@ -380,7 +380,7 @@ The one limitation to be aware of:
 | **DPA Requests** | [legal@abcassess.app](mailto:legal@abcassess.app) — include "DPA Request" in subject |
 | **Security Questions** | [legal@abcassess.app](mailto:legal@abcassess.app) — include "Security" in subject |
 | **Response Time** | We aim to respond within 2 business days |
-| **Full Documentation** | [Privacy Policy](privacy-policy.md), [Terms of Service](tos.md), [DPA](dpa.md), and [Accessibility Statement](accessibility.md) at the [abcAssess Support Center](index.md) |
+| **Full Documentation** | [Privacy Policy](privacy-policy.md), [Terms of Service](terms-of-service.md), [DPA](dpa.md), and [Accessibility Statement](accessibility.md) at the [abcAssess Support Center](index.md) |
 
 [Back to top ↑](#)
 
