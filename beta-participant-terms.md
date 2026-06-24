@@ -18,7 +18,7 @@ description: Version 1.0 · Updated June 23, 2026
  
 ---
  
-### Thank you for participating in the abcAssess beta. This document summarizes what you're entitled to as a beta participant and what's expected of you. It's written in plain language — the full legal terms are in Section 6.10 of the [abcAssess Terms of Service](terms-of-service.md).
+### Thank you for participating in the abcAssess beta. This document summarizes what you're entitled to as a beta participant and what's expected of you. It's written in plain language — the full legal terms are in Section 6.10 of the [abcAssess Terms of Service](terms-of-service.md#610-beta-participant-pricing-terms).
  
 ---
  
@@ -86,7 +86,7 @@ Before launch, Danielle will send a short survey (about 5–10 minutes). Complet
  
 ## Questions
  
-Reach out to Danielle directly at beta@abcassess.app. She reads everything.
+Reach out to Danielle directly at [beta@abcassess.app](mailto:beta@abcassess.app). She reads everything.
 
 [Back to top ↑](#)
 
