@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Terms of Service
-description: Version 2.2 · Updated June 9, 2026
+description: Version 2.3 · Updated June 24, 2026
 ---
 
 <style>
