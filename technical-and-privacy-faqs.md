@@ -21,38 +21,38 @@ For full details, see our [Privacy Policy](privacy-policy.md), [Terms of Service
 ## Table of Contents
 
 ### Privacy & Legal Compliance
-1. [Is abcAssess FERPA and COPPA compliant?](#1-is-abcassess-ferpa-and-coppa-compliant)
-2. [Is abcAssess compliant with GDPR, UK GDPR, or other international privacy laws?](#2-is-abcassess-compliant-with-gdpr-uk-gdpr-or-other-international-privacy-laws)
-3. [Does abcAssess use student data to train AI or machine learning models?](#3-does-abcassess-use-student-data-to-train-ai-or-machine-learning-models)
-4. [Who owns the data I enter into abcAssess?](#4-who-owns-the-data-i-enter-into-abcassess)
-5. [Can my school administrator or district see my classroom data?](#5-can-my-school-administrator-or-district-see-my-classroom-data)
-6. [What access do co-teachers and assistants have?](#6-what-access-do-co-teachers-and-assistants-have)
+- [Is abcAssess FERPA and COPPA compliant?](#1-is-abcassess-ferpa-and-coppa-compliant)
+- [Is abcAssess compliant with GDPR, UK GDPR, or other international privacy laws?](#2-is-abcassess-compliant-with-gdpr-uk-gdpr-or-other-international-privacy-laws)
+- [Does abcAssess use student data to train AI or machine learning models?](#3-does-abcassess-use-student-data-to-train-ai-or-machine-learning-models)
+- [Who owns the data I enter into abcAssess?](#4-who-owns-the-data-i-enter-into-abcassess)
+- [Can my school administrator or district see my classroom data?](#5-can-my-school-administrator-or-district-see-my-classroom-data)
+- [What access do co-teachers and assistants have?](#6-what-access-do-co-teachers-and-assistants-have)
 
 ### Security
-7. [How is student data secured?](#7-how-is-student-data-secured)
-8. [Are emails from abcAssess genuine and secure?](#8-are-emails-from-abcassess-genuine-and-secure)
-9. [What happens if there is a data breach?](#9-what-happens-if-there-is-a-data-breach)
+- [How is student data secured?](#7-how-is-student-data-secured)
+- [Are emails from abcAssess genuine and secure?](#8-are-emails-from-abcassess-genuine-and-secure)
+- [What happens if there is a data breach?](#9-what-happens-if-there-is-a-data-breach)
 
 ### Data Practices
-10. [How do you track application usage?](#10-how-do-you-track-application-usage)
-11. [Do you use student data for advertising?](#11-do-you-use-student-data-for-advertising)
-12. [Where is my data hosted, and who handles it?](#12-where-is-my-data-hosted-and-who-handles-it)
+- [How do you track application usage?](#10-how-do-you-track-application-usage)
+-  [Do you use student data for advertising?](#11-do-you-use-student-data-for-advertising)
+- [Where is my data hosted, and who handles it?](#12-where-is-my-data-hosted-and-who-handles-it)
 
 ### Account & Data Management
-13. [Can I export my data?](#13-can-i-export-my-data)
-14. [What are backup files and how do they work?](#14-what-are-backup-files-and-how-do-they-work)
-15. [Can I share my backup file with a colleague?](#15-can-i-share-my-backup-file-with-a-colleague)
-16. [How do student transfers between teachers work?](#16-how-do-student-transfers-between-teachers-work)
-17. [What happens to student data when a teacher leaves a school?](#17-what-happens-to-student-data-when-a-teacher-leaves-a-school)
-18. [What happens if I delete my account?](#18-what-happens-if-i-delete-my-account)
-19. [Does abcAssess work offline?](#19-does-abcassess-work-offline)
+- [Can I export my data?](#13-can-i-export-my-data)
+- [What are backup files and how do they work?](#14-what-are-backup-files-and-how-do-they-work)
+- [Can I share my backup file with a colleague?](#15-can-i-share-my-backup-file-with-a-colleague)
+- [How do student transfers between teachers work?](#16-how-do-student-transfers-between-teachers-work)
+- [What happens to student data when a teacher leaves a school?](#17-what-happens-to-student-data-when-a-teacher-leaves-a-school)
+- [What happens if I delete my account?](#18-what-happens-if-i-delete-my-account)
+- [Does abcAssess work offline?](#19-does-abcassess-work-offline)
 
 ### Subscriptions & Billing
-20. [What happens to my students' data if I don't subscribe after the free trial?](#20-what-happens-to-my-students-data-if-i-dont-subscribe-after-the-free-trial)
-21. [What subscription plans are available?](#21-what-subscription-plans-are-available)
-22. [What happens if my subscription lapses?](#22-what-happens-if-my-subscription-lapses)
-23. [Is abcAssess available outside the United States?](#23-is-abcassess-available-outside-the-united-states)
-24. [What if I still have more questions?](#24-still-have-questions)
+- [What happens to my students' data if I don't subscribe after the free trial?](#20-what-happens-to-my-students-data-if-i-dont-subscribe-after-the-free-trial)
+- [What subscription plans are available?](#21-what-subscription-plans-are-available)
+- [What happens if my subscription lapses?](#22-what-happens-if-my-subscription-lapses)
+- [Is abcAssess available outside the United States?](#23-is-abcassess-available-outside-the-united-states)
+- [What if I still have more questions?](#24-still-have-questions)
     
 ---
 
