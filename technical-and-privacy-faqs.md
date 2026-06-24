@@ -14,7 +14,7 @@ description: Version 2.1 · June 18, 2026
 
 This page answers the most common questions from teachers, school administrators, and IT departments about how abcAssess handles data, security, and privacy. Questions marked with an IT Administrator note include additional technical detail for IT evaluation purposes.
 
-For full details, see our [Privacy Policy](privacy-policy.md), [Terms of Service](tos.md), and [Data Processing Agreement](dpa.md).
+For full details, see our [Privacy Policy](privacy-policy.md), [Terms of Service](tos.md), and [Data  Agreement](dpa.md).
 
 ---
 
@@ -80,7 +80,7 @@ For full details, see our [Privacy Policy](privacy-policy.md), [Terms of Service
 - **Australian users:** abcAssess complies with the Privacy Act 1988 (Cth) and Australian Privacy Principles (APPs).
 - **New Zealand users:** abcAssess complies with the Privacy Act 2020.
 
-Our full Data Processing Agreement, which satisfies GDPR Article 28 requirements and addresses all applicable jurisdictions, is available upon request at [legal@abcassess.app](mailto:legal@abcassess.app)
+Our full [Data Processing Agreement](dpa.md), which satisfies GDPR Article 28 requirements and addresses all applicable jurisdictions, is available upon request at [legal@abcassess.app](mailto:legal@abcassess.app)
 
 [Back to top ↑](#)
 
@@ -90,7 +90,7 @@ Our full Data Processing Agreement, which satisfies GDPR Article 28 requirements
 
 ### Never — this is explicitly prohibited.
 
-#### Student data entered into abcAssess is never used to train, fine-tune, or improve any artificial intelligence or machine learning model — by us or by any third party. This prohibition is written into our Data Processing Agreement and our sub-processor contracts. Student data is used solely to deliver the assessment features you have requested. This will not change without explicit notice and consent.
+#### Student data entered into abcAssess is never used to train, fine-tune, or improve any artificial intelligence or machine learning model — by us or by any third party. This prohibition is written into our [Data Processing Agreement](dpa.md) and our sub-processor contracts. Student data is used solely to deliver the assessment features you have requested. This will not change without explicit notice and consent.
 
 [Back to top ↑](#)
 
@@ -206,7 +206,7 @@ Our full Data Processing Agreement, which satisfies GDPR Article 28 requirements
 | PostHog | Anonymized product analytics — no student PII collected | U.S. / EU | SOC 2 Type II |
 | Sentry | Anonymized error monitoring — no student PII collected | United States | SOC 2 Type II |
 
-#### Data is stored in the United States by default. We are planning to expand to EU/UK-based database infrastructure as our user base in those regions grows. UK and EU Subscribers should review our Data Processing Agreement for details on applicable international transfer mechanisms.
+#### Data is stored in the United States by default. We are planning to expand to EU/UK-based database infrastructure as our user base in those regions grows. UK and EU Subscribers should review our [Data Processing Agreement](dpa.md) for details on applicable international transfer mechanisms.
 
 [Back to top ↑](#)
 
@@ -272,7 +272,7 @@ Important things to know about backup files:
 
 #### abcAssess is a teacher-account-based tool. When a teacher leaves a school, their account and all associated student data remains under their control. The school does not automatically receive or retain access to that data.
 #### If a teacher is leaving and wants to hand off their students to a colleague, they should use the built-in student or class transfer feature before their last day. If a teacher's account is simply abandoned, it will be flagged for deletion after 12 months of inactivity following a 30-day warning email.
-#### Schools and districts concerned about data continuity and ownership should review our Data Processing Agreement and consider establishing a formal data governance policy for use of third-party edtech tools.
+#### Schools and districts concerned about data continuity and ownership should review our [Data Processing Agreement](dpa.md) and consider establishing a formal data governance policy for use of third-party edtech tools.
 
 [Back to top ↑](#)
 
@@ -380,7 +380,7 @@ The one limitation to be aware of:
 | **DPA Requests** | [legal@abcassess.app](mailto:legal@abcassess.app) — include "DPA Request" in subject |
 | **Security Questions** | [legal@abcassess.app](mailto:legal@abcassess.app) — include "Security" in subject |
 | **Response Time** | We aim to respond within 2 business days |
-| **Full Documentation** | Privacy Policy, Terms of Service, DPA, and Accessibility Statement at abcassess.app |
+| **Full Documentation** | [Privacy Policy](privacy-policy.md), [Terms of Service](tos.md), [DPA](dpa.md), and [Accessibility Statement](accessibility.md) at the [abcAssess Support Center](index.md) |
 
 [Back to top ↑](#)
 
