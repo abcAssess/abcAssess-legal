@@ -18,7 +18,7 @@ description: Version 1.0 · Updated June 23, 2026
  
 ---
  
-## Thank you for participating in the abcAssess beta. This document summarizes what you're entitled to as a beta participant and what's expected of you. It's written in plain language — the full legal terms are in Section 6.10 of the abcAssess Terms of Service at abcassess.app.
+### Thank you for participating in the abcAssess beta. This document summarizes what you're entitled to as a beta participant and what's expected of you. It's written in plain language — the full legal terms are in Section 6.10 of the abcAssess Terms of Service at abcassess.app.
  
 ---
  
