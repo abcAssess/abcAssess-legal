@@ -142,7 +142,7 @@ description: Version 2.3 · Updated June 24, 2026
 - **6.5 Free Trial and New Subscription Refund Window**  
   If you are not satisfied with your purchase, you may request a full refund within 48 hours of your first paid charge (new subscriptions only) or within 48 hours of an annual plan renewal charge. This refund window applies to Annual Plan new signups and renewals only. Monthly Plan charges are non-refundable. Refund requests must be submitted to [support@abcassess.app](mailto:support@abcassess.app) within the 48-hour window.
   
-  This refund window addresses dissatisfaction with your purchase generally. For matters relating to service outages, data loss, or other service performance issues, see Section 7 (Disclaimer of Warranties) and Section 8 (Limitation of Liability).
+  This refund window addresses dissatisfaction with your purchase generally. For matters relating to service outages, data loss, or other service performance issues, see [Section 7 (Disclaimer of Warranties)](#7-disclaimer-of-warranties) and [Section 8 (Limitation of Liability)](#8-limitation-of-liability).
   
 - **6.6 Cancellation**  
   You may cancel your subscription at any time through your account settings. Cancellation takes effect at the end of your current paid period. You will retain full access to the Service through the end of the period for which you have paid. Cancelling your subscription does not delete your account or your data — these are separate actions.
@@ -154,7 +154,7 @@ description: Version 2.3 · Updated June 24, 2026
   If your subscription lapses for any reason — including non-renewal, failed payment, or procurement delays — your account will retain full access for 30 days from the lapse date. Reminder emails will be sent at lapse, at 14 days, and at 25 days. If the subscription is not renewed within 30 days of lapse, your account will enter a read-only suspended state for a further 60 days during which you may view data, download reports, and export records but cannot run new assessments or add students. A final warning email will be sent at day 85. If no renewal is made by day 90 from the original lapse date, your account and all associated data will be permanently deleted. You may resubscribe at any time during the grace period to immediately restore full access.
 
 - **6.9 Feature Availability by Plan**  
-  Features available to you depend on your current subscription plan and status. We reserve the right to modify the features included in each plan with appropriate notice as described in Section 6.7.
+  Features available to you depend on your current subscription plan and status. We reserve the right to modify the features included in each plan with appropriate notice as described in [Section 6.7](#6-subscription-plans-billing-and-free-trial).
 
 - **6.10 Beta Participant Pricing Terms**
   Educators who participated in the abcAssess beta program prior to public launch are entitled to the following pricing benefits, subject to the terms communicated at the time of their beta enrollment:
@@ -235,7 +235,7 @@ We reserve the right, at our own expense, to assume the exclusive defense and co
 - **12.1 Termination by You**  
   You may terminate your account at any time through the App Settings panel. Upon confirmation of account deletion, our systems will immediately initiate an irreversible cascade deletion process that permanently removes your teacher profile and all associated student records, assessment histories, and uploaded media from our active database. We recommend exporting your data before deleting your account if you wish to retain records. Deletion is permanent and cannot be undone.
   
-  Cancelling your subscription and deleting your account are separate actions. You may cancel your subscription without deleting your account and data — see Section 6.6.
+  Cancelling your subscription and deleting your account are separate actions. You may cancel your subscription without deleting your account and data — see [Section 6.](#6-subscription-plans-billing-and-free-trial).
   
   If your account has pending outgoing student or class transfer requests at the time of deletion, those transfers will be automatically cancelled and the intended recipients will be notified by email. Transfer requests that have already been accepted and completed are not affected by account deletion.
   
@@ -243,7 +243,7 @@ We reserve the right, at our own expense, to assume the exclusive defense and co
   We reserve the right to suspend, restrict, or terminate your account at any time, with or without notice, if we determine in our reasonable judgment that you have violated these Terms, engaged in fraudulent or harmful activity, or if continued provision of the Service to you would expose abcAssess or others to legal liability. Where practicable, we will notify you of the reason for termination. Upon termination by us for cause, your data will be handled in accordance with our Privacy Policy.
   
 - **12.3 Effect of Termination**  
-  Upon termination for any reason, your right to access and use the Service immediately ceases. Provisions of these Terms that by their nature should survive termination — including Sections 4 (Intellectual Property), 7 (Disclaimer of Warranties), 8 (Limitation of Liability), 9 (Indemnification), and 13 (Dispute Resolution) — shall survive termination.
+  Upon termination for any reason, your right to access and use the Service immediately ceases. Provisions of these Terms that by their nature should survive termination — including [Sections 4 (Intellectual Property)](#4-intellectual-property), [7 (Disclaimer of Warranties)](#7-disclaimer-of-warranties), [8 (Limitation of Liability)](#8-limitation-of-liability), [9 (Indemnification)](#9-indemnification), and [13 (Dispute Resolution)](#13-dispute-resolution) — shall survive termination.
   
 [Back to top ↑](#)
 
