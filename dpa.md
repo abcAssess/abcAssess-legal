@@ -20,7 +20,7 @@ description: Version 2.1 · Updated June 10, 2026
 3. [Legal and Regulatory Compliance](#3-legal-and-regulatory-compliance)
 4. [Sub-Processors](#4-sub-processors)
 5. [Security Measures](#5-security-measures)
-6. [Data Breach Notification]#3-legal-and-regulatory-compliance
+6. [Data Breach Notification](#6-data-breach-notification)
 7. [Data Subject Rights Assistance](#7-data-subject-rights-assistance)
 8. [Data Retention and Deletion](#8-data-retention-and-deletion)
 9. [Audit Rights](#9-audit-rights)
