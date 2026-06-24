@@ -13,11 +13,11 @@ description: Version 2.1 · Last Reviewed June 7, 2026
 
 ---
 
-*Published in accordance with GDPR Article 28 and abcAssess Data Processing Agreement Section 4*
+*Published in accordance with GDPR Article 28 and [abcAssess Data Processing Agreement Section 4](dpa.md#4-sub-processors)*
 
 ---
 
-This registry lists all third-party sub-processors engaged by abcAssess to process personal data in connection with the abcAssess educational assessment platform. All sub-processors are bound by contractual data processing obligations no less protective than those in the abcAssess Data Processing Agreement. Subscribers are notified at least 14 days in advance of any additions or changes to this list, consistent with Section 4.2 of the Data Processing Agreement.
+This registry lists all third-party sub-processors engaged by abcAssess to process personal data in connection with the abcAssess educational assessment platform. All sub-processors are bound by contractual data processing obligations no less protective than those in the abcAssess Data Processing Agreement. Subscribers are notified at least 14 days in advance of any additions or changes to this list, consistent with [Section 4.2 of the Data Processing Agreement](dpa.md#4-sub-processors).
 
 **Important:** abcAssess applies client-side encryption to sensitive student data before it is transmitted to any sub-processor. This means that student names and assessment results are encrypted at the application level and are unreadable to sub-processor infrastructure personnel. The data transmitted column below reflects what each sub-processor receives — which in most cases is encrypted, unreadable data rather than plain-text student information.
 
@@ -247,7 +247,7 @@ The following tools are used by abcAssess in connection with platform developmen
 
 ## Sub-Processor Change Notification Process
 
-In accordance with Section 4.2 of the abcAssess Data Processing Agreement, abcAssess will:
+In accordance with [Section 4.2](dpa.md#4-sub-processors) of the abcAssess Data Processing Agreement, abcAssess will:
 
 - Notify all active Subscribers by email at least 14 days before adding, removing, or making material changes to any sub-processor.
 - Update this registry and increment the version number upon any change.
