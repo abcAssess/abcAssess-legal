@@ -20,7 +20,7 @@ description: Version 2.1 · Updated June 10, 2026
 3. [Legal and Regulatory Compliance](#3-legal-and-regulatory-compliance)
 4. [Sub-Processors](#4-sub-processors)
 5. [Security Measures](#5-security-measures)
-6. [Data Breach Notification](#6-data-breach-notification)
+6. [Data Breach Notification]#3-legal-and-regulatory-compliance
 7. [Data Subject Rights Assistance](#7-data-subject-rights-assistance)
 8. [Data Retention and Deletion](#8-data-retention-and-deletion)
 9. [Audit Rights](#9-audit-rights)
@@ -103,7 +103,7 @@ description: Version 2.1 · Updated June 10, 2026
   - Ensure that all personnel authorized to process Personal Data are subject to appropriate confidentiality obligations.
   - Implement appropriate technical and organizational security measures as described in [Section 5](#5-security-measures) of this DPA.
   - Assist the Controller in fulfilling its obligations to respond to data subject rights requests, as described in [Section 7](#7-data-subject-rights-assistance) of this DPA.
-  - Delete or return all Personal Data to the Controller upon termination of the service relationship, as described in [Section 8](#8-data-rentention-and-deletion) of this DPA.
+  - Delete or return all Personal Data to the Controller upon termination of the service relationship, as described in [Section 8](#8-data-retention-and-deletion) of this DPA.
   - Make available to the Controller all information reasonably necessary to demonstrate compliance with GDPR Article 28 obligations, and allow for and contribute to audits and inspections as described in [Section 9](#9-audit-rights) of this DPA.
   - Not engage Sub-Processors without prior notice to the Controller, as described in [Section 4](#4-sub-processors) of this DPA.
 
@@ -294,7 +294,7 @@ description: Version 2.1 · Updated June 10, 2026
 
 ## 12. Term and Termination
 
-#### This DPA takes effect on the date the Subscriber creates an account with abcAssess and remains in effect for the duration of the service relationship between the Subscriber and abcAssess. This DPA automatically terminates upon the termination or expiration of the Subscriber's account. [Sections 3 (Legal Compliance)](#3-legal-compliance), [6 (Breach Notification)](#6-breach-notification), [8 (Data Retention and Deletion)](#8-data-retention-and-deletion), and [10 (Subscriber Obligations)](#10-subscriber-obligations) survive termination of this DPA.
+#### This DPA takes effect on the date the Subscriber creates an account with abcAssess and remains in effect for the duration of the service relationship between the Subscriber and abcAssess. This DPA automatically terminates upon the termination or expiration of the Subscriber's account. [Sections 3 (Legal Compliance)](#3-legal-and-regulatory-compliance), [6 (Breach Notification)](#6-data-breach-notification), [8 (Data Retention and Deletion)](#8-data-retention-and-deletion), and [10 (Subscriber Obligations)](#10-subscriber-obligations) survive termination of this DPA.
 
 [Back to top ↑](#)
 
