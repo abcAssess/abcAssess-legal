@@ -252,7 +252,7 @@ We reserve the right, at our own expense, to assume the exclusive defense and co
 ## 13. Dispute Resolution
 
 - **13.1 Informal Resolution**  
-  Before initiating any formal dispute process, you agree to contact us at legal@abcassess.app and give us a reasonable opportunity — at least thirty (30) days — to resolve the dispute informally. Most concerns can be resolved quickly through direct communication.
+  Before initiating any formal dispute process, you agree to contact us at [legal@abcassess.app](mailto:legal@abcassess.app) and give us a reasonable opportunity — at least thirty (30) days — to resolve the dispute informally. Most concerns can be resolved quickly through direct communication.
   
 - **13.2 Mediation**  
   If informal resolution is unsuccessful, any dispute, claim, or controversy arising out of or relating to these Terms or the Service shall be submitted to non-binding mediation before a mutually agreed-upon mediator. Either party may initiate mediation by providing written notice to the other. The parties shall share the costs of mediation equally. If mediation fails to resolve the dispute within sixty (60) days of initiation, either party may pursue legal remedies as set forth below.
