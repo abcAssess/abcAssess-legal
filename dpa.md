@@ -215,7 +215,7 @@ description: Version 2.1 · Updated June 10, 2026
 
 - **In-app data export:** Subscribers may download a complete export of all account and student data at any time through the Reports section of the app.
 - **In-app deletion:** Subscribers may delete individual student records, entire class rosters, or their full account at any time through App Settings.
-- **Manual assistance:** For requests that cannot be fulfilled through the in-app tools, the Subscriber may contact legal@abcassess.app with "Data Request" in the subject line. abcAssess will respond within 30 days.
+- **Manual assistance:** For requests that cannot be fulfilled through the in-app tools, the Subscriber may contact [legal@abcassess.app](mailto:legal@abcassess.app) with "Data Request" in the subject line. abcAssess will respond within 30 days.
 
 #### abcAssess will not respond directly to data subject requests without the Subscriber's prior authorization, unless required to do so by applicable law.
 
@@ -336,7 +336,7 @@ description: Version 2.1 · Updated June 10, 2026
 
 ---
 
-[Accessibility Statement](accessibility.md) &nbsp;-&nbsp; [Privacy Policy](privacy-policy.md) &nbsp;-&nbsp; [Sub-Processor Registry](subprocessory-registry.md) &nbsp;-&nbsp; [Technical FAQs](technical-and-privacy-faqs.md) &nbsp;-&nbsp; [Terms of Service](terms-of-service.md) &nbsp;-&nbsp; [User Guide](User-guide.md)
+[Accessibility Statement](accessibility.md) &nbsp;-&nbsp; [Privacy Policy](privacy-policy.md) &nbsp;-&nbsp; [Sub-Processor Registry](subprocessor-registry.md) &nbsp;-&nbsp; [Technical FAQs](technical-and-privacy-faqs.md) &nbsp;-&nbsp; [Terms of Service](terms-of-service.md) &nbsp;-&nbsp; [User Guide](User-guide.md)
 
 [Return to Support Center](index.md)
 
