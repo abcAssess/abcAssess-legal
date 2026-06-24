@@ -165,7 +165,7 @@ description: Version 2.3 · Updated June 24, 2026
 
   - **Beta Center Discount:** Educational centers or programs that participated in the beta as an institution are entitled to a permanent 20% discount off the then-current center license pricing when center licensing becomes available, provided that at least one teacher from the center actively participated in the beta and completed the end-of-beta survey.
   
-  These benefits are contingent upon completion of the end-of-beta survey by the deadline specified by abcAssess. abcAssess reserves the right to extend survey deadlines on a case-by-case basis at its sole discretion. Beta participants who do not complete the survey by the deadline may contact beta@abcassess.app to request an extension.
+  These benefits are contingent upon completion of the end-of-beta survey by the deadline specified by abcAssess. abcAssess reserves the right to extend survey deadlines on a case-by-case basis at its sole discretion. Beta participants who do not complete the survey by the deadline may contact [beta@abcassess.app](mailto:beta@abcassess.app) to request an extension.
 
 [Back to top ↑](#)
 
