@@ -12,20 +12,21 @@ description: Policies and FAQs
 Welcome to the **abcAssess** legal and support center. We are committed to data privacy and transparency for teachers and schools. 
 
 Please select a document below to learn more about how we protect your privacy and how to make the most of the abcAssess tool:
- 
+
+### **Help & How To**
+* **5-Minute Starter Guide**
+  [*View Online*](5-minute-starter-guide.html) or [*Download PDF](5-minute-starter-guide.pdf)
+* [**User Guide**](User-guide.md)
+
 ### **Legal Documents**
+* [**Beta Participant Terms**](beta-participant-terms.md)
 * [**Data Processing Agreement**](dpa.md)
 * [**Privacy Policy**](privacy-policy.md)
 * [**Terms of Service**](terms-of-service.md)
 
-
 ### **Support & Compliance**
 * [**Accessibility Statement**](accessibility.md)
-* [**Beta Participant Terms**](beta-participant-terms.md)
-* **5-Minute Starter Guide**
-  [*View Online*](5-minute-starter-guide.html) or [*Download PDF](5-minute-starter-guide.pdf)
 * [**Technical & Privacy FAQs**](technical-and-privacy-faqs.md)
-* [**User Guide**](User-guide.md)
 
 ---
 
