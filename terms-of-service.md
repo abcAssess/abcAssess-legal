@@ -112,6 +112,8 @@ description: Version 2.2 · Updated June 9, 2026
 - Share your account credentials with unauthorized individuals or allow unauthorized access to the Service through your account.
 - Use the Service in any manner that violates applicable student data privacy law in your jurisdiction.
 - Use the Service for any unlawful purpose or in any way that could damage, disable, or impair the Service or interfere with other users.
+- Misuse the Service's invitation, sharing, or collaboration features, including by impersonating another educator, sending unsolicited or abusive invitations, creating multiple or fraudulent accounts to circumvent trial limitations or pricing, or using the referral or beta program in bad faith.
+- Upload, share, or transmit any image, audio file, or other content through the Service that you do not have the legal right to use, including content that infringes the copyright, trademark, or other intellectual property rights of a third party.
   
 [Back to top ↑](#)
 
@@ -139,15 +141,31 @@ description: Version 2.2 · Updated June 9, 2026
 
 - **6.5 Free Trial and New Subscription Refund Window**  
   If you are not satisfied with your purchase, you may request a full refund within 48 hours of your first paid charge (new subscriptions only) or within 48 hours of an annual plan renewal charge. This refund window applies to Annual Plan new signups and renewals only. Monthly Plan charges are non-refundable. Refund requests must be submitted to [support@abcassess.app](mailto:support@abcassess.app) within the 48-hour window.
-
+  
+  This refund window addresses dissatisfaction with your purchase generally. For matters relating to service outages, data loss, or other service performance issues, see Section 7 (Disclaimer of Warranties) and Section 8 (Limitation of Liability).
+  
 - **6.6 Cancellation**  
   You may cancel your subscription at any time through your account settings. Cancellation takes effect at the end of your current paid period. You will retain full access to the Service through the end of the period for which you have paid. Cancelling your subscription does not delete your account or your data — these are separate actions.
   
 - **6.7 Price Changes**  
   We reserve the right to change subscription prices. For Monthly Plan subscribers, we will provide at least 30 days notice before a price change takes effect. For Annual Plan subscribers, we will provide at least 60 days notice before a price change takes effect at their next renewal. Notice will be provided by email to the address associated with your account. Continued use of the Service after a price change takes effect constitutes acceptance of the new pricing.
   
-- **6.8 Feature Availability by Plan**  
+-**6.8 Subscription Lapse**  
+  If your subscription lapses for any reason — including non-renewal, failed payment, or procurement delays — your account will retain full access for 30 days from the lapse date. Reminder emails will be sent at lapse, at 14 days, and at 25 days. If the subscription is not renewed within 30 days of lapse, your account will enter a read-only suspended state for a further 60 days during which you may view data, download reports, and export records but cannot run new assessments or add students. A final warning email will be sent at day 85. If no renewal is made by day 90 from the original lapse date, your account and all associated data will be permanently deleted. You may resubscribe at any time during the grace period to immediately restore full access.
+
+- **6.9 Feature Availability by Plan**  
   Features available to you depend on your current subscription plan and status. We reserve the right to modify the features included in each plan with appropriate notice as described in Section 6.7.
+
+- **6.10 Beta Participant Pricing Terms**
+  Educators who participated in the abcAssess beta program prior to public launch are entitled to the following pricing benefits, subject to the terms communicated at the time of their beta enrollment:
+
+  - **Free Year:** Beta participants who complete the end-of-beta survey by the deadline communicated by abcAssess are entitled to one full year of free access to the Service following the public launch date, with the same features available to paid subscribers.
+
+  - **Founding Member Rate:** Following the free year, beta participants are entitled to a permanent 20% discount off the then-current subscription price for as long as they maintain an active subscription. This discount applies to both Monthly and Annual plans and adjusts proportionally if subscription prices change. The Founding Member rate is non-transferable and applies to the individual account only.
+
+  - **Beta Center Discount:** Educational centers or programs that participated in the beta as an institution are entitled to a permanent 20% discount off the then-current center license pricing when center licensing becomes available, provided that at least one teacher from the center actively participated in the beta and completed the end-of-beta survey.
+
+These benefits are contingent upon completion of the end-of-beta survey by the deadline specified by abcAssess. abcAssess reserves the right to extend survey deadlines on a case-by-case basis at its sole discretion. Beta participants who do not complete the survey by the deadline may contact beta@abcassess.app to request an extension.
 
 [Back to top ↑](#)
 
