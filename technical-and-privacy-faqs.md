@@ -14,7 +14,7 @@ description: Version 2.1 · June 18, 2026
 
 This page answers the most common questions from teachers, school administrators, and IT departments about how abcAssess handles data, security, and privacy. Questions marked with an IT Administrator note include additional technical detail for IT evaluation purposes.
 
-For full details, see our Privacy Policy, Terms of Service, and Data Processing Agreement.
+For full details, see our [Privacy Policy](privacy-policy.md), [Terms of Service](tos.md), and [Data Processing Agreement](dpa.md).
 
 ---
 
@@ -333,7 +333,7 @@ The one limitation to be aware of:
   - Founding Member rate — a permanent 20% discount off the then-current subscription price for as long as they maintain an active subscription
   - Beta centers receive a permanent 20% discount off center licensing when that option becomes available
 
-#### See Section 6.10 of the Terms of Service for full details.
+#### See [Section 6.10 of the Terms of Service](tos.md#6-subscription-plans-billing-and-free-trial) for full details.
 
 [Back to top ↑](#)
 
