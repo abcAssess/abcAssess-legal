@@ -14,7 +14,7 @@ description: Version 2.1 · June 18, 2026
 
 This page answers the most common questions from teachers, school administrators, and IT departments about how abcAssess handles data, security, and privacy. Questions marked with an IT Administrator note include additional technical detail for IT evaluation purposes.
 
-For full details, see our [Privacy Policy](privacy-policy.md), [Terms of Service](tos.md), and [Data  Agreement](dpa.md).
+For full details, see our [Privacy Policy](privacy-policy.md), [Terms of Service](terns-of-service.md), and [Data Processing Agreement](dpa.md).
 
 ---
 
