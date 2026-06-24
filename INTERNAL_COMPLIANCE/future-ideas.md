@@ -11,7 +11,67 @@
 - Ideas don't need to be fully thought through to live here — that's the point
 ---
  
-## In-App Feature Discovery
+## Accessibility Settings
+ 
+A dedicated Accessibility section in Settings gives teachers control over features that affect readability, motion, color, and sensory feedback. Accessibility-first defaults where applicable. Organized into three groups:
+ 
+### Visual Accessibility
+ 
+**Proficiency Symbols (Near-term — decided, add to Emergent list)**
+Show/hide ✓ ~ ! — symbols alongside colors in tracking chart, Current Mastery, and Assessment History. Default ON. Recommended for colorblind users. Brief description under toggle: "Shows symbols alongside colors to help distinguish proficiency levels without relying on color alone."
+ 
+**Colorblind Mode (Future)**
+Adjusts color palette specifically for different types of colorblindness (deuteranopia, protanopia, tritanopia). Pattern fills already provide significant accessibility benefit but a dedicated colorblind palette could go further for severe cases.
+ 
+**High Contrast Mode (Future)**
+Increases contrast beyond the standard color scheme for low vision users.
+ 
+**Larger Text (Future)**
+Scales up font sizes throughout the app independently of device system settings.
+ 
+**Bold Text (Future)**
+Makes all text bold throughout the app for easier reading.
+ 
+**Dyslexia-Friendly Font (Future)**
+Option to switch to OpenDyslexic or similar font throughout the app.
+ 
+---
+ 
+### Motion & Sensitivity
+ 
+**Reduced Motion (Near-term priority)**
+Turns off confetti entirely and snaps dialogs/modals open and closed instantly instead of sliding. The app has minimal motion overall — confetti and dialog slide-up animations are the only significant motion elements. Important for users with vestibular disorders, motion sensitivity, or photosensitivity. Also addresses the confetti photosensitivity concern flagged in QA. Default OFF (motion on by default).
+ 
+---
+ 
+### Sensory Feedback
+ 
+**Assessment Sounds (Near-term — easy win)**
+On/off toggle for all assessment audio:
+- Timed mode alert sound (already exists — move under this toggle)
+- Assessment completion chime (new) — subtle sound when a student completes all assessments. Fills the same role as haptic feedback for desktop and tablet users who don't receive haptic buzz. Together they cover all devices: mobile gets haptics + optional sound, desktop/tablet gets sound only, silent classroom gets neither (visual feedback only via confetti/results screen).
+Default ON.
+**Haptics (Near-term — already exists)**
+Vibration feedback when an assessment is completed. Already implemented. Mobile only — toggle hidden on desktop and tablet where haptics are not supported. Default ON.
+ 
+---
+ 
+### Assessment Specific (Future)
+ 
+**Hide Scores During Assessment**
+Some teachers prefer not to see running totals while assessing to avoid unconscious bias toward the end of the assessment. Toggle to hide the score counter during live assessment.
+ 
+**Increased Tap Target Size**
+Makes buttons and interactive elements larger throughout the app for users with motor control difficulties.
+ 
+---
+ 
+### Removed / Not Applicable
+ 
+**Larger Flashcards — removed.**
+Cards already fill approximately half the screen on mobile. If needed in the future, consider larger item text specifically rather than card size.
+ 
+---
  
 ### Periodic Tips & Feature Highlights
 After login, show a periodic tip — either as a dismissable banner at the top of the screen or a small dialog — that highlights features teachers might not have discovered yet. Tips should be:
@@ -102,6 +162,12 @@ Particularly useful for tablet-based assessments in a structured setting. Less c
  
 ## Account & Administrative Features
  
+### Internal Usage Stats — Near-Term: Use MongoDB Atlas Charts (free, no build needed)
+All underlying data (accounts, classes, students, assessment records) already lives in MongoDB. Before building anything custom, use **MongoDB Atlas's built-in Charts feature** — free, point-and-click, no code or Emergent prompt required — to view things like total accounts, total assessments run, active beta usage, etc. directly from existing data.
+ 
+### Internal Stats Dashboard (Future — only if Atlas Charts proves insufficient)
+A polished, in-app, founder-only dashboard summarizing usage (active accounts, total assessments run, most-used assessment types, subscription/trial breakdown once Stripe exists). Worth building only after a few weeks/months of real usage data exist (so the numbers are actually meaningful) AND only if Atlas Charts turns out to be too clunky for regular use. Try the free option first.
+ 
 ### Admin Level Account
 A school or center director level account that sits above individual teacher accounts. Admin would be able to:
 - View all classes across the program
@@ -121,7 +187,18 @@ Centers that participated in the beta period will receive a permanent 20% discou
  
 ## Reports & Data
  
-### IEP Progress Report Type
+### Literacy Report
+A focused report showing progress over time for the three core literacy assessments — Uppercase Letters, Lowercase Letters, and Letter Sounds — on a single multi-line chart. Each assessment would be represented by a distinct line, giving teachers and specialists a quick picture of a student's overall literacy trajectory. Would require a carefully curated colorblind-safe palette where all colors meet WCAG contrast requirements against both dark and light mode backgrounds and are distinguishable from each other.
+ 
+Potential extensions: add Beginning Sounds and Numerals as optional overlays. Could be especially useful for IEP progress monitoring and kindergarten transition reporting.
+ 
+### Multi-Assessment Charts (General Framework)
+Any future report type that shows multiple assessment types on the same chart will need:
+- A curated palette of 6-8 colors that are colorblind accessible AND meet WCAG 3:1 contrast against both navy and cream backgrounds
+- Different line styles (solid, dashed, dotted) as a secondary differentiator alongside color — never rely on color alone
+- A clear legend identifying each line
+- The proficiency symbols accessibility setting should extend to these charts where applicable
+The literacy report would be the first implementation of this framework.
 A specialized report format designed for special education progress monitoring. Details to be determined following summer consultation with ECSE teacher colleague. Considerations include:
 - Goal-based reporting format
 - Baseline vs current performance comparison
@@ -188,4 +265,3 @@ Extremely lightweight assessment logging from a wearable — tap Known/Unknown o
  
 *Add new ideas above the relevant section or create a new section.*
 *Last updated: June 10, 2026*
- 
