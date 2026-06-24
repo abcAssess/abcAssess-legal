@@ -21,6 +21,7 @@ Please select a document below to learn more about how we protect your privacy a
 
 ### **Support & Compliance**
 * [**Accessibility Statement**](accessibility.md)
+* [**Beta Participant Terms**](beta-participant-terms.md)
 * [**Technical & Privacy FAQs**](technical-and-privacy-faqs.md)
 * [**User Guide**](User-guide.md)
 
