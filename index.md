@@ -22,6 +22,7 @@ Please select a document below to learn more about how we protect your privacy a
 * [**Beta Participant Terms**](beta-participant-terms.md)
 * [**Data Processing Agreement**](dpa.md)
 * [**Privacy Policy**](privacy-policy.md)
+* [**Sub-Processor Registry**](subprocessor-registry.md)
 * [**Terms of Service**](terms-of-service.md)
 
 ### **Support & Compliance**
