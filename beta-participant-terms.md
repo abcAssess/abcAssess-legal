@@ -14,11 +14,11 @@ description: Version 1.0 · Updated June 23, 2026
 ---
 
 *Plain-language summary of benefits and expectations for beta participants*
-*These terms are incorporated into the [abcAssess Terms of Service Section 6.10](terms-of-service.md#610-beta-participant-pricing-terms)*
+*These terms are incorporated into the [abcAssess Terms of Service Section 6.10](terms-of-service.md#6-subscription-plans-billing-and-free-trial)*
  
 ---
  
-### Thank you for participating in the abcAssess beta. This document summarizes what you're entitled to as a beta participant and what's expected of you. It's written in plain language — the full legal terms are in Section 6.10 of the [abcAssess Terms of Service](terms-of-service.md#610-beta-participant-pricing-terms).
+### Thank you for participating in the abcAssess beta. This document summarizes what you're entitled to as a beta participant and what's expected of you. It's written in plain language — the full legal terms are in Section 6.10 of the [abcAssess Terms of Service](terms-of-service.md#6#6-subscription-plans-billing-and-free-trial).
  
 ---
  
