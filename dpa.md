@@ -101,16 +101,16 @@ description: Version 2.1 · Updated June 10, 2026
 
   - Process Personal Data only on documented instructions from the Controller (the Subscriber), unless required to do so by applicable law.
   - Ensure that all personnel authorized to process Personal Data are subject to appropriate confidentiality obligations.
-  - Implement appropriate technical and organizational security measures as described in Section 5 of this DPA.
-  - Assist the Controller in fulfilling its obligations to respond to data subject rights requests, as described in Section 7 of this DPA.
-  - Delete or return all Personal Data to the Controller upon termination of the service relationship, as described in Section 8 of this DPA.
-  - Make available to the Controller all information reasonably necessary to demonstrate compliance with GDPR Article 28 obligations, and allow for and contribute to audits and inspections as described in Section 9 of this DPA.
-  - Not engage Sub-Processors without prior notice to the Controller, as described in Section 4 of this DPA.
+  - Implement appropriate technical and organizational security measures as described in [Section 5](#5-security-measures) of this DPA.
+  - Assist the Controller in fulfilling its obligations to respond to data subject rights requests, as described in [Section 7](#7-data-subject-rights-assistance) of this DPA.
+  - Delete or return all Personal Data to the Controller upon termination of the service relationship, as described in [Section 8](#8-data-rentention-and-deletion) of this DPA.
+  - Make available to the Controller all information reasonably necessary to demonstrate compliance with GDPR Article 28 obligations, and allow for and contribute to audits and inspections as described in [Section 9](#9-audit-rights) of this DPA.
+  - Not engage Sub-Processors without prior notice to the Controller, as described in [Section 4](#4-sub-processors) of this DPA.
 
   #### *abcAssess intends to appoint an EU Representative as required by GDPR Article 27 for non-EU establishments processing EU personal data. This DPA will be updated when that appointment is made. Until that time, EU Subscribers may direct inquiries to [legal@abcassess.app](mailto:legal@abcassess.app).*
 
 - **3.4 UK GDPR Compliance (United Kingdom)**  
-  For Subscribers located in the United Kingdom, abcAssess acts as a Data Processor under UK GDPR and commits to the same obligations described in Section 3.3 as applied under UK GDPR. abcAssess intends to appoint a UK Representative as required by UK GDPR Article 27. This DPA will be updated when that appointment is made. Until that time, UK Subscribers may direct inquiries to [legal@abcassess.app](mailto:legal@abcassess.app).
+  For Subscribers located in the United Kingdom, abcAssess acts as a Data Processor under UK GDPR and commits to the same obligations described in [Section 3.3](#3-legal-and-regulatory-compliance) as applied under UK GDPR. abcAssess intends to appoint a UK Representative as required by UK GDPR Article 27. This DPA will be updated when that appointment is made. Until that time, UK Subscribers may direct inquiries to [legal@abcassess.app](mailto:legal@abcassess.app).
   
 - **3.5 PIPEDA Compliance (Canada)**  
   For Subscribers located in Canada, abcAssess complies with PIPEDA with respect to the collection, use, and disclosure of personal information. abcAssess collects only the information necessary to provide the Service, uses it only for the purposes described in this DPA, and retains it only for as long as necessary. Canadian Subscribers may direct privacy inquiries to [legal@abcassess.app](mailto:legal@abcassess.app) with "Canadian Privacy Request" in the subject line.
@@ -270,7 +270,7 @@ description: Version 2.1 · Updated June 10, 2026
 - Ensuring that only authorized personnel access the Service, and that access credentials are kept secure and not shared with unauthorized individuals.
 - Ensuring that any assistant teachers, co-teachers, or other users granted access to the Subscriber's account understand and comply with their obligations under this DPA and applicable law.
 - Notifying abcAssess promptly if the Subscriber becomes aware of any unauthorized access to the Service, any breach of data security involving Student Data, or any complaint or inquiry from a data subject, parent, guardian, or regulatory authority relating to Student Data processed through the Service.
-- Ensuring that data entered into the Service does not exceed the categories described in Section 2 of this DPA and does not include the prohibited data categories listed in Section 5.4.
+- Ensuring that data entered into the Service does not exceed the categories described in [Section 2](#2-scope-and-purpose-of-processing) of this DPA and does not include the prohibited data categories listed in [Section 5.4](#5-security-measures).
 - Maintaining and implementing appropriate data governance policies within the Subscriber's organization governing the use of third-party educational technology tools.
 
 [Back to top ↑](#)
@@ -294,7 +294,7 @@ description: Version 2.1 · Updated June 10, 2026
 
 ## 12. Term and Termination
 
-#### This DPA takes effect on the date the Subscriber creates an account with abcAssess and remains in effect for the duration of the service relationship between the Subscriber and abcAssess. This DPA automatically terminates upon the termination or expiration of the Subscriber's account. Sections 3 (Legal Compliance), 6 (Breach Notification), 8 (Data Retention and Deletion), and 10 (Subscriber Obligations) survive termination of this DPA.
+#### This DPA takes effect on the date the Subscriber creates an account with abcAssess and remains in effect for the duration of the service relationship between the Subscriber and abcAssess. This DPA automatically terminates upon the termination or expiration of the Subscriber's account. [Sections 3 (Legal Compliance)](#3-legal-compliance), [6 (Breach Notification)](#6-breach-notification), [8 (Data Retention and Deletion)](#8-data-retention-and-deletion), and [10 (Subscriber Obligations)](#10-subscriber-obligations) survive termination of this DPA.
 
 [Back to top ↑](#)
 
