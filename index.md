@@ -14,8 +14,8 @@ Welcome to the **abcAssess** legal and support center. We are committed to data 
 Please select a document below to learn more about how we protect your privacy and how to make the most of the abcAssess tool:
 
 ### **Help & How To**
-* **5-Minute Starter Guide**
-  [*View Online*](5-minute-starter-guide.html) or [*Download PDF](5-minute-starter-guide.pdf)
+* **5-Minute Starter Guide**  
+  [*View Online*](5-minute-starter-guide.html) or [*Download PDF*](5-minute-starter-guide.pdf)
 * [**User Guide**](User-guide.md)
 
 ### **Legal Documents**
