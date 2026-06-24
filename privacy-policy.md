@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Privacy Policy
-description: Version 1.2 · Updated June 9, 2026
+description: Version 1.3 · Updated June 24, 2026
 ---
 
 <style>
