@@ -24,7 +24,7 @@ For full details, see our Privacy Policy, Terms of Service, and Data Processing 
 1. [Is abcAssess FERPA and COPPA compliant?](#1-is-abcassess-ferpa-and-coppa-compliant)
 2. [Is abcAssess compliant with GDPR, UK GDPR, or other international privacy laws?](#2-is-abcassess-compliant-with-gdpr-uk-gdpr-or-other-international-privacy-laws)
 3. [Does abcAssess use student data to train AI or machine learning models?](#3-does-abcassess-use-student-data-to-train-ai-or-machine-learning-models)
-4. [What student data does abcAssess collect — and what does it not collect?](#4-what-student-data-does-abcassess-collect--and-what-does-it-not-collect)
+4. [Who owns the data I enter into abcAssess?](#4-who-owns-the-data-I-enter-into-abcAssess)
 5. [Who can see student data inside abcAssess?](#5-who-can-see-student-data-inside-abcassess)
 6. [Can teachers share access with assistants or co-teachers?](#6-can-teachers-share-access-with-assistants-or-co-teachers)
 
