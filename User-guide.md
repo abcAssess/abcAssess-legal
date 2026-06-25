@@ -30,9 +30,9 @@ If you're a teacher who cares deeply about your students and just wants a better
 Welcome. I'm really glad you're here.
  
 — Danielle Andrist
-Founder, abcAssess
-Pre-K Teacher, Fisher School
-Grand Forks, ND
+  - Founder, abcAssess
+  - Pre-K Teacher, Fisher School
+  - Grand Forks, ND
  
 ---
  
@@ -58,56 +58,16 @@ This guide is written teacher-to-teacher. No jargon, no corporate speak — just
 10. [Privacy and Your Students' Data](#privacy-and-your-students-data)
 11. [Troubleshooting and FAQs](#troubleshooting-and-faqs)
 12. [Getting Help](#getting-help)
+
 ---
  
-## Section 1: Getting Started
+# Section 1: Getting Started
  
-### What is abcAssess?
+## What is abcAssess?
  
 abcAssess is an early childhood assessment tool built specifically for teachers like you. Instead of juggling physical flashcards, paper packets, and manual spreadsheet transfers, you assess your students directly in the app — on your phone, tablet, or computer — and your reports generate automatically.
  
 It was built by a Pre-K teacher who got tired of spending more time on paperwork than with her students. Everything about it is designed around how assessment actually happens in a real classroom.
- 
----
- 
-### Creating Your Account
- 
-Go to [**app.abcassess.app**](https://app.abcassess.app) and tap **Sign Up**. You can create an account using:
- 
-- Your email address and a password you choose
-- Your Google account (Sign in with Google)
-- Your Apple ID (Sign in with Apple)
-All three options are equally secure. Use whichever is easiest for you — most teachers find Google or Apple sign-in the fastest since you're probably already signed in on your device.
- 
-You'll have a **14-day free trial** with full access to everything. No credit card required to start.
- 
-**If you sign up with email:** You'll receive a verification email after signing up. Click the link to verify your account before logging in. If you don't see it, check your spam folder.
- 
-**Forgot your password?** Tap **Forgot Password** on the login screen. You'll be prompted to answer a security question you set up when you created your account.
- 
-**Connecting and disconnecting Google or Apple:** You can connect or disconnect your Google or Apple account at any time from **Settings → Password & Security**.
- 
-*[screenshot: sign up screen]* coming soon
-*[screenshot: login screen]* coming soon
- 
----
- 
-### Navigating the App
- 
-Once you're logged in, you'll find five sections in the main navigation:
- 
-**Dashboard** — Your home base. See your class at a glance, check assessment window progress, and get a quick overview of where things stand.
- 
-**My Students** — Your class roster and student management. This is where you add students, start assessments, view student profiles, and manage your class.
- 
-**Reports** — Everything data. Class averages, individual student reports, progress over time, and PDF downloads for conferences and meetings.
- 
-**Settings** — Your account, profile, security, and subscription. Note: assessment settings live on the class page, not here — see [Assessment Settings & Customization](#assessment-settings--customization).
- 
-**Support** — This guide, legal documents, FAQs, and contact information.
- 
-*[screenshot: main navigation — desktop]* coming soon
-*[screenshot: main navigation — mobile]* coming soon
  
 ---
  
@@ -138,8 +98,7 @@ Either way, a **first name is all that's required** for each student. Everything
  
 *[screenshot: add students — onboarding]*
  
-**A note on what to enter:**
-abcAssess asks for as little information as possible about your students — and that's very much on purpose. We take student privacy seriously, and the most effective way to protect data is to not collect it in the first place. We use strong encryption on everything that is stored, but our first line of defense is simply not asking for things we don't need. The less information that exists, the less there is to worry about. Here's what each field is actually for:
+*A note from Danielle: I made a deliberate choice to ask for as little as possible about your students. I know how this works — once a field exists, eventually someone fills it in just because it's there. So I only built in what's actually useful for assessment. A first name. Maybe a last initial if you've got two Emmas. You can enter birth month and year if you want ages to calculate, but I don't even ask for the day because I really don't need it. That's it. We encrypt everything we do store, but the simplest way to protect a kid's information is to never collect it in the first place.*
  
 - **First name** — required. Can be a nickname, a number, or any identifier that works for your classroom.
 - **Last initial** — optional but helpful if you have two students with the same first name.
@@ -510,11 +469,7 @@ Keyboard shortcuts are one of the most useful features in abcAssess — especial
  
 ### Why Keyboard Shortcuts Matter
  
-When you tap a large on-screen button, students can sometimes see your reaction and figure out when they've answered incorrectly. For young children, this can be discouraging — especially late in an assessment when they've already missed a few.
- 
-Keyboard shortcuts let you record responses invisibly. Your expression stays the same for every answer. To your students, it feels like a game on your phone or tablet. They have no idea which answers they got wrong — and that's exactly the point.
- 
-*"Every answer gets the same proud smile."*
+*A note from Danielle: When you tap a large on-screen button, students can sometimes see your reaction and figure out when they've answered incorrectly. For young children, that can be discouraging — especially late in an assessment when they've already missed a few. I discovered this by accident, using arrow keys to record responses faster during a real assessment with my own class. My students had no idea what I was doing. They thought we were playing a game on my phone. My expression stayed the same for every answer, so every answer got the same proud smile — and they never once figured out which ones they'd missed. That changed how I thought about this tool. It wasn't just faster, it was kinder.*
  
 If you're assessing on a phone or tablet without a keyboard, the on-screen buttons are large and easy to tap quickly. Most teachers find they can move through a 26-item assessment in under two minutes once they're comfortable with the flow.
  
@@ -819,13 +774,7 @@ Each built-in assessment comes pre-loaded with items, ready to use without any s
  
 ---
  
-*A note on fonts — from one teacher to another:*
- 
-*You know that moment when a child who clearly knows their letters gets tripped up on a lowercase 'a' or 'g' on a printed assessment? That's a font problem, not a knowledge problem. Most digital tools use whatever default system font comes with the software — which almost always includes a double-story 'a' (the typed version) and a looptail 'g' — neither of which match the manuscript letterforms we actually teach Pre-K and Kindergarten students.*
- 
-*abcAssess uses a font specifically selected to match what children are taught — a single-story 'a', a standard manuscript 'g', and critically, a font where uppercase I, lowercase l, and the numeral 1 are all visually distinct from each other. That last one matters more than most people realize: three characters that look nearly identical in most fonts are three guaranteed sources of confusion in an early childhood assessment.*
- 
-*It's a small thing that makes a real difference in assessment validity. A child who knows their letters and numbers shouldn't miss them because the flashcard shows a form they've never seen.*
+*A note from Danielle: You know that moment when a child who clearly knows their letters trips up on a lowercase 'a' or 'g' on a printed assessment? That's a font problem, not a knowledge problem. Most digital tools just use whatever default font comes with the software, and it usually doesn't match the way we actually teach kids to write their letters in Pre-K. I spent way more time than I'd like to admit hunting down a font that got this right — one with a single-story 'a,' a standard 'g,' and an uppercase I, lowercase l, and numeral 1 that all actually look different from each other. Small thing, but a kid who knows their letters shouldn't miss one just because the screen showed them a version they've never seen.*
  
 *[screenshot: font comparison — double-story 'a' vs single-story 'a', looptail 'g' vs manuscript 'g', I vs l vs 1]*
  
@@ -1824,14 +1773,7 @@ When new features are added or important changes are made, you'll hear about it:
 *Pre-K Teacher, Fisher School, Grand Forks, ND*
  
 ---
-
----
-
-## Contact
-
-#### &nbsp;&nbsp;&nbsp;&nbsp;E-mail: [support@abcassess.app](mailto:support@abcassess.app)
-
-*We aim to respond to all inquiries within 2 business days.*
+ 
 
 ---
 
