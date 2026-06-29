@@ -25,12 +25,14 @@ If you have more to say than the form allows, email me at beta@abcassess.app. I 
 - 2
 - 3 or more
 - I didn't get to set up a class
+
 **2. Approximately how many students did you assess during the beta?**
 - 0 — I didn't get to assess any students
 - 1–5
 - 6–15
 - 16–25
 - 26 or more
+
 **3. Which built-in assessments did you use? (Select all that apply)**
 - Uppercase Letters
 - Lowercase Letters
@@ -41,31 +43,41 @@ If you have more to say than the form allows, email me at beta@abcassess.app. I 
 - Shapes
 - Beginning Sounds
 - I didn't use any built-in assessments
+
 **4. Did you create any custom assessments?**
 - Yes, and I used them with students
 - Yes, but I didn't get to use them with students yet
 - No, but I'd like to
 - No, I don't think I'll need them
+
 **5. Did you invite a co-teacher or assistant to your class?**
 - Yes
 - No, but I'd like to
 - No, it's just me
-**6. Did you generate any reports?**
+
+*If yes, how did it go for you? Were there any issues? Did it work how you expected? Any suggestions to make this piece better?*
+
+**6. Did you generate any reports? (Select all that apply)**
 - Yes — teacher reports
 - Yes — parent/Learning Journey reports
 - Yes — progress reports
 - Yes — class reports
 - No, I haven't tried reports yet
 - No, I don't think I'll use reports
+
 **7. Which devices did you use abcAssess on? (Select all that apply)**
-- Phone (primary)
+- Phone
 - Tablet
 - Laptop or desktop computer
 - Mix of devices
+  
 **8. Did you ever assess students offline (without Wi-Fi)?**
 - Yes
 - No
 - I didn't know that was possible
+
+*If yes, did you encounter any issues with the assessments working offline or syncing when you were back online?*
+
 ---
  
 ## Section 2 — What Worked
@@ -118,13 +130,15 @@ If you have more to say than the form allows, email me at beta@abcassess.app. I 
 - Likely — with a few improvements
 - Unsure — I have some concerns (please share below)
 - Unlikely — it's not quite right for me yet (please share below)
-**20. What would make you more likely to recommend abcAssess to a colleague?**
+
+**20. Please explain why you chose your answer for the previous question.**
 *(Open text)*
  
 **21. Would you be willing to be contacted for a short follow-up conversation about your experience?**
 - Yes, absolutely
 - Maybe — depends on timing
 - No thank you
+
 **22. If yes, what's the best way to reach you?**
 *(Open text — email, phone, etc.)*
  
