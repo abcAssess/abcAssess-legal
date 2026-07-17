@@ -1,5 +1,5 @@
 # abcAssess Beta — End of Beta Survey
-*Google Form draft — to be sent to all beta participants before Fall 2026 launch*
+*Google Form draft — to be sent to all beta participants before January 2027 launch*
 *Completing this survey confirms your free year of access post-launch.*
  
 ---
@@ -173,7 +173,7 @@ Pre-K Teacher, Grand Forks, ND
  
 Hi [Name],
  
-We made it. The abcAssess beta is wrapping up and Fall 2026 launch is right around the corner.
+We made it. The abcAssess beta is wrapping up and January 2027 launch is right around the corner.
  
 Before we get there, I have one ask: please fill out the end-of-beta survey. It's about 5–10 minutes, it helps me understand what worked, what didn't, and what to build next — and completing it is how you confirm your free year of access after launch.
  
