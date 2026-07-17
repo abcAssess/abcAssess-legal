@@ -1,9 +1,9 @@
 # abcAssess Pricing & Subscription Model
-*Working document — not final. Last updated June 2026.*
+*Working document — not final. Last updated July 2026.*
  
 ---
  
-## Launch Plans (Fall 2026)
+## Launch Plans (January 2027)
  
 *Keeping it simple for launch. Academic Year Plan planned for Fall 2027 after gathering real user feedback.*
  
@@ -21,7 +21,7 @@
 - **Natural fit for:** Year-round childcare centers and daycares, Head Start programs, private preschools with year-round enrollment, teachers who run summer school, teachers who want maximum simplicity
 ---
  
-## Launch Pricing Comparison (Fall 2026)
+## Launch Pricing Comparison (January 2027)
  
 | Plan | Price | Access | Best For |
 |---|---|---|---|
@@ -99,7 +99,7 @@ The simplicity plan. Full access, no seasonal restrictions, no thinking about da
  
 ## Future Plans (Fall 2027 — Planned)
  
-*To be built after gathering real user feedback from Fall 2026 launch. Spring 2027 — announce and collect intent. Fall 2027 — launch.*
+*To be built after gathering real user feedback from January 2027 launch. Spring 2027 — announce and collect intent. Fall 2027 — launch.*
  
 ### Academic Year Plan Overview
 - **Planned Price:** $40/year flat for 8–10 month active periods, prorated at $5/month for shorter periods
