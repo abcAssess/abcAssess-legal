@@ -1,6 +1,6 @@
 # abcAssess Pre-Launch Master Checklist
-*Last updated: June 7, 2026*
-*Target launch: Fall 2026*
+*Last updated: July 2026*
+*Target launch: January 2027*
  
 ---
  
@@ -8,7 +8,7 @@
  
 - [ ] Register abcAssess LLC with North Dakota Secretary of State (~$135, businessreg.nd.gov) — **do this soon, student data is live now**
 - [ ] Open business bank account once LLC is registered (Relay or Mercury recommended)
-- [ ] Have attorney review all five legal documents before fall launch — focus on FERPA, COPPA, GDPR, PIPEDA, Australian Privacy Principles, NZ Privacy Act
+- [ ] Have attorney review all five legal documents before January 2027 launch — focus on FERPA, COPPA, GDPR, PIPEDA, Australian Privacy Principles, NZ Privacy Act
 - [ ] Appoint EU GDPR Representative (required for non-EU companies processing EU data) — ~$200-500/year
 - [ ] Appoint UK GDPR Representative (separate from EU) — similar cost
 - [ ] Sign IP Assignment Agreement on same day LLC is registered — not before
@@ -238,9 +238,10 @@ All five documents updated and ready for attorney review:
  
 - [ ] Define "active" threshold for free year eligibility (minimum usage requirement)
 - [ ] Send written confirmation of free year offer to all current beta participants
-- [ ] Grow beta teacher base — target outreach to interested centers before August
-- [ ] Prepare August back-to-school demo for center staff meetings
-- [ ] Set October 1 beta teacher count target
+- [ ] Grow beta teacher base — target outreach to interested centers before September school year start
+- [ ] Prepare back-to-school demo for center staff meetings (August)
+- [ ] Set November 1 beta teacher count target
+- [ ] Beta closes December 2026 — incorporate feedback before January launch
 - [ ] Consider Founding Member rate ($35/year for life) for beta teachers who continue after free year
 ---
  
@@ -251,7 +252,7 @@ All five documents updated and ready for attorney review:
 - [ ] Test complete new user flow: signup → trial → assessment → report → billing
 - [ ] Set up support email routing (support@, legal@, beta@, feedback@abcassess.app)
 - [ ] Prepare launch announcement for beta participants
-- [ ] Prepare social media / outreach strategy for fall launch
+- [ ] Prepare social media / outreach strategy for January 2027 launch
 - [ ] Identify EdTech communities to announce in (Facebook groups, Teachers Pay Teachers, etc.)
 ---
  
