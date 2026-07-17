@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Beta Participant Terms
-description: Version 1.0 · Updated June 23, 2026
+description: Version 1.0 · Updated July 16, 2026
 ---
 
 <style>
@@ -28,7 +28,7 @@ description: Version 1.0 · Updated June 23, 2026
 - **Full free access** to all features in abcAssess for the duration of the beta period
 - No credit card required, no subscription needed
 
-### **After Launch (Fall 2026)**
+### **After Launch (January 2027)**
 - **One free year** of full access following public launch — same features as paid subscribers, no charge
 - To claim your free year: complete the end-of-beta survey by the deadline Danielle sends you. If you miss the deadline, reach out to [beta@abcassess.app](mailto:beta@abcassess.app) — she'll work with you.
 
