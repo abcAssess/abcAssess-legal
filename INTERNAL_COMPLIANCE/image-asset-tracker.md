@@ -22,9 +22,9 @@ Secondary source: **Pixabay** (pixabay.com) — photos and illustrations, no att
 | bs-h-house.png | H | cream house with red roof | https://www.svgrepo.com/svg/513309/house | 7/18/26 | |
 | bs-i-igloo.png | I | black and white igloo | https://www.svgrepo.com/svg/517014/igloo | 7/18/26 | |
 | bs-j-jellyfish.png | J | blue jellyfish | https://www.svgrepo.com/svg/299003/jellyfish | 7/18/26 | |
-| bs-k- .png | K | | | | |
-| bs-l- .png | L | | | | |
-| bs-m- .png | M | | | | |
+| bs-k-key.png | K | gold key | https://www.svgrepo.com/svg/484416/key | 7/18/26 | |
+| bs-l-lion.png | L | lion face | https://www.svgrepo.com/svg/402086/lion-face | 7/18/26 | |
+| bs-m-mouse.png | M | small grey mouse whole body | https://www.svgrepo.com/svg/397540/mouse | 7/18/26 | |
 | bs-n- .png | N | | | | |
 | bs-o- .png | O | | | | |
 
