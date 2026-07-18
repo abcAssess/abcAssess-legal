@@ -6,10 +6,13 @@
  
 ## Beginning Sounds Assessment
  
-Primary sources: **Pixabay** (pixabay.com) and **Flaticon** (flaticon.com) — both free for commercial use, no attribution required.
+Primary source: **SVGRepo** (svgrepo.com) — large library of clean, simple SVG illustrations, many CC0/public domain license, no attribution required. SVG format renders crisply at any size on flashcards.
+ 
+Secondary source: **Pixabay** (pixabay.com) — photos and illustrations, no attribution required, free for commercial use.
  
 | Filename | Sound | Description | Source | Date Added | Notes |
 |---|---|---|---|---|---|
+| Apple Food Fruit | A | whole apple and slice | https://www.svgrepo.com/svg/454328/apple-food-fruit | 7/18/26 | |
 | | | | | | |
  
 ---
