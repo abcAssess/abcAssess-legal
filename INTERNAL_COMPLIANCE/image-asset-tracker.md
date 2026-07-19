@@ -28,16 +28,16 @@ Secondary source: **Pixabay** (pixabay.com) — photos and illustrations, no att
 | bs-n-ninja.png | N | ninja head and shoulders | https://www.svgrepo.com/svg/406717/ninja | 7/18/26 | |
 | bs-o-octopus.png | O | orange octopus | https://www.svgrepo.com/svg/400550/octopus | 7/18/26 | |
 | bs-p-penguin.png | P | full penguin | https://www.svgrepo.com/svg/402309/penguin | 7/18/26 | |
-| bs-p-.png | Q | queen head and shoulders | https://www.svgrepo.com/svg/317455/queen | 7/18/26 | |
-| bs-p-.png | R |  |  | 7/18/26 | |
-| bs-p-.png | S |  |  | 7/18/26 | |
-| bs-p-.png | T |  |  | 7/18/26 | |
-| bs-p-.png | U |  |  | 7/18/26 | |
-| bs-p-.png | V |  |  | 7/18/26 | |
-| bs-p-.png | W |  |  | 7/18/26 | |
-| bs-p-.png | X |  |  | 7/18/26 | |
-| bs-p-.png | Y |  |  | 7/18/26 | |
-| bs-p-.png | Z |  |  | 7/18/26 | |
+| bs-q-queen.png | Q | queen head and shoulders | https://www.svgrepo.com/svg/317455/queen | 7/18/26 | |
+| bs-r-rainbow.png | R | cloud and rainbow half arc | https://www.svgrepo.com/svg/402548/rainbow | 7/18/26 | |
+| bs-s-sun.png | S | yellow and gold sun | https://www.svgrepo.com/svg/402758/sun | 7/18/26 | |
+| bs-t-tiger.png | T | orange and black tiger profile | https://www.svgrepo.com/svg/398493/tiger | 7/18/26 | |
+| bs-u-umbrella.png | U | blue and green umbrella | https://www.svgrepo.com/svg/513366/umbrella | 7/18/26 | |
+| bs-v-volcano.png | V | brown volcano with orange and red lava | https://www.svgrepo.com/svg/398567/volcano | 7/18/26 | |
+| bs-w-web.png | W | black spider web | https://www.svgrepo.com/svg/426952/web | 7/18/26 | |
+| bs-x-xylophone.png | X | rainbow xylophone | https://www.svgrepo.com/svg/484919/xylophone | 7/18/26 | |
+| bs-yoyo-.png | Y | red yo-yo | https://www.svgrepo.com/svg/398724/yo-yo | 7/18/26 | |
+| bs-z-zebra.png | Z | black and white zebra head profile | https://www.svgrepo.com/svg/398726/zebra | 7/18/26 | |
 
 ---
  
