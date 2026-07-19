@@ -42,4 +42,3 @@ Secondary source: **Pixabay** (pixabay.com) — photos and illustrations, no att
 ---
  
 *Before adding any image, confirm it is free for commercial use on the source site.*
-*Preferred sources: Pixabay, Flaticon. Avoid Google Images, Pinterest, and Canva stock elements.*
