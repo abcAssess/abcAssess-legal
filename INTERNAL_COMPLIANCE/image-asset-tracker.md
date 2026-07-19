@@ -18,7 +18,7 @@ Secondary source: **Pixabay** (pixabay.com) — photos and illustrations, no att
 | bs-d-dog.png | D | whole brown dog profile | https://www.svgrepo.com/svg/405227/dog | 7/18/26 | |
 | bs-e-elephant.png | E | whole light blue elephant profile | https://www.svgrepo.com/svg/401455/elephant | 7/18/26 | |
 | bs-f-fish.png | F | whole blue fish profile | https://www.svgrepo.com/svg/396487/fish | 7/18/26 | |
-| bs-g-guitar.png | G | yellow lectric guitar | https://www.svgrepo.com/svg/401888/guitar | 7/18/26 | |
+| bs-g-gorilla.png | G | black and grey gorilla | https://www.svgrepo.com/svg/396574/gorilla | 7/18/26 | |
 | bs-h-house.png | H | cream house with red roof | https://www.svgrepo.com/svg/513309/house | 7/18/26 | |
 | bs-i-igloo.png | I | black and white igloo | https://www.svgrepo.com/svg/517014/igloo | 7/18/26 | |
 | bs-j-jellyfish.png | J | blue jellyfish | https://www.svgrepo.com/svg/299003/jellyfish | 7/18/26 | |
@@ -36,7 +36,7 @@ Secondary source: **Pixabay** (pixabay.com) — photos and illustrations, no att
 | bs-v-volcano.png | V | brown volcano with orange and red lava | https://www.svgrepo.com/svg/398567/volcano | 7/18/26 | |
 | bs-w-web.png | W | black spider web | https://www.svgrepo.com/svg/426952/web | 7/18/26 | |
 | bs-x-xylophone.png | X | rainbow xylophone | https://www.svgrepo.com/svg/484919/xylophone | 7/18/26 | |
-| bs-yoyo-.png | Y | red yo-yo | https://www.svgrepo.com/svg/398724/yo-yo | 7/18/26 | |
+| bs-yoyo.png | Y | red yo-yo | https://www.svgrepo.com/svg/398724/yo-yo | 7/18/26 | |
 | bs-z-zebra.png | Z | black and white zebra head profile | https://www.svgrepo.com/svg/398726/zebra | 7/18/26 | |
 
 ---
