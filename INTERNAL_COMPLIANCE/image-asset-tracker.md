@@ -25,8 +25,19 @@ Secondary source: **Pixabay** (pixabay.com) — photos and illustrations, no att
 | bs-k-key.png | K | gold key | https://www.svgrepo.com/svg/484416/key | 7/18/26 | |
 | bs-l-lion.png | L | lion face | https://www.svgrepo.com/svg/402086/lion-face | 7/18/26 | |
 | bs-m-mouse.png | M | small grey mouse whole body | https://www.svgrepo.com/svg/397540/mouse | 7/18/26 | |
-| bs-n- .png | N | | | | |
-| bs-o- .png | O | | | | |
+| bs-n-ninja.png | N | ninja head and shoulders | https://www.svgrepo.com/svg/406717/ninja | 7/18/26 | |
+| bs-o-octopus.png | O | orange octopus | https://www.svgrepo.com/svg/400550/octopus | 7/18/26 | |
+| bs-p-penguin.png | P | full penguin | https://www.svgrepo.com/svg/402309/penguin | 7/18/26 | |
+| bs-p-.png | Q | queen head and shoulders | https://www.svgrepo.com/svg/317455/queen | 7/18/26 | |
+| bs-p-.png | R |  |  | 7/18/26 | |
+| bs-p-.png | S |  |  | 7/18/26 | |
+| bs-p-.png | T |  |  | 7/18/26 | |
+| bs-p-.png | U |  |  | 7/18/26 | |
+| bs-p-.png | V |  |  | 7/18/26 | |
+| bs-p-.png | W |  |  | 7/18/26 | |
+| bs-p-.png | X |  |  | 7/18/26 | |
+| bs-p-.png | Y |  |  | 7/18/26 | |
+| bs-p-.png | Z |  |  | 7/18/26 | |
 
 ---
  
