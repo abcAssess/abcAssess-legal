@@ -36,7 +36,7 @@ Secondary source: **Pixabay** (pixabay.com) — photos and illustrations, no att
 | bs-v-volcano.png | V | brown volcano with orange and red lava | https://www.svgrepo.com/svg/398567/volcano | 7/18/26 | |
 | bs-w-web.png | W | black spider web | https://www.svgrepo.com/svg/426952/web | 7/18/26 | |
 | bs-x-xylophone.png | X | rainbow xylophone | https://www.svgrepo.com/svg/484919/xylophone | 7/18/26 | |
-| bs-yoyo.png | Y | red yo-yo | https://www.svgrepo.com/svg/398724/yo-yo | 7/18/26 | |
+| bs-y-yoyo.png | Y | red yo-yo | https://www.svgrepo.com/svg/398724/yo-yo | 7/18/26 | |
 | bs-z-zebra.png | Z | black and white zebra head profile | https://www.svgrepo.com/svg/398726/zebra | 7/18/26 | |
 
 ---
