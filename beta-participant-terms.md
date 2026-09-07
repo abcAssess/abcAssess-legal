@@ -86,7 +86,7 @@ Before launch, Danielle will send a short survey (about 5–10 minutes). Complet
  
 ## Questions
  
-Reach out to Danielle directly at [beta@abcassess.app](mailto:beta@abcassess.app). She reads everything.
+Reach out to Danielle directly at [danielle@abcassess.app](mailto:danielle@abcassess.app). It's just me here and I read everything.
 
 [Back to top ↑](#)
 
