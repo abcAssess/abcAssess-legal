@@ -34,7 +34,7 @@ Please select a document below to learn more about how we protect your privacy a
 ## Contact
 
 #### &nbsp;&nbsp;&nbsp;&nbsp; For general questions and support: [danielle@abcassess.app](mailto:danielle@abcassess.app)
-#### &nbsp;&nbsp;&nbsp;&nbsp; For legal concerns or assistance: [legal@abcassess.app](mailto:preschoolontheprairie@abcassess.app)
+#### &nbsp;&nbsp;&nbsp;&nbsp; For legal concerns or assistance: [legal@abcassess.app](mailto:legal@abcassess.app)
 *It's just me here, but I aim to respond to all inquiries within 2 business days.*
 
 ---
