@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Accessibility Statement
-description: Version 2.3 · Updated September 4, 2026
+description: Version 2.4 · Updated September 4, 2026
 ---
 
 <style>
