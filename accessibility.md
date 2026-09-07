@@ -152,7 +152,7 @@ We treat accessibility reports as high-priority feedback and use them to inform 
 |---|---|
 | **Email** | [danielle@abcassess.app](mailto:danielle@abcassess.app) |
 | **Subject Line** | Please include "Accessibility" in your subject line |
-| **Response Time** | Acknowledgment within 2 business days; resolution plan within 10 |
+| **Response Time** | It's just me here, but I aim to respond within 2 business days |
 
 [Back to top ↑](#)
 
