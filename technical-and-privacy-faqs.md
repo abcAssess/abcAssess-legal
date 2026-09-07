@@ -380,7 +380,7 @@ The one limitation to be aware of:
 | **Legal & Privacy** | [legal@abcassess.app](mailto:legal@abcassess.app) |
 | **DPA Requests** | [legal@abcassess.app](mailto:legal@abcassess.app) — include "DPA Request" in subject |
 | **Security Questions** | [legal@abcassess.app](mailto:legal@abcassess.app) — include "Security" in subject |
-| **Response Time** | We aim to respond within 2 business days |
+| **Response Time** | It's just me here, but I aim to respond within 2 business days |
 | **Full Documentation** | [Privacy Policy](privacy-policy.md), [Terms of Service](terms-of-service.md), [DPA](dpa.md), and [Accessibility Statement](accessibility.md) at the [abcAssess Support Center](index.md) |
 
 [Back to top ↑](#)
