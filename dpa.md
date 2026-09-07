@@ -135,12 +135,13 @@ description: Version 2.1 · Updated June 10, 2026
   
 | Sub-Processor | Role | Data Location | Certification |
 |---|---|---|---|
-| ***MongoDB Atlas*** | Encrypted database storage | Configurable (US default; EU region planned for UK/EU users) | *SOC 2 Type II, ISO 27001* |
+| ***MongoDB Atlas*** | Encrypted database storage | U.S. only; an EU region is not currently planned but may be considered if sufficient interest arises | *SOC 2 Type II, ISO 27001* |
 | ***Railway*** | Backend processing and encryption key management | United States | *SOC 2 Type II* |
 | ***Vercel*** | Application UI hosting and edge delivery | Global CDN / US primary | *SOC 2 Type II* |
 | ***Google / Apple*** | Federated authentication (Sign-In) | Per provider policy | *ISO 27001, SOC 2* |
+| ***Loops*** | Automated onboarding email sequence delivery | United States | *SOC 2 (independent trust portal)* |
 | ***Resend*** | Transactional email delivery | United States | *SOC 2 Type II* |
-| ***Stripe*** | Payment processing and subscription management | United States / Global | *SOC 2 Type II, PCI DSS Level 1* |
+| ***Stripe*** | Payment processing and subscription management (integration planned for end of beta period) | United States / Global | *SOC 2 Type II, PCI DSS Level 1* |
 | ***PostHog*** | Anonymized product analytics and feature usage tracking — no student PII collected | US / EU | *SOC 2 Type II* |
 | ***Sentry*** | Anonymized error monitoring and application stability — no student PII collected | United States | *SOC 2 Type II* |
 
