@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Technical and Privacy FAQs
-description: Version 2.1 · June 18, 2026
+description: Version 2.3 · September 4, 2026
 ---
 
 <style>
@@ -62,7 +62,7 @@ For full details, see our [Privacy Policy](privacy-policy.md), [Terms of Service
 
 ### Yes - fully.
 
-#### abcAssess acts as a "School Official" under FERPA, meaning we process student data only for legitimate educational purposes and only under the direction of the teacher or school. We practice strict data minimization: to identify students, we collect only a first name and last initial (optional) and birth month and year (optional, stored as a YYYY-MM value). We never collect full legal names, exact birth dates, home addresses, or any student-generated media such as photos or videos. Under COPPA, we never use student data for advertising, profiling, or any commercial purpose. Students do not create accounts or interact with the platform directly.
+#### abcAssess acts as a "School Official" under FERPA, meaning we process student data only for legitimate educational purposes and only under the direction of the teacher or school. We practice strict data minimization: to identify students, we collect only a first name and last initial (optional) and birth month and year (optional, stored as a YYYY-MM value). Schools that prefer not to enter actual student names may instead enter any non-identifying label or internal identifier of their choosing in the first name field. We never collect full legal names, exact birth dates, home addresses, or any student-generated media such as photos or videos. Under COPPA, we never use student data for advertising, profiling, or any commercial purpose. Students do not create accounts or interact with the platform directly.
 
 [Back to top ↑](#)
 
@@ -150,7 +150,7 @@ Our full [Data Processing Agreement](dpa.md), which satisfies GDPR Article 28 re
 
 ### Yes — we use standard email authentication protocols to prevent spoofing.
 
-#### All outbound emails from abcAssess — including password resets, system notifications, and account alerts — are sent through authenticated channels. We implement DMARC, SPF, and DKIM email authentication protocols, which means your email provider can verify that messages claiming to be from abcAssess are genuine. If you ever receive a suspicious email claiming to be from abcAssess, do not click any links — contact us directly at [support@abcassess.app](mailto:support@abcassess.app).
+#### All outbound emails from abcAssess — including password resets, system notifications, and account alerts — are sent through authenticated channels. We implement DMARC, SPF, and DKIM email authentication protocols, which means your email provider can verify that messages claiming to be from abcAssess are genuine. If you ever receive a suspicious email claiming to be from abcAssess, do not click any links — contact us directly at [danielle@abcassess.app](mailto:danielle@abcassess.app).
 
 - **IT Administrator note:** Outbound email is handled through Resend using dedicated sending subdomains protected by HSTS. DMARC policy enforcement, unified SPF records, and DKIM signing are configured to prevent spoofing and ensure deliverability and authenticity of all system messages.
 
@@ -196,15 +196,16 @@ Our full [Data Processing Agreement](dpa.md), which satisfies GDPR Article 28 re
 
 #### abcAssess uses a small set of carefully selected infrastructure providers, each with strong security certifications:
 
-| Provider | Role | Data Location | Certification |
-|---|---|---|---|
-| MongoDB Atlas | Encrypted database storage | United States (EU region planned for UK/EU users) | SOC 2 Type II, ISO 27001 |
-| Railway | Backend processing and encryption key management | United States | SOC 2 Type II |
-| Vercel | Application hosting and edge delivery | Global CDN / U.S. primary | SOC 2 Type II |
-| Resend | Transactional email delivery | United States | SOC 2 Type II |
-| Stripe | Payment processing | United States / Global | SOC 2 Type II, PCI DSS Level 1 |
-| PostHog | Anonymized product analytics — no student PII collected | U.S. / EU | SOC 2 Type II |
-| Sentry | Anonymized error monitoring — no student PII collected | United States | SOC 2 Type II |
+| Provider | Role | Certification |
+|---|---|---|
+| MongoDB Atlas | Encrypted database storage | SOC 2 Type II, ISO 27001 |
+| Railway | Backend processing and encryption key management | SOC 2 Type II |
+| Vercel | Application hosting and edge delivery | SOC 2 Type II |
+| Resend | Transactional email delivery | SOC 2 Type II |
+| Loops | Automated onboarding email sequence delivery | SOC 2 (independent trust portal) |
+| PostHog | Anonymized product analytics | SOC 2 Type II |
+| Sentry | Anonymized error monitoring | SOC 2 Type II |
+| Stripe | Payment processing (planned for end of beta period) | SOC 2 Type II, PCI DSS Level 1 |
 
 #### Data is stored in the United States by default. We are planning to expand to EU/UK-based database infrastructure as our user base in those regions grows. UK and EU Subscribers should review our [Data Processing Agreement](dpa.md) for details on applicable international transfer mechanisms.
 
@@ -327,7 +328,7 @@ The one limitation to be aware of:
 - 14-day free trial: All new accounts start with a full-featured free trial. No payment information required during the trial — a valid payment method is needed at the end to continue.
 - Monthly Plan — $5/month: Full access to all features, billed month-to-month. Cancel anytime.
 - Annual Plan — $50/year: Full access to all features for 12 months. Saves $10 versus monthly. Renews automatically each year.
-- School and district pricing: Available for organizations with multiple teachers. Contact us at [support@abcassess.app](mailto:support@abcassess.app) for pricing information.
+- School and district pricing: Available for organizations with multiple teachers. Contact us at [danielle@abcassess.app](mailto:danielle@abcassess.app) for pricing information.
 - Beta participant pricing: Teachers who participated in the abcAssess beta program receive the following benefits:
   - One full year of free access following public launch, upon completion of the end-of-beta survey
   - Founding Member rate — a permanent 20% discount off the then-current subscription price for as long as they maintain an active subscription
