@@ -269,9 +269,9 @@ If you have questions, concerns, or requests regarding this Privacy Policy or ou
 
 | | |
 |---|---|
-| **General Support** | [support@abcassess.app](mailto:support@abcassess.app) |
+| **General Support** | [danielle@abcassess.app](mailto:danielle@abcassess.app) |
 | **Legal & Privacy Requests** | [legal@abcassess.app](mailto:legal@abcassess.app) |
-| **Response Time** | We aim to respond within 2 business days |
+| **Response Time** | It's just me here, but I aim to respond within 2 business days. |
 
 #### For jurisdiction-specific privacy requests please include the following in your subject line:
 - GDPR/UK GDPR inquiries: "GDPR Request"
