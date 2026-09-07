@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Sub-Processor Registry
-description: Version 2.1 · Last Reviewed June 7, 2026
+description: Version 2.4 · Last Reviewed September 4, 2026
 ---
 
 <style>
@@ -31,6 +31,7 @@ This registry lists all third-party sub-processors engaged by abcAssess to proce
   - [Vercel](#vercel-inc)
   - [Resend](#resend-resend-inc)
   - [Google LLC](#google-llc-sign-in-with-google)
+  - [Loops](#loops-astrodon-corporation)
   - [Apple Inc.](#apple-inc-sign-in-with-apple)
   - [Stripe](#stripe-inc)
   - [PostHog](#posthog-inc)
@@ -50,7 +51,7 @@ This registry lists all third-party sub-processors engaged by abcAssess to proce
 |---|---|
 | **Role** | Encrypted database storage for all student records, assessment data, and account information. |
 | **Data Transmitted** | Encrypted student identifiers, encrypted assessment scores, and teacher account data. All sensitive fields are encrypted before reaching this layer. |
-| **Data Location** | United States (configurable). EU region available on request and planned for UK/EU users as those markets grow. |
+| **Data Location** | United States. An EU region is not currently planned, but may be considered in the future if sufficient interest arises from UK/EU users. |
 | **Transfer Mechanism** | Standard Contractual Clauses (SCCs) for EU/UK transfers. EU-U.S. Data Privacy Framework certified. |
 | **Certifications** | SOC 2 Type II, ISO 27001, AES-256 at rest, TLS 1.3 in transit |
 | **Privacy Policy** | [mongodb.com/legal/privacy-policy](https://mongodb.com/legal/privacy-policy) |
@@ -104,6 +105,21 @@ This registry lists all third-party sub-processors engaged by abcAssess to proce
 
 ---
 
+### Loops (Astrodon Corporation)
+ 
+| Field | Detail |
+|---|---|
+| **Role** | Automated onboarding email sequence delivery. Sends a scheduled series of educational/feature-focus emails to teachers over their first weeks after signing up, separate from Resend's transactional messages. |
+| **Data Transmitted** | Teacher email address and teacher name for the purpose of sequence enrollment and email personalization. No student names, assessment scores, or student PII transmitted. |
+| **Data Location** | United States |
+| **Transfer Mechanism** | SCCs for EU/UK transfers. EU-U.S. Data Privacy Framework certified (including UK Extension and Swiss-U.S. DPF). |
+| **Certifications** | SOC 2 (verified via independent trust portal) |
+| **Privacy Policy** | [loops.so/privacy](https://loops.so/privacy) |
+ 
+[Back to top ↑](#)
+ 
+---
+
 ### Google LLC (Sign in with Google)
 
 | Field | Detail |
@@ -138,7 +154,7 @@ This registry lists all third-party sub-processors engaged by abcAssess to proce
 
 | Field | Detail |
 |---|---|
-| **Role** | Payment processing and subscription management. Handles all billing transactions, subscription renewals, plan changes, and tax collection (VAT/GST). |
+| **Role** | Payment processing and subscription management. Handles all billing transactions, subscription renewals, plan changes, and tax collection (VAT/GST). Integration planned for end of beta period — not yet active while beta participants receive free access. |
 | **Data Transmitted** | Teacher name, email address, payment card details, billing address, and subscription status. No student data transmitted. |
 | **Data Location** | United States / Global |
 | **Transfer Mechanism** | SCCs for EU/UK transfers. EU-U.S. Data Privacy Framework certified. GDPR DPA available. |
@@ -155,7 +171,7 @@ This registry lists all third-party sub-processors engaged by abcAssess to proce
 |---|---|
 | **Role** | Anonymized product analytics and feature usage tracking. Records high-level application events to inform product development decisions. |
 | **Data Transmitted** | Anonymized event data only — no student names, scores, or PII transmitted. Events include anonymized actions such as assessment completed, report downloaded, and feature used. IP addresses are anonymized before processing. Person profiles are disabled. |
-| **Data Location** | United States (U.S. Cloud). EU Cloud available and under consideration for UK/EU users. |
+| **Data Location** | United States (U.S. Cloud). An EU Cloud option is not currently in use, but may be considered in the future if sufficient interest arises from UK/EU users. |
 | **Transfer Mechanism** | SCCs for EU/UK transfers. GDPR DPA available. |
 | **Certifications** | SOC 2 Type II |
 | **Privacy Policy** | [posthog.com/privacy](https://posthog.com/privacy) |
@@ -241,9 +257,12 @@ The following tools are used by abcAssess in connection with platform developmen
 
 | Date | Version | Change Type | Description |
 |---|---|---|---|
-| May 18, 2026 | 1.0 | Initial Publication | Registry first published with four sub-processors: MongoDB Atlas, Railway, Vercel, Resend. |
-| May 30, 2026 | 2.0 | Addition / Expansion | Added Google LLC and Apple Inc. as authentication sub-processors. Added data location, transfer mechanism, and privacy policy columns. Added client-side encryption note. Corrected Vercel certification to ISO 27001:2022. |
+| September 4, 2026 | 2.4 | Update | Softened EU region language for MongoDB Atlas and PostHog to accurately reflect no current plans. Added end-of-beta qualifier to Stripe entry, since payment processing is not yet active during the beta period. Added Loops to the registry (previously missing despite being added elsewhere). Corrected Change Log ordering. |
+| August 24, 2026 | 2.3 | Addition | Added Loops (Astrodon Corporation) as a new sub-processor for automated onboarding email sequence delivery. Clarified Resend's role to distinguish its transactional/one-time-welcome scope from Loops' ongoing sequence scope. |
+| July 27, 2026 | 2.2 | Update | Expanded Resend scope description to reflect full email template suite (invitations, transfers, assessment sharing, onboarding sequence). Updated next scheduled review date. No new sub-processors added. |
 | June 7, 2026 | 2.1 | Addition / Expansion | Added Stripe (payment processing), PostHog (anonymized analytics), and Sentry (error monitoring) to main registry. Added Infrastructure and Development Tools section listing five tools that process no personal data: Uptime Robot, GitHub, Emergent AI, Anthropic (Claude AI), and Cloudflare. Updated contact email to legal@abcassess.app. Removed mailing address. Updated company name to abcAssess (pending LLC formation). |
+| May 30, 2026 | 2.0 | Addition / Expansion | Added Google LLC and Apple Inc. as authentication sub-processors. Added data location, transfer mechanism, and privacy policy columns. Added client-side encryption note. Corrected Vercel certification to ISO 27001:2022. |
+| May 18, 2026 | 1.0 | Initial Publication | Registry first published with four sub-processors: MongoDB Atlas, Railway, Vercel, Resend. |
 
 [Back to top ↑](#)
 
