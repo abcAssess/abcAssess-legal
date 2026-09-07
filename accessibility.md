@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Accessibility Statement
-description: Version 2.2 · Updated June 16, 2026
+description: Version 2.3 · Updated September 4, 2026
 ---
 
 <style>
@@ -27,7 +27,7 @@ description: Version 2.2 · Updated June 16, 2026
 
 ## Our Commitment
 
-#### At abcAssess, we believe every teacher deserves access to high-quality classroom assessment tools — regardless of ability. We are committed to ensuring that our web platform and native iOS and Android applications are accessible to educators and administrators with diverse abilities.
+#### At abcAssess, we believe every teacher deserves access to high-quality classroom assessment tools — regardless of ability. We are committed to ensuring that our web-based platform, fully accessible on desktop, tablet, and mobile browsers, is usable by educators and administrators with diverse abilities. We deliberately built abcAssess web-first so it works across the widest possible range of devices without requiring a specific app install. Dedicated native iOS and Android applications are the next major step on our roadmap, planned once the web platform's mobile and tablet experience is fully refined; this statement will be updated to reflect their accessibility features once they are available.
 
 #### We continually audit, test, and improve our interfaces to provide a seamless and supportive experience for all users. Accessibility is not an afterthought — it is built into our design and development process from the start.
 
@@ -39,9 +39,9 @@ description: Version 2.2 · Updated June 16, 2026
 
 ## Conformance Status
 
-#### The Web Content Accessibility Guidelines (WCAG) define technical requirements for making digital content accessible to people with disabilities. abcAssess is designed to meet WCAG 2.1 Level AA across both our web platform and native mobile applications.
+#### The Web Content Accessibility Guidelines (WCAG) define technical requirements for making digital content accessible to people with disabilities. abcAssess is designed to meet WCAG 2.1 Level AA on our web-based platform, including on mobile and tablet browsers.
 
-**Current Status:** Partially Conformant with WCAG 2.1 Level AA. This means that some parts of our platform do not yet fully meet all guidelines. We are actively working toward full conformance and provide the known limitations and our remediation roadmap below. Users who encounter a specific barrier may request an accessible alternative by contacting us at [support@abcassess.app](mailto:support@abcassess.app).
+**Current Status:** Partially Conformant with WCAG 2.1 Level AA. This means that some parts of our platform do not yet fully meet all guidelines. We are actively working toward full conformance and provide the known limitations and our remediation roadmap below. Users who encounter a specific barrier may request an accessible alternative by contacting us at [danielle@abcassess.app](mailto:danielle@abcassess.app).
 
 [Back to top ↑](#)
 
@@ -52,10 +52,10 @@ description: Version 2.2 · Updated June 16, 2026
 #### abcAssess implements the following accessibility features across our web and mobile platforms: 
 
 - **Screen Reader Support**  
-  Our web platform uses semantic HTML landmarks and structured heading elements (H1, H2, etc.) to support screen reader navigation. Our native iOS and Android applications include explicit accessibility labels on all interactive elements to ensure compatibility with VoiceOver (iOS) and TalkBack (Android).
+  Our web platform uses semantic HTML landmarks and structured heading elements (H1, H2, etc.) to support screen reader navigation, including VoiceOver on iOS/macOS and TalkBack on Android when accessing abcAssess through a mobile browser.
 
 - **Keyboard and Switch Access**  
-  Our web platform is fully navigable using a standard keyboard, with visible focus indicators on all interactive elements. Our mobile applications are optimized for use with iOS Switch Control, Android Switch Access, and standard assistive gesture navigation.
+  Our web platform is fully navigable using a standard keyboard, with visible focus indicators on all interactive elements. On mobile and tablet browsers, abcAssess is designed to work with standard assistive gesture navigation and platform-level switch access tools.
 
 - **Color Contrast**  
   Our core color palette enforces a minimum contrast ratio of 4.5:1 between text and background elements, meeting WCAG 2.1 Level AA requirements. This supports readability in a range of lighting conditions, including brightly lit classroom environments.
@@ -66,7 +66,7 @@ description: Version 2.2 · Updated June 16, 2026
   - ✓ Proficient (sage green)
   - ~ Developing (amber)
   - ! Emerging (terracotta)
-  - — Not Applicable (grey)
+  - ⛔ Skipped (grey)
   
   This system appears in the in-app tracking chart, individual student profiles (Current Mastery and Assessment History), and throughout all printed and PDF reports. In reports, proficiency zones are additionally represented by pattern fills (diagonal lines, horizontal lines, and dots) alongside colors, ensuring full accessibility in black-and-white print output. This system was designed specifically to support educators with color vision deficiencies and meets WCAG 2.1 Success Criterion 1.4.1 (Use of Color).  
 
@@ -85,7 +85,7 @@ description: Version 2.2 · Updated June 16, 2026
   abcAssess supports optional audio prompts during assessments, including teacher-recorded audio for custom assessment items. This feature supports educators working with diverse learners and allows teachers to provide consistent, accessible verbal prompts without relying solely on visual content. Teachers can enable or disable audio prompts per assessment type in their assessment settings.
   
 - **Touch Target Sizing**  
-  All interactive elements on our native mobile applications — including buttons, toggles, and list items — maintain a minimum tap target size of 48x48 pixels, consistent with WCAG 2.1 Success Criterion 2.5.5 and platform guidelines from Apple and Google.
+  Interactive elements on our web platform — including buttons, toggles, and list items — are designed to meet a minimum tap target size of 48x48 pixels on mobile and tablet devices, consistent with WCAG 2.1 Success Criterion 2.5.5. We are actively testing and refining touch target sizing across a range of mobile and tablet devices as part of our ongoing mobile optimization work — see Known Limitations below.
   
 - **Text Alternatives for Images**  
   Non-decorative system images include descriptive text alternatives. For teacher-uploaded instructional content — such as custom assessment images or audio prompts — our assessment builder provides fields for educators to assign their own descriptive labels within their content library. abcAssess cannot guarantee the accessibility of user-generated content, but we provide the tools to support it.
@@ -98,8 +98,9 @@ description: Version 2.2 · Updated June 16, 2026
 
 #### We are transparent about the areas of our platform that do not yet meet full WCAG 2.1 Level AA conformance. We are actively working to address each of the following:
   
+  - **Mobile & Tablet Optimization:** We are in the process of testing and refining the mobile and tablet browser experience — including layout, touch target sizing, and screen sizing across devices. Some visual and interaction issues specific to smaller screens may still be present while this work is ongoing. Dedicated native iOS and Android applications are the next major step on our roadmap, planned once this mobile web refinement is complete.
   - **Complex Data Visualizations:** Class-wide analytics dashboards, historical progress charts, and report snapshots do not yet include comprehensive text or audio equivalents for all visual data. We are working to add accessible data table alternatives and descriptive summaries for these views.
-  - **Accessible Data Exports:** We are developing accessible, high-contrast CSV data exports for all roster summaries and student progress records. This feature is currently in development. Users who need immediate access to data in an alternative format may contact us at support@abcassess.app and we will work to accommodate the request manually.
+  - **Accessible Data Exports:** We are developing accessible, high-contrast CSV data exports for all roster summaries and student progress records. This feature is currently in development. Users who need immediate access to data in an alternative format may contact us at danielle@abcassess.app and we will work to accommodate the request manually.
   - **User-Generated Content:** abcAssess cannot guarantee the accessibility of assessment content, images, or templates created or shared by other teachers using the platform. We encourage all educators to use the descriptive labeling tools available in the assessment builder when creating or sharing content.
 
 [Back to top ↑](#)
@@ -149,7 +150,7 @@ We treat accessibility reports as high-priority feedback and use them to inform 
 
 | | |
 |---|---|
-| **Email** | [support@abcassess.app](mailto:support@abcassess.app) |
+| **Email** | [danielle@abcassess.app](mailto:danielle@abcassess.app) |
 | **Subject Line** | Please include "Accessibility" in your subject line |
 | **Response Time** | Acknowledgment within 2 business days; resolution plan within 10 |
 
