@@ -291,9 +291,9 @@ We reserve the right, at our own expense, to assume the exclusive defense and co
 
 | | |
 |---|---|
-| **General Support** | [support@abcassess.app](mailto:support@abcassess.app) |
+| **General Support** | [danielle@abcassess.app](mailto:danielle@abcassess.app) |
 | **Legal & Terms Issues** | [legal@abcassess.app](mailto:legal@abcassess.app) |
-| **Response Time** | We aim to respond within 2 business days |
+| **Response Time** | It's just me here, but I aim to respond within 2 business days |
 
 [Back to top ↑](#)
 
