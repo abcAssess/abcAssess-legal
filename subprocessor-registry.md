@@ -289,7 +289,7 @@ For questions about this registry, requests for sub-processor DPA documentation,
 |---|---|
 | **Email** | [legal@abcassess.app](legal@abcassess.app) |
 | **Subject Line** | Include "Sub-Processor" in your subject line |
-| **Response Time** | Within 2 business days for general inquiries; within 14 days for formal objections |
+| **Response Time** | It's just me here, but I aim to respond within 2 business days |
 | **DPA Documentation** | Available upon request — include "DPA Documentation Request" in subject line |
 | **Next Scheduled Review** | November 30, 2026 |
 
