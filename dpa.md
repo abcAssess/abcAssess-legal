@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Data Processing Agreement (DPA)
-description: Version 2.1 · Updated June 10, 2026
+description: Version 2.2 · Updated September 4, 2026
 ---
 
 <style>
