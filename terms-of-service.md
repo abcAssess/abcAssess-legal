@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Terms of Service
-description: Version 2.3 · Updated June 24, 2026
+description: Version 2.3 · Updated Sept. 4, 2026
 ---
 
 <style>
@@ -134,13 +134,13 @@ description: Version 2.3 · Updated June 24, 2026
   - Additional plans may be introduced from time to time and will be described at the point of purchase.
 <br><br>
 - **6.3 Billing and Payment**  
-  All subscriptions are processed through our payment processor (currently Stripe). By providing payment information, you authorize us to charge your payment method for all applicable subscription fees. All prices are displayed in USD unless otherwise indicated. Applicable taxes including VAT (UK/Ireland) and GST (Australia/New Zealand) will be calculated and collected automatically at checkout.
+  Beta participants receive full free access with no payment required (see [Section 6.10](#6-subscription-plans-billing-and-free-trial)). Once billing begins at the end of the beta period, all subscriptions will be processed through our payment processor (Stripe). By providing payment information, you authorize us to charge your payment method for all applicable subscription fees. All prices are displayed in USD unless otherwise indicated. Applicable taxes including VAT (UK/Ireland) and GST (Australia/New Zealand) will be calculated and collected automatically at checkout.
   
 - **6.4 Auto-Renewal**  
   All plans renew automatically unless cancelled before the renewal date. You will receive a reminder email before each renewal. You can cancel auto-renewal at any time through your account settings.
 
 - **6.5 Free Trial and New Subscription Refund Window**  
-  If you are not satisfied with your purchase, you may request a full refund within 48 hours of your first paid charge (new subscriptions only) or within 48 hours of an annual plan renewal charge. This refund window applies to Annual Plan new signups and renewals only. Monthly Plan charges are non-refundable. Refund requests must be submitted to [support@abcassess.app](mailto:support@abcassess.app) within the 48-hour window.
+  If you are not satisfied with your purchase, you may request a full refund within 48 hours of your first paid charge (new subscriptions only) or within 48 hours of an annual plan renewal charge. This refund window applies to Annual Plan new signups and renewals only. Monthly Plan charges are non-refundable. Refund requests must be submitted to [danielle@abcassess.app](mailto:danielle@abcassess.app) within the 48-hour window.
   
   This refund window addresses dissatisfaction with your purchase generally. For matters relating to service outages, data loss, or other service performance issues, see [Section 7 (Disclaimer of Warranties)](#7-disclaimer-of-warranties) and [Section 8 (Limitation of Liability)](#8-limitation-of-liability).
   
