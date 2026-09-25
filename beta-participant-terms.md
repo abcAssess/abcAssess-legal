@@ -30,7 +30,7 @@ description: Version 1.0 · Updated July 16, 2026
 
 ### **After Launch (January 2027)**
 - **One free year** of full access following public launch — same features as paid subscribers, no charge
-- To claim your free year: complete the end-of-beta survey by the deadline Danielle sends you. If you miss the deadline, reach out to [beta@abcassess.app](mailto:beta@abcassess.app) — she'll work with you.
+- To claim your free year: complete the end-of-beta survey by the deadline Danielle sends you. If you miss the deadline, reach out to [danielle@abcassess.app](mailto:danielle@abcassess.app) — she'll work with you.
 
 ### **Ongoing — Founding Member Rate**
 - After your free year, you'll never pay full price
