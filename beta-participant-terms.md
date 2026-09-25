@@ -56,7 +56,7 @@ Try features you might not reach for every day — reports, custom assessments, 
 Send feedback whenever something occurs to you — broken things, confusing things, ideas, wishes, vague feelings that something isn't quite right. No message is too small. If you think of five things in one day, send five messages.
  
 - **In-app:** Beta Feedback button
-- **Email:** [beta@abcassess.app](mailto:beta@abcassess.app)
+- **Email:** [danielle@abcassess.app](mailto:danielle@abcassess.app)
   
 ### **Complete the End-of-Beta Survey**
 Before launch, Danielle will send a short survey (about 5–10 minutes). Completing it is what confirms your free year. If you didn't use abcAssess much during beta, fill it out anyway — that feedback matters too.
