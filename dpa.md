@@ -328,7 +328,7 @@ description: Version 2.2 · Updated September 4, 2026
 
 | | |
 |---|---|
-| **General Support** | [support@abcassess.app](mailto:support@abcassess.app) |
+| **General Support** | [danielle@abcassess.app](mailto:danielle@abcassess.app) |
 | **Legal & Data  Requests** | [legal@abcassess.app](mailto:legal@abcassess.app) |
 | **Response Time** | It's just me here, but I aim to respond within 2 business days. |
 | **Substantive Response** | Within 30 days |
