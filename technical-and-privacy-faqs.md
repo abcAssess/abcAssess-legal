@@ -376,7 +376,7 @@ The one limitation to be aware of:
 
 | | |
 |---|---|
-| **General Support** | [support@abcassess.app](mailto:support@abcassess.app) |
+| **General Support** | [danielle@abcassess.app](mailto:danielle@abcassess.app) |
 | **Legal & Privacy** | [legal@abcassess.app](mailto:legal@abcassess.app) |
 | **DPA Requests** | [legal@abcassess.app](mailto:legal@abcassess.app) — include "DPA Request" in subject |
 | **Security Questions** | [legal@abcassess.app](mailto:legal@abcassess.app) — include "Security" in subject |
